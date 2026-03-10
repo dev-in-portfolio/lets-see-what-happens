@@ -1,0 +1,28 @@
+{
+  "name": "wordz-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "cap:sync": "npx cap sync",
+    "android:add": "npx cap add android",
+    "android:open": "npx cap open android",
+    "android:release:apk": "cd android && ./gradlew assembleRelease",
+    "android:release:aab": "cd android && ./gradlew bundleRelease"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.6.0",
+    "@capacitor/cli": "^7.6.0",
+    "@capacitor/core": "^7.6.0",
+    "docx": "^9.6.0",
+    "jspdf": "^4.2.0",
+    "mammoth": "^1.11.0",
+    "quill": "^2.0.3"
+  }
+}
