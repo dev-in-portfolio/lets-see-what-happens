@@ -1,0 +1,67 @@
+name: Android Release Build
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main", "wordz"]
+  pull_request:
+    branches: ["main", "wordz"]
+
+jobs:
+  build-android:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build web assets
+        run: npm run build
+
+      - name: Sync Capacitor Android project
+        run: npm run cap:sync
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+          cache: gradle
+
+      - name: Ensure Gradle wrapper is executable
+        run: chmod +x android/gradlew
+
+      - name: Build release APK and AAB
+        working-directory: android
+        run: ./gradlew assembleRelease bundleRelease --stacktrace
+
+      - name: Upload APK artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: wordz-release-apk
+          path: android/app/build/outputs/apk/release/*.apk
+          if-no-files-found: error
+
+      - name: Upload AAB artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: wordz-release-aab
+          path: android/app/build/outputs/bundle/release/*.aab
+          if-no-files-found: error
+
+      - name: Upload ProGuard/R8 mapping (if present)
+        uses: actions/upload-artifact@v4
+        with:
+          name: wordz-release-mapping
+          path: android/app/build/outputs/mapping/release/mapping.txt
+          if-no-files-found: ignore
