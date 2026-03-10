@@ -47,14 +47,21 @@ jobs:
         run: chmod +x ./gradlew
         working-directory: wordz-app/android
 
-      - name: Build release APK and AAB
-        run: ./gradlew assembleRelease bundleRelease --stacktrace
+      - name: Build debug + release artifacts
+        run: ./gradlew assembleDebug assembleRelease bundleRelease --stacktrace
         working-directory: wordz-app/android
 
-      - name: Upload APK artifacts
+      - name: Upload installable debug APK
         uses: actions/upload-artifact@v4
         with:
-          name: wordz-release-apk
+          name: wordz-installable-apk-debug
+          path: wordz-app/android/app/build/outputs/apk/debug/*.apk
+          if-no-files-found: error
+
+      - name: Upload release APK artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: wordz-release-apk-unsigned
           path: wordz-app/android/app/build/outputs/apk/release/*.apk
           if-no-files-found: error
 
