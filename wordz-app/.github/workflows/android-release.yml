@@ -44,10 +44,12 @@ jobs:
           cache: gradle
 
       - name: Ensure Gradle wrapper is executable
-        run: chmod +x android/gradlew
+        run: chmod +x ./gradlew
+        working-directory: wordz-app/android
 
       - name: Build release APK and AAB
-        run: ./android/gradlew assembleRelease bundleRelease --stacktrace
+        run: ./gradlew assembleRelease bundleRelease --stacktrace
+        working-directory: wordz-app/android
 
       - name: Upload APK artifacts
         uses: actions/upload-artifact@v4
