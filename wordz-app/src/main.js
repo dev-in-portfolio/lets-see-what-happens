@@ -417,27 +417,27 @@ app.innerHTML = `
           </select>
         </span>
         <span class="ql-formats">
-          <button class="ql-bold"></button>
-          <button class="ql-italic"></button>
-          <button class="ql-underline"></button>
-          <button class="ql-strike"></button>
-          <button class="ql-link"></button>
+          <button class="ql-bold" title="Bold"></button>
+          <button class="ql-italic" title="Italic"></button>
+          <button class="ql-underline" title="Underline"></button>
+          <button class="ql-strike" title="Strikethrough"></button>
+          <button class="ql-link" title="Add link"></button>
           <button id="unlink-format" type="button" aria-label="Remove link">Unlink</button>
         </span>
         <span class="ql-formats">
-          <select class="ql-color"></select>
-          <select class="ql-background"></select>
-          <button class="ql-clean"></button>
+          <select class="ql-color" title="Text color"></select>
+          <select class="ql-background" title="Highlight color"></select>
+          <button class="ql-clean" title="Clear formatting"></button>
         </span>
         <span class="ql-formats">
-          <button class="ql-list" value="ordered"></button>
-          <button class="ql-list" value="bullet"></button>
-          <button class="ql-indent" value="-1"></button>
-          <button class="ql-indent" value="+1"></button>
-          <button class="ql-align" value=""></button>
-          <button class="ql-align" value="center"></button>
-          <button class="ql-align" value="right"></button>
-          <button class="ql-align" value="justify"></button>
+          <button class="ql-list" value="ordered" title="Numbered list"></button>
+          <button class="ql-list" value="bullet" title="Bullet list"></button>
+          <button class="ql-indent" value="-1" title="Outdent"></button>
+          <button class="ql-indent" value="+1" title="Indent"></button>
+          <button class="ql-align" value="" title="Align left"></button>
+          <button class="ql-align" value="center" title="Align center"></button>
+          <button class="ql-align" value="right" title="Align right"></button>
+          <button class="ql-align" value="justify" title="Justify"></button>
         </span>
       </div>
 

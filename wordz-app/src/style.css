@@ -655,6 +655,9 @@ body {
   border-bottom: 1px solid var(--line);
   background: linear-gradient(180deg, #152738 0%, #132333 100%);
   padding: 0.22rem 0.26rem;
+  position: sticky;
+  top: 0;
+  z-index: 4;
 }
 
 #editor-shell,
@@ -689,6 +692,17 @@ body {
 .ql-toolbar.ql-snow {
   border: none;
   color: #dce9ee;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.32rem;
+  align-items: center;
+}
+
+.ql-toolbar.ql-snow .ql-formats {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.16rem;
+  margin-right: 0;
 }
 
 .ql-toolbar.ql-snow .ql-stroke {
@@ -710,6 +724,34 @@ body {
 .ql-toolbar.ql-snow .ql-picker-options {
   background: #132838;
   border-color: #34556a;
+}
+
+.ql-snow .ql-picker.ql-color,
+.ql-snow .ql-picker.ql-background {
+  width: 96px;
+}
+
+.ql-snow .ql-picker.ql-color .ql-picker-label,
+.ql-snow .ql-picker.ql-background .ql-picker-label {
+  display: inline-flex;
+  align-items: center;
+  min-width: 92px;
+  padding-right: 24px;
+}
+
+.ql-snow .ql-picker.ql-color .ql-picker-label::before,
+.ql-snow .ql-picker.ql-color .ql-picker-item::before {
+  content: "Text";
+}
+
+.ql-snow .ql-picker.ql-background .ql-picker-label::before,
+.ql-snow .ql-picker.ql-background .ql-picker-item::before {
+  content: "Highlight";
+}
+
+.ql-snow .ql-picker.ql-color .ql-picker-options,
+.ql-snow .ql-picker.ql-background .ql-picker-options {
+  min-width: 120px;
 }
 
 #unlink-format {
