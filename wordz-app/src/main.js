@@ -121,6 +121,26 @@ const normalizeLineSpacing = (value) => {
   return isValidLineSpacing(trimmed) ? Number(trimmed).toFixed(2) : null;
 };
 
+const normalizeHexColor = (value, fallback = "#1f2a30") => {
+  const trimmed = String(value || "").trim();
+  return /^#(?:[0-9a-fA-F]{6})$/.test(trimmed) ? trimmed.toLowerCase() : fallback;
+};
+
+const hexToRgb = (value) => {
+  const normalized = normalizeHexColor(value).slice(1);
+  return [
+    parseInt(normalized.slice(0, 2), 16),
+    parseInt(normalized.slice(2, 4), 16),
+    parseInt(normalized.slice(4, 6), 16),
+  ];
+};
+
+const resolveDocxRunDefaults = () => ({
+  color: normalizeHexColor(layoutState.fontColor).slice(1).toUpperCase(),
+  size: Math.round((parseFloat(layoutState.baseFontSize) || 12) * 2),
+  font: FONT_FAMILIES[layoutState.fontFamily]?.label || "Arial",
+});
+
 const HEADER_SPACE_PX = 36;
 const FOOTER_SPACE_PX = 36;
 
@@ -266,6 +286,14 @@ app.innerHTML = `
           </select>
         </label>
 
+        <label class="layout-control">Color
+          <input id="font-color" class="layout-input layout-color" type="color" value="#1f2a30" />
+        </label>
+
+        <label class="layout-control">Size
+          <input id="base-font-size" class="layout-input layout-size" type="number" step="1" min="9" max="24" value="12" />
+        </label>
+
         <label class="layout-control">Theme
           <select id="typography-theme-select">
             <option value="classic">Classic</option>
@@ -392,13 +420,24 @@ app.innerHTML = `
           <button class="ql-bold"></button>
           <button class="ql-italic"></button>
           <button class="ql-underline"></button>
+          <button class="ql-strike"></button>
+          <button class="ql-link"></button>
+          <button id="unlink-format" type="button" aria-label="Remove link">Unlink</button>
+        </span>
+        <span class="ql-formats">
+          <select class="ql-color"></select>
+          <select class="ql-background"></select>
+          <button class="ql-clean"></button>
         </span>
         <span class="ql-formats">
           <button class="ql-list" value="ordered"></button>
           <button class="ql-list" value="bullet"></button>
+          <button class="ql-indent" value="-1"></button>
+          <button class="ql-indent" value="+1"></button>
           <button class="ql-align" value=""></button>
           <button class="ql-align" value="center"></button>
           <button class="ql-align" value="right"></button>
+          <button class="ql-align" value="justify"></button>
         </span>
       </div>
 
@@ -456,8 +495,11 @@ const spellcheckToggleEl = document.querySelector("#spellcheck-toggle");
 const templateSelectEl = document.querySelector("#template-select");
 const styleSelectEl = document.querySelector("#style-select");
 const fontFamilySelectEl = document.querySelector("#font-family-select");
+const fontColorEl = document.querySelector("#font-color");
+const baseFontSizeEl = document.querySelector("#base-font-size");
 const typographyThemeSelectEl = document.querySelector("#typography-theme-select");
 const applyTypographyThemeEl = document.querySelector("#apply-typography-theme");
+const unlinkFormatEl = document.querySelector("#unlink-format");
 const pagePreviewEl = document.querySelector("#page-preview");
 const findPanelEl = document.querySelector("#find-panel");
 const findInputEl = document.querySelector("#find-input");
@@ -535,6 +577,7 @@ const loadLayout = () => {
     margin: "1.00",
     lineSpacing: "1.25",
     fontFamily: "source_sans",
+    fontColor: "#1f2a30",
     typographyTheme: "classic",
     baseFontSize: "12",
     headerText: "",
@@ -552,6 +595,7 @@ const loadLayout = () => {
       margin: parsedMargin || fallback.margin,
       lineSpacing: parsedLine || fallback.lineSpacing,
       fontFamily: FONT_FAMILIES[parsed.fontFamily] ? parsed.fontFamily : fallback.fontFamily,
+      fontColor: normalizeHexColor(parsed.fontColor, fallback.fontColor),
       typographyTheme: TYPO_THEMES[parsed.typographyTheme] ? parsed.typographyTheme : fallback.typographyTheme,
       baseFontSize:
         Number.isFinite(Number(parsed.baseFontSize)) && Number(parsed.baseFontSize) >= 9 && Number(parsed.baseFontSize) <= 24
@@ -760,11 +804,14 @@ const applyLayout = () => {
   document.documentElement.style.setProperty("--editor-line-height", layoutState.lineSpacing);
   document.documentElement.style.setProperty("--doc-font-family", FONT_FAMILIES[layoutState.fontFamily]?.css || FONT_FAMILIES.source_sans.css);
   document.documentElement.style.setProperty("--doc-base-font-size", `${layoutState.baseFontSize || "12"}pt`);
+  document.documentElement.style.setProperty("--doc-font-color", normalizeHexColor(layoutState.fontColor));
 
   pageSizeEl.value = layoutState.pageSize;
   pageMarginEl.value = layoutState.margin;
   lineSpacingEl.value = layoutState.lineSpacing;
   fontFamilySelectEl.value = layoutState.fontFamily;
+  fontColorEl.value = normalizeHexColor(layoutState.fontColor);
+  baseFontSizeEl.value = layoutState.baseFontSize || "12";
   typographyThemeSelectEl.value = layoutState.typographyTheme;
   headerTextEl.value = layoutState.headerText;
   footerTextEl.value = layoutState.footerText;
@@ -804,7 +851,7 @@ const setupCommandMenus = () => {
     layout: [pageSizeEl?.closest("label"), pageMarginEl?.closest("label"), lineSpacingEl?.closest("label"), headerTextEl, footerTextEl, pageNumbersEl?.closest("label"), spellcheckToggleEl?.closest("label")],
     review: [toggleSuggestButton, toggleVersionsButton, toggleCommentsButton, addCommentButton],
     insert: [insertTableButton, insertImageButton],
-    styles: [toggleStyleManagerButton, toggleTemplateManagerButton, templateSelectEl?.closest("label"), applyTemplateButton, styleSelectEl?.closest("label"), applyStyleButton, fontFamilySelectEl?.closest("label"), typographyThemeSelectEl?.closest("label"), applyTypographyThemeEl],
+    styles: [toggleStyleManagerButton, toggleTemplateManagerButton, templateSelectEl?.closest("label"), applyTemplateButton, styleSelectEl?.closest("label"), applyStyleButton, fontFamilySelectEl?.closest("label"), fontColorEl?.closest("label"), baseFontSizeEl?.closest("label"), typographyThemeSelectEl?.closest("label"), applyTypographyThemeEl],
     sync: [syncExportButton, syncImportButton],
   };
 
@@ -2452,6 +2499,7 @@ const exportPdf = async () => {
   const marginPts = marginCssToPt(layoutState.margin);
   const pdf = new jsPDF({ unit: "pt", format: layoutState.pageSize });
   const pageWidth = pdf.internal.pageSize.getWidth();
+  const [r, g, b] = hexToRgb(layoutState.fontColor);
 
   pages.forEach((bodyHtml, index) => {
     if (index > 0) pdf.addPage(layoutState.pageSize);
@@ -2481,7 +2529,8 @@ const exportPdf = async () => {
     }
 
     pdf.setFont(resolvePdfFontFamily(), "normal");
-    pdf.setFontSize(12);
+    pdf.setFontSize(parseFloat(layoutState.baseFontSize) || 12);
+    pdf.setTextColor(r, g, b);
     const width = pageWidth - marginPts * 2;
     const lines = pdf.splitTextToSize(text, width);
     pdf.text(lines, marginPts, marginPts + 26, { baseline: "top" });
@@ -2495,12 +2544,14 @@ const exportPdf = async () => {
 const inlineRunsFromNode = async (node, docx, style = {}) => {
   const { TextRun, ImageRun } = docx;
   const runs = [];
+  const runDefaults = resolveDocxRunDefaults();
 
   if (node.nodeType === Node.TEXT_NODE) {
     if (!node.textContent) return runs;
     runs.push(
       new TextRun({
         text: node.textContent,
+        ...runDefaults,
         bold: !!style.bold,
         italics: !!style.italics,
         underline: style.underline ? {} : undefined,
@@ -2514,7 +2565,7 @@ const inlineRunsFromNode = async (node, docx, style = {}) => {
   const tag = node.tagName.toLowerCase();
 
   if (tag === "br") {
-    runs.push(new TextRun({ break: 1, text: "" }));
+    runs.push(new TextRun({ break: 1, text: "", ...runDefaults }));
     return runs;
   }
 
@@ -2539,7 +2590,7 @@ const inlineRunsFromNode = async (node, docx, style = {}) => {
         );
       }
     } catch {
-      runs.push(new TextRun({ text: "[Image unavailable]" }));
+      runs.push(new TextRun({ text: "[Image unavailable]", ...runDefaults }));
     }
     return runs;
   }
@@ -2562,7 +2613,7 @@ const paragraphFromElement = async (element, docx, opts = {}) => {
   const { AlignmentType, HeadingLevel, Paragraph, TextRun } = docx;
   const tag = element.tagName.toLowerCase();
   const runs = await inlineRunsFromNode(element, docx);
-  const safeRuns = runs.length ? runs : [new TextRun("")];
+  const safeRuns = runs.length ? runs : [new TextRun({ text: "", ...resolveDocxRunDefaults() })];
 
   const headingMap = {
     h1: HeadingLevel.HEADING_1,
@@ -2595,13 +2646,14 @@ const paragraphFromElement = async (element, docx, opts = {}) => {
 };
 
 const tableFromElement = async (tableEl, docx) => {
-  const { Table, TableRow, TableCell, Paragraph, WidthType } = docx;
+  const { Table, TableRow, TableCell, Paragraph, WidthType, TextRun } = docx;
+  const runDefaults = resolveDocxRunDefaults();
   const rows = Array.from(tableEl.querySelectorAll("tr")).map((row) => {
     const cells = Array.from(row.querySelectorAll("th,td")).map((cell) => {
       const text = cell.textContent?.trim() || " ";
       return new TableCell({
         width: { size: 100 / Math.max(1, row.children.length), type: WidthType.PERCENTAGE },
-        children: [new Paragraph(text)],
+        children: [new Paragraph({ children: [new TextRun({ text, ...runDefaults })] })],
       });
     });
     return new TableRow({ children: cells });
@@ -2610,16 +2662,17 @@ const tableFromElement = async (tableEl, docx) => {
 };
 
 const htmlToDocxChildren = async (html, docx) => {
-  const { Paragraph } = docx;
+  const { Paragraph, TextRun } = docx;
   const root = document.createElement("div");
   root.innerHTML = html || "<p><br></p>";
   const out = [];
+  const runDefaults = resolveDocxRunDefaults();
 
   const nodes = Array.from(root.childNodes);
   for (const node of nodes) {
     if (node.nodeType === Node.TEXT_NODE) {
       const text = (node.textContent || "").trim();
-      if (text) out.push(new Paragraph(text));
+      if (text) out.push(new Paragraph({ children: [new TextRun({ text, ...runDefaults })] }));
       continue;
     }
     if (node.nodeType !== Node.ELEMENT_NODE) continue;
@@ -2648,15 +2701,16 @@ const htmlToDocxChildren = async (html, docx) => {
     out.push(await paragraphFromElement(node, docx));
   }
 
-  return out.length ? out : [new Paragraph("")];
+  return out.length ? out : [new Paragraph({ children: [new TextRun({ text: "", ...runDefaults })] })];
 };
 
 const exportDocx = async () => {
   const docx = await ensureDocxModule();
-  const { AlignmentType, Document, Header, Footer, HeadingLevel, Packer, Paragraph, TextRun } = docx;
+  const { AlignmentType, Document, Footer, Header, HeadingLevel, Packer, PageNumber, Paragraph, TextRun } = docx;
   saveActiveDoc();
   const docState = activeDoc();
   const contentChildren = await htmlToDocxChildren(quill.root.innerHTML, docx);
+  const runDefaults = resolveDocxRunDefaults();
 
   const wordDoc = new Document({
     numbering: {
@@ -2681,7 +2735,7 @@ const exportDocx = async () => {
       {
         headers: {
           default: new Header({
-            children: [new Paragraph({ children: [new TextRun(layoutState.headerText || "")] })],
+            children: [new Paragraph({ children: [new TextRun({ text: layoutState.headerText || "", ...runDefaults })] })],
           }),
         },
         footers: {
@@ -2689,9 +2743,9 @@ const exportDocx = async () => {
             children: [
               new Paragraph({
                 children: [
-                  new TextRun(layoutState.footerText || ""),
+                  new TextRun({ text: layoutState.footerText || "", ...runDefaults }),
                   ...(layoutState.showPageNumbers
-                    ? [new TextRun({ text: "   " }), new TextRun({ children: ["PAGE"] })]
+                    ? [new TextRun({ text: "   ", ...runDefaults }), new TextRun({ children: [PageNumber.CURRENT], ...runDefaults })]
                     : []),
                 ],
               }),
@@ -2700,7 +2754,7 @@ const exportDocx = async () => {
         },
         children: [
           new Paragraph({
-            text: docState.title,
+            children: [new TextRun({ text: docState.title, ...runDefaults })],
             heading: HeadingLevel.TITLE,
           }),
           ...contentChildren,
@@ -2745,10 +2799,10 @@ const printDocument = () => {
       <head>
         <title>${doc.title}</title>
         <style>
-          :root { --line: ${layoutState.lineSpacing}; }
-          body { margin: 0; background: #f0f0f0; font-family: ${printFont}; }
+          :root { --line: ${layoutState.lineSpacing}; --font-size: ${layoutState.baseFontSize || "12"}pt; --font-color: ${normalizeHexColor(layoutState.fontColor)}; }
+          body { margin: 0; background: #f0f0f0; font-family: ${printFont}; font-size: var(--font-size); color: var(--font-color); }
           .print-page { width: ${PAGE_PRESETS[layoutState.pageSize].width}; min-height: ${PAGE_PRESETS[layoutState.pageSize].minHeight}; margin: 10mm auto; box-sizing: border-box; background: #fff; padding: ${layoutState.margin}in; display: grid; grid-template-rows: 36px 1fr 36px; }
-          .print-page .body { line-height: var(--line); }
+          .print-page .body { line-height: var(--line); font-size: var(--font-size); color: var(--font-color); }
           .print-page footer { display: flex; justify-content: space-between; }
           .print-page { page-break-after: always; }
           .print-page:last-child { page-break-after: auto; }
@@ -2876,6 +2930,28 @@ fontFamilySelectEl.addEventListener("change", () => {
   setStatus("Font updated");
 });
 
+fontColorEl.addEventListener("input", () => {
+  layoutState.fontColor = normalizeHexColor(fontColorEl.value);
+  persistLayout();
+  applyLayout();
+  schedulePreviewRender();
+  setStatus("Font color updated");
+});
+
+baseFontSizeEl.addEventListener("change", () => {
+  const next = Number(baseFontSizeEl.value);
+  if (!Number.isFinite(next) || next < 9 || next > 24) {
+    baseFontSizeEl.value = layoutState.baseFontSize || "12";
+    setStatus("Font size must be 9 to 24 pt");
+    return;
+  }
+  layoutState.baseFontSize = String(next);
+  persistLayout();
+  applyLayout();
+  schedulePreviewRender();
+  setStatus("Font size updated");
+});
+
 applyTypographyThemeEl.addEventListener("click", () => {
   const key = typographyThemeSelectEl.value;
   const theme = TYPO_THEMES[key];
@@ -2888,6 +2964,16 @@ applyTypographyThemeEl.addEventListener("click", () => {
   applyLayout();
   schedulePreviewRender();
   setStatus(`Theme applied: ${theme.label}`);
+});
+
+unlinkFormatEl.addEventListener("click", () => {
+  const range = quill.getSelection(true);
+  if (!range) {
+    setStatus("Place cursor inside a link");
+    return;
+  }
+  quill.format("link", false, "user");
+  setStatus("Link removed");
 });
 
 headerTextEl.addEventListener("input", () => {
