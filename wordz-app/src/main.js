@@ -189,6 +189,7 @@ app.innerHTML = `
       <div class="command-bar">
         <button id="open-file" class="action">Open</button>
         <button id="save-file" class="action">Save</button>
+        <button id="save-as-file" class="action">Save As</button>
         <button id="export-pdf" class="action">PDF</button>
         <button id="export-docx" class="action">DOCX</button>
         <button id="print-doc" class="action">Print</button>
@@ -466,6 +467,7 @@ const toggleDocsPanelButton = document.querySelector("#toggle-docs-panel");
 const newDocButton = document.querySelector("#new-doc");
 const openFileButton = document.querySelector("#open-file");
 const saveFileButton = document.querySelector("#save-file");
+const saveAsFileButton = document.querySelector("#save-as-file");
 const exportPdfButton = document.querySelector("#export-pdf");
 const exportDocxButton = document.querySelector("#export-docx");
 const printDocButton = document.querySelector("#print-doc");
@@ -699,6 +701,7 @@ let previewMode = localStorage.getItem(PREVIEW_MODE_KEY) === "1";
 let autosaveTimer;
 let previewTimer;
 let historyCommitTimer;
+let lastSaveHandle = null;
 let findPanelOpen = false;
 let versionsPanelOpen = false;
 let suggestionsPanelOpen = false;
@@ -861,7 +864,7 @@ const setupCommandMenus = () => {
   if (!commandBarEl) return;
 
   const groups = {
-    file: [openFileButton, saveFileButton, exportPdfButton, exportDocxButton, printDocButton],
+    file: [openFileButton, saveFileButton, saveAsFileButton, exportPdfButton, exportDocxButton, printDocButton],
     edit: [toggleMinimalButton, togglePageViewButton, toggleFindButton, restoreBackupButton, undoDocButton, redoDocButton],
     layout: [pageSizeEl?.closest("label"), pageMarginEl?.closest("label"), lineSpacingEl?.closest("label"), headerTextEl, footerTextEl, pageNumbersEl?.closest("label"), spellcheckToggleEl?.closest("label")],
     review: [toggleSuggestButton, toggleVersionsButton, toggleCommentsButton, addCommentButton],
@@ -2104,12 +2107,14 @@ const scheduleAutosave = () => {
 
 const schedulePreviewRender = () => {
   window.clearTimeout(previewTimer);
+  if (!previewMode) {
+    pageCountEl.textContent = "Preview pages";
+    return;
+  }
   previewTimer = window.setTimeout(() => {
     const pages = paginateHtml(quill.root.innerHTML);
     updatePageCount(pages.length);
-    if (previewMode) {
-      renderPagePreview(pages);
-    }
+    renderPagePreview(pages);
   }, 120);
 };
 
@@ -2137,10 +2142,28 @@ const downloadBlob = (filename, blob) => {
   const a = document.createElement("a");
   a.href = url;
   a.download = filename;
+  a.rel = "noopener";
   document.body.appendChild(a);
   a.click();
   a.remove();
-  URL.revokeObjectURL(url);
+  window.setTimeout(() => URL.revokeObjectURL(url), 1500);
+};
+
+const shareOrDownloadBlob = async (filename, blob) => {
+  if (navigator.share && navigator.canShare) {
+    const file = new File([blob], filename, { type: blob.type || "application/octet-stream" });
+    if (navigator.canShare({ files: [file] })) {
+      await navigator.share({
+        title: filename,
+        text: "Save or share this Wordz document",
+        files: [file],
+      });
+      return "shared";
+    }
+  }
+
+  downloadBlob(filename, blob);
+  return "downloaded";
 };
 
 const toBase64 = (bytes) => {
@@ -2377,6 +2400,14 @@ const applyPayloadAsDocument = (payload) => {
       pageSize: payload.layout.pageSize,
       margin: normalizeMargin(payload.layout.margin) || layoutState.margin,
       lineSpacing: normalizeLineSpacing(payload.layout.lineSpacing) || layoutState.lineSpacing,
+      fontFamily: FONT_FAMILIES[payload.layout.fontFamily] ? payload.layout.fontFamily : layoutState.fontFamily,
+      fontColor: normalizeHexColor(payload.layout.fontColor, layoutState.fontColor),
+      baseFontSize:
+        Number.isFinite(Number(payload.layout.baseFontSize)) &&
+        Number(payload.layout.baseFontSize) >= 9 &&
+        Number(payload.layout.baseFontSize) <= 24
+          ? String(Number(payload.layout.baseFontSize))
+          : layoutState.baseFontSize,
       headerText: typeof payload.layout.headerText === "string" ? payload.layout.headerText : layoutState.headerText,
       footerText: typeof payload.layout.footerText === "string" ? payload.layout.footerText : layoutState.footerText,
       showPageNumbers:
@@ -2396,37 +2427,49 @@ const applyPayloadAsDocument = (payload) => {
   pushHistoryState("import");
 };
 
-const saveToFile = async () => {
+const saveToFile = async ({ forcePrompt = false } = {}) => {
   saveActiveDoc();
   const payload = currentPayload();
   const filename = `${slugify(payload.title)}.wordz`;
   const body = JSON.stringify(payload, null, 2);
+  const blob = new Blob([body], { type: "application/json" });
 
   if (window.showSaveFilePicker) {
     try {
-      const handle = await window.showSaveFilePicker({
-        suggestedName: filename,
-        types: [
-          {
-            description: "Wordz document",
-            accept: {
-              "application/json": [".wordz", ".json"],
-            },
-          },
-        ],
-      });
+      const handle =
+        !forcePrompt && lastSaveHandle
+          ? lastSaveHandle
+          : await window.showSaveFilePicker({
+              suggestedName: filename,
+              types: [
+                {
+                  description: "Wordz document",
+                  accept: {
+                    "application/json": [".wordz", ".json"],
+                  },
+                },
+              ],
+            });
       const writable = await handle.createWritable();
       await writable.write(body);
       await writable.close();
-      setStatus("Saved to file");
+      lastSaveHandle = handle;
+      setStatus(forcePrompt ? "Saved as file" : "Saved to file");
       return;
     } catch {
-      // User canceled; fallback below for broader browser support.
+      if (forcePrompt) {
+        setStatus("Save As canceled");
+        return;
+      }
     }
   }
 
-  downloadBlob(filename, new Blob([body], { type: "application/json" }));
-  setStatus("Saved to file");
+  try {
+    const method = await shareOrDownloadBlob(filename, blob);
+    setStatus(method === "shared" ? "Share sheet opened" : "File download started");
+  } catch {
+    setStatus(forcePrompt ? "Save As failed" : "Save failed");
+  }
 };
 
 const importDocxFile = async (file) => {
@@ -2472,6 +2515,7 @@ const openFromFile = async () => {
         ],
       });
       file = await handle.getFile();
+      lastSaveHandle = handle;
     } catch {
       return;
     }
@@ -3363,6 +3407,17 @@ saveFileButton.addEventListener(
       await saveToFile();
     } catch {
       setStatus("Save failed");
+    }
+  }),
+);
+
+saveAsFileButton.addEventListener(
+  "click",
+  setActionBusy(saveAsFileButton, "Saving...", async () => {
+    try {
+      await saveToFile({ forcePrompt: true });
+    } catch {
+      setStatus("Save As failed");
     }
   }),
 );
