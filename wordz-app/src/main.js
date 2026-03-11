@@ -7,6 +7,7 @@ const ACTIVE_ID_KEY = "wordz.activeDocument.v1";
 const LAYOUT_KEY = "wordz.layout.v1";
 const MINIMAL_MODE_KEY = "wordz.minimalMode.v1";
 const PREVIEW_MODE_KEY = "wordz.previewMode.v1";
+const DOCS_PANEL_KEY = "wordz.docsPanel.v1";
 const BACKUPS_KEY = "wordz.backups.v1";
 const EDITOR_PREFS_KEY = "wordz.editorPrefs.v1";
 const HISTORY_KEY = "wordz.history.v1";
@@ -155,7 +156,10 @@ app.innerHTML = `
       </div>
       <header class="docs-header">
         <span class="docs-count" id="docs-count">0 documents</span>
-        <button id="new-doc" class="button">New</button>
+        <div class="docs-actions">
+          <button id="toggle-docs-panel" class="action action-docs">Hide Library</button>
+          <button id="new-doc" class="button">New</button>
+        </div>
       </header>
       <ul id="docs-list" class="docs-list"></ul>
     </aside>
@@ -244,7 +248,7 @@ app.innerHTML = `
 
         <button id="apply-template" class="action action-template">Use Template</button>
 
-        <label class="layout-control">Style
+        <label class="layout-control">Paragraph
           <select id="style-select">
             <option value="normal">Normal</option>
             <option value="h1">Heading 1</option>
@@ -256,7 +260,7 @@ app.innerHTML = `
 
         <button id="apply-style" class="action action-template">Apply Style</button>
 
-        <label class="layout-control">Font
+        <label class="layout-control">Doc Font
           <select id="font-family-select">
             <option value="source_sans">Source Sans</option>
             <option value="arial">Arial</option>
@@ -286,11 +290,11 @@ app.innerHTML = `
           </select>
         </label>
 
-        <label class="layout-control">Color
+        <label class="layout-control">Doc Color
           <input id="font-color" class="layout-input layout-color" type="color" value="#1f2a30" />
         </label>
 
-        <label class="layout-control">Size
+        <label class="layout-control">Doc Size
           <input id="base-font-size" class="layout-input layout-size" type="number" step="1" min="9" max="24" value="12" />
         </label>
 
@@ -458,6 +462,7 @@ const docsCountEl = document.querySelector("#docs-count");
 const commandBarEl = document.querySelector(".command-bar");
 const menuStripEl = document.querySelector("#menu-strip");
 const menuCollapseToggleEl = document.querySelector("#menu-collapse-toggle");
+const toggleDocsPanelButton = document.querySelector("#toggle-docs-panel");
 const newDocButton = document.querySelector("#new-doc");
 const openFileButton = document.querySelector("#open-file");
 const saveFileButton = document.querySelector("#save-file");
@@ -700,8 +705,10 @@ let suggestionsPanelOpen = false;
 let commentsPanelOpen = false;
 let styleManagerOpen = false;
 let templateManagerOpen = false;
-let activeMenu = "all";
-let commandBarCollapsed = false;
+const storedDocsPanel = localStorage.getItem(DOCS_PANEL_KEY);
+let docsPanelOpen = storedDocsPanel ? storedDocsPanel !== "0" : !window.matchMedia("(max-width: 980px)").matches;
+let activeMenu = window.matchMedia("(max-width: 980px)").matches ? "styles" : "styles";
+let commandBarCollapsed = window.matchMedia("(max-width: 980px)").matches;
 let activeDiffSnapshotId = null;
 let findMatches = [];
 let findCursor = -1;
@@ -823,6 +830,14 @@ const applyMinimalMode = () => {
   toggleMinimalButton.textContent = minimalMode ? "Full" : "Minimal";
   toggleMinimalButton.setAttribute("aria-pressed", minimalMode ? "true" : "false");
   localStorage.setItem(MINIMAL_MODE_KEY, minimalMode ? "1" : "0");
+};
+
+const applyDocsPanelVisibility = () => {
+  const shouldHide = !docsPanelOpen;
+  document.body.classList.toggle("docs-panel-hidden", shouldHide);
+  toggleDocsPanelButton.textContent = shouldHide ? "Show Library" : "Hide Library";
+  toggleDocsPanelButton.setAttribute("aria-pressed", shouldHide ? "true" : "false");
+  localStorage.setItem(DOCS_PANEL_KEY, docsPanelOpen ? "1" : "0");
 };
 
 const applyPreviewMode = () => {
@@ -3503,6 +3518,7 @@ window.addEventListener("beforeunload", () => {
 applyLayout();
 applySpellcheck();
 applyMinimalMode();
+applyDocsPanelVisibility();
 setupCommandMenus();
 applyMenuVisibility();
 refreshStyleSelect();
@@ -3531,5 +3547,20 @@ menuStripEl.addEventListener("click", (event) => {
 
 menuCollapseToggleEl.addEventListener("click", () => {
   commandBarCollapsed = !commandBarCollapsed;
+  applyMenuVisibility();
+});
+
+toggleDocsPanelButton.addEventListener("click", () => {
+  docsPanelOpen = !docsPanelOpen;
+  applyDocsPanelVisibility();
+});
+
+window.matchMedia("(max-width: 980px)").addEventListener("change", (event) => {
+  if (!event.matches) {
+    docsPanelOpen = true;
+    commandBarCollapsed = false;
+    activeMenu = "styles";
+  }
+  applyDocsPanelVisibility();
   applyMenuVisibility();
 });

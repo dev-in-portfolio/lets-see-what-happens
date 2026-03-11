@@ -102,6 +102,12 @@ body {
   margin-bottom: 0.9rem;
 }
 
+.docs-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.42rem;
+}
+
 .docs-count {
   color: var(--muted);
   font-size: 0.86rem;
@@ -324,6 +330,20 @@ body {
   gap: 0.48rem;
   flex-wrap: wrap;
   align-items: center;
+  position: relative;
+  padding-top: 1rem;
+}
+
+.menu-group::before {
+  content: attr(data-menu-group);
+  position: absolute;
+  top: 0;
+  left: 0.12rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.63rem;
+  color: #8ea4af;
+  font-weight: 700;
 }
 
 .action {
@@ -388,6 +408,12 @@ body {
   background: #4a3c2a;
   border-color: #6f5a3d;
   color: #f9ecd5;
+}
+
+.action-docs {
+  background: #203646;
+  border-color: #476896;
+  color: #dbe8ff;
 }
 
 .action-comment {
@@ -658,6 +684,14 @@ body {
   position: sticky;
   top: 0;
   z-index: 4;
+}
+
+body.docs-panel-hidden .shell {
+  grid-template-columns: 1fr;
+}
+
+body.docs-panel-hidden .docs-panel {
+  display: none;
 }
 
 #editor-shell,
@@ -1083,6 +1117,11 @@ body.minimal-mode .page-sheet {
     max-height: 230px;
   }
 
+  .docs-actions {
+    width: 100%;
+    justify-content: space-between;
+  }
+
   .editor-header {
     flex-direction: column;
     align-items: stretch;
@@ -1101,5 +1140,9 @@ body.minimal-mode .page-sheet {
   .page-sheet {
     max-width: calc(100% - 0.8rem);
     margin: 0.45rem auto 1.2rem;
+  }
+
+  .menu-group {
+    width: 100%;
   }
 }
