@@ -346,6 +346,10 @@ body {
   font-weight: 700;
 }
 
+.menu-group[hidden] {
+  display: none;
+}
+
 .action {
   background: linear-gradient(180deg, #203646 0%, #192c3a 100%);
   color: #e2edf1;
@@ -964,7 +968,6 @@ body.preview-mode #page-preview {
 body.minimal-mode .docs-panel,
 body.minimal-mode .editor-header,
 body.minimal-mode .menu-strip,
-body.minimal-mode .command-bar,
 body.minimal-mode .find-panel,
 body.minimal-mode .versions-panel,
 body.minimal-mode .suggestions-panel,
@@ -977,6 +980,25 @@ body.minimal-mode #toolbar {
 
 body.minimal-mode #app {
   padding: 0.5rem;
+}
+
+body.minimal-mode .command-bar {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 0.5rem;
+  border-bottom: 0;
+}
+
+body.minimal-mode .command-bar .menu-group {
+  display: none;
+}
+
+body.minimal-mode .command-bar .menu-group[data-menu-group="edit"] {
+  display: flex;
+}
+
+body.minimal-mode .command-bar .menu-group[data-menu-group="edit"] > *:not(#toggle-minimal) {
+  display: none;
 }
 
 body.minimal-mode .shell {
