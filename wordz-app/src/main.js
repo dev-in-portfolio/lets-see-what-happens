@@ -518,12 +518,54 @@ const defaultDoc = () => {
   };
 };
 
+const EMPTY_DELTA = { ops: [{ insert: "\n" }] };
+
+const normalizeDelta = (value) => {
+  if (Array.isArray(value)) return { ops: value };
+  if (value && typeof value === "object" && Array.isArray(value.ops)) return value;
+  return EMPTY_DELTA;
+};
+
+const parseStoredDelta = (value) => {
+  if (!value) return EMPTY_DELTA;
+  try {
+    return normalizeDelta(typeof value === "string" ? JSON.parse(value) : value);
+  } catch {
+    return EMPTY_DELTA;
+  }
+};
+
+const serializeStoredDelta = (value) => JSON.stringify(parseStoredDelta(value));
+
+const deltaPlainText = (value) =>
+  (parseStoredDelta(value).ops || [])
+    .map((op) => (typeof op.insert === "string" ? op.insert : " "))
+    .join("")
+    .replace(/\s+/g, " ")
+    .trim();
+
 const loadDocs = () => {
   const raw = localStorage.getItem(STORAGE_KEY);
   if (!raw) return [defaultDoc()];
   try {
     const parsed = JSON.parse(raw);
-    return Array.isArray(parsed) && parsed.length ? parsed : [defaultDoc()];
+    if (!Array.isArray(parsed) || !parsed.length) return [defaultDoc()];
+    const now = Date.now();
+    const docs = parsed
+      .map((item, index) => {
+        if (!item || typeof item !== "object") return null;
+        const createdAt = Number.isFinite(Number(item.createdAt)) ? Number(item.createdAt) : now + index;
+        const updatedAt = Number.isFinite(Number(item.updatedAt)) ? Number(item.updatedAt) : createdAt;
+        return {
+          id: typeof item.id === "string" && item.id.trim() ? item.id : `doc-${createdAt}-${index}`,
+          title: typeof item.title === "string" ? item.title : "Untitled document",
+          content: serializeStoredDelta(item.content),
+          createdAt,
+          updatedAt,
+        };
+      })
+      .filter(Boolean);
+    return docs.length ? docs : [defaultDoc()];
   } catch {
     return [defaultDoc()];
   }
@@ -593,7 +635,29 @@ const loadEditorPrefs = () => {
 const loadHistory = () => {
   try {
     const parsed = JSON.parse(localStorage.getItem(HISTORY_KEY) || "");
-    return parsed && typeof parsed === "object" ? parsed : {};
+    if (!parsed || typeof parsed !== "object") return {};
+    return Object.fromEntries(
+      Object.entries(parsed).map(([docId, bucket]) => {
+        const stack = Array.isArray(bucket?.stack)
+          ? bucket.stack.map((entry) => ({
+              content: serializeStoredDelta(entry?.content),
+              title: typeof entry?.title === "string" ? entry.title : "Untitled document",
+              layout: entry?.layout && typeof entry.layout === "object" ? entry.layout : undefined,
+              ts: Number.isFinite(Number(entry?.ts)) ? Number(entry.ts) : 0,
+              reason: typeof entry?.reason === "string" ? entry.reason : "edit",
+            }))
+          : [];
+        const cursorValue = Number(bucket?.cursor);
+        const cursor = Number.isFinite(cursorValue) ? Math.trunc(cursorValue) : stack.length - 1;
+        return [
+          docId,
+          {
+            stack,
+            cursor: Math.max(-1, Math.min(stack.length - 1, cursor)),
+          },
+        ];
+      }),
+    );
   } catch {
     return {};
   }
@@ -772,10 +836,17 @@ const applyLayout = () => {
 };
 
 const applyMinimalMode = () => {
+  if (minimalMode) {
+    commandBarCollapsed = false;
+    activeMenu = "edit";
+  } else if (activeMenu === "edit") {
+    activeMenu = "all";
+  }
   document.body.classList.toggle("minimal-mode", minimalMode);
   toggleMinimalButton.textContent = minimalMode ? "Full" : "Minimal";
   toggleMinimalButton.setAttribute("aria-pressed", minimalMode ? "true" : "false");
   localStorage.setItem(MINIMAL_MODE_KEY, minimalMode ? "1" : "0");
+  applyMenuVisibility();
 };
 
 const applyPreviewMode = () => {
@@ -958,9 +1029,13 @@ const replaceCurrentMatch = () => {
   quill.insertText(item.index, replacement, "user");
   refreshFindMatches();
   if (findMatches.length) {
-    findCursor = Math.min(findCursor, findMatches.length - 1);
+    findCursor = Math.max(0, Math.min(findCursor, findMatches.length - 1));
     const next = findMatches[findCursor];
-    quill.setSelection(next.index, next.length, "user");
+    if (next) {
+      quill.setSelection(next.index, next.length, "user");
+    }
+  } else {
+    findCursor = -1;
   }
   createSnapshot("manual");
   setStatus("Replaced");
@@ -1043,10 +1118,10 @@ const applyHistoryEntry = (entry) => {
   try {
     const doc = activeDoc();
     doc.title = entry.title || doc.title;
-    doc.content = entry.content || doc.content;
+    doc.content = serializeStoredDelta(entry.content || doc.content);
     doc.updatedAt = Date.now();
     titleEl.value = doc.title;
-    quill.setContents(JSON.parse(doc.content));
+    quill.setContents(parseStoredDelta(doc.content));
     if (entry.layout) {
       layoutState = { ...layoutState, ...entry.layout };
       applyLayout();
@@ -1109,6 +1184,9 @@ const pushSuggestion = (entry) => {
     if ((base.index || 0) === (prev.index || 0) + prevLen) {
       prev.text = `${prev.text || ""}${base.text || ""}`;
       prev.length = (prev.text || "").length;
+      // Preserve the original leading context, but refresh the trailing anchor
+      // so merged suggestions still resolve after later edits shift the text.
+      prev.after = base.after;
       prev.preview = (prev.text || "").replace(/\s+/g, " ").trim().slice(0, 80) || "(whitespace)";
       prev.ts = now;
       persistSuggestions();
@@ -1120,6 +1198,8 @@ const pushSuggestion = (entry) => {
     if ((base.index || 0) === (prev.index || 0)) {
       prev.text = `${prev.text || ""}${base.text || ""}`;
       prev.length = (prev.length || 0) + (base.length || 0);
+      // Keep delete anchors aligned with the merged span's latest trailing context.
+      prev.after = base.after;
       prev.preview =
         (prev.text || "").replace(/\s+/g, " ").trim().slice(0, 80) ||
         `${prev.length} character${prev.length === 1 ? "" : "s"} deleted`;
@@ -1304,26 +1384,14 @@ const renderVersionsPanel = () => {
   for (const entry of list) {
     const item = document.createElement("article");
     item.className = "version-item";
-    const previewText = (() => {
-      try {
-        const delta = JSON.parse(entry.content);
-        const text = (delta?.ops || [])
-          .map((op) => (typeof op.insert === "string" ? op.insert : " "))
-          .join("")
-          .replace(/\s+/g, " ")
-          .trim();
-        return text.slice(0, 140) || "(empty)";
-      } catch {
-        return "(preview unavailable)";
-      }
-    })();
+    const previewText = deltaPlainText(entry.content).slice(0, 140) || "(empty)";
 
     item.innerHTML = `
       <div class="version-head">
-        <strong>${entry.title || "Untitled"}</strong>
+        <strong>${escapeHtml(entry.title || "Untitled")}</strong>
         <span>${formatTime(entry.savedAt)}</span>
       </div>
-      <p>${previewText}</p>
+      <p>${escapeHtml(previewText)}</p>
       <div class="version-actions">
         <button class="action action-find-sub" data-version-diff="${entry.id}">Diff</button>
         <button class="action action-find-sub" data-version-restore="${entry.id}">Restore</button>
@@ -1337,19 +1405,12 @@ const escapeHtml = (value) =>
   value
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;");
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
 
 const extractDeltaText = (content) => {
-  try {
-    const delta = JSON.parse(content);
-    return (delta?.ops || [])
-      .map((op) => (typeof op.insert === "string" ? op.insert : " "))
-      .join("")
-      .replace(/\s+/g, " ")
-      .trim();
-  } catch {
-    return "";
-  }
+  return deltaPlainText(content);
 };
 
 const buildDiffMarkup = (left, right) => {
@@ -1412,7 +1473,7 @@ const restoreSnapshotById = (id) => {
   if (!entry) return;
   const doc = activeDoc();
   doc.title = entry.title || doc.title;
-  doc.content = entry.content;
+  doc.content = serializeStoredDelta(entry.content);
   doc.updatedAt = Date.now();
   layoutState = { ...layoutState, ...(entry.layout || {}) };
   persistLayout();
@@ -1452,7 +1513,7 @@ const renderSuggestionsPanel = () => {
         <strong>${entry.type === "insert" ? "Inserted text" : "Deleted text"}</strong>
         <span>${formatTime(entry.ts)}</span>
       </div>
-      <p>${entry.preview || "(no preview)"}</p>
+      <p>${escapeHtml(entry.preview || "(no preview)")}</p>
       ${actionButtons}
     `;
     suggestionsListEl.appendChild(item);
@@ -1874,7 +1935,9 @@ const importSyncPack = async (raw) => {
     editorPrefs = { ...editorPrefs, ...parsed.editorPrefs };
   }
 
-  if (!docs.find((doc) => doc.id === activeId)) {
+  if (parsed.activeId && docs.find((doc) => doc.id === parsed.activeId)) {
+    activeId = parsed.activeId;
+  } else if (!docs.find((doc) => doc.id === activeId)) {
     activeId = docs[0]?.id;
   }
 
@@ -2002,7 +2065,8 @@ const renderDocs = () => {
 const loadActiveDoc = () => {
   const doc = activeDoc();
   titleEl.value = doc.title;
-  quill.setContents(doc.content ? JSON.parse(doc.content) : []);
+  doc.content = serializeStoredDelta(doc.content);
+  quill.setContents(parseStoredDelta(doc.content));
   lastSnapshotHash = `${doc.id}:${doc.content}:${layoutState.pageSize}:${layoutState.margin}:${layoutState.lineSpacing}:${layoutState.headerText}:${layoutState.footerText}:${layoutState.showPageNumbers}`;
   updateWordCount();
   schedulePreviewRender();
@@ -2300,7 +2364,7 @@ const applyPayloadAsDocument = (payload) => {
   doc.title = payload.title?.trim() || "Imported document";
 
   if (payload.delta) {
-    doc.content = JSON.stringify(payload.delta);
+    doc.content = serializeStoredDelta(payload.delta);
   } else if (typeof payload.html === "string") {
     doc.content = JSON.stringify(quill.clipboard.convert({ html: payload.html }));
   } else if (typeof payload.plainText === "string") {
@@ -2653,7 +2717,7 @@ const htmlToDocxChildren = async (html, docx) => {
 
 const exportDocx = async () => {
   const docx = await ensureDocxModule();
-  const { AlignmentType, Document, Header, Footer, HeadingLevel, Packer, Paragraph, TextRun } = docx;
+  const { AlignmentType, Document, Header, Footer, HeadingLevel, Packer, Paragraph, PageNumber, TextRun } = docx;
   saveActiveDoc();
   const docState = activeDoc();
   const contentChildren = await htmlToDocxChildren(quill.root.innerHTML, docx);
@@ -2691,7 +2755,7 @@ const exportDocx = async () => {
                 children: [
                   new TextRun(layoutState.footerText || ""),
                   ...(layoutState.showPageNumbers
-                    ? [new TextRun({ text: "   " }), new TextRun({ children: ["PAGE"] })]
+                    ? [new TextRun({ text: "   Page " }), new TextRun({ children: [PageNumber.CURRENT] })]
                     : []),
                 ],
               }),
