@@ -54,7 +54,7 @@ jobs:
       - name: Upload installable debug APK
         uses: actions/upload-artifact@v4
         with:
-          name: wordz-installable-apk-debug
+          name: wordz-installable-apk-debug-v2
           path: wordz-app/android/app/build/outputs/apk/debug/*.apk
           if-no-files-found: error
 
