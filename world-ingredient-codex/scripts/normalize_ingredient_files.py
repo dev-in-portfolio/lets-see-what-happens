@@ -28,6 +28,11 @@ def normalize_entries(entries: list[dict]) -> list[dict]:
         parent_category_id = str(entry.get("parentCategoryId", ""))
         counters[parent_category_id] = counters.get(parent_category_id, 0) + 1
         entry["sortOrder"] = counters[parent_category_id]
+        entry["id"] = f"{parent_category_id}.{entry['sortOrder']}"
+        entry.setdefault("aliases", [])
+        entry.setdefault("tags", [])
+        entry.setdefault("importanceTags", [])
+        entry.setdefault("notes", None)
 
     return cleaned
 

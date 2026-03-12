@@ -65,3 +65,32 @@ When the next data layer arrives:
 1. Append real F-level ingredient entries under existing E-category codex ids.
 2. Add aliases, tags, citations, and cross-links through the existing import schema.
 3. Replace the detail placeholder with real ingredient/category detail rendering.
+
+## Bulk ingredient workflow
+
+For fresh ingredient uploads, use the project scripts instead of hand-editing the JSON files:
+
+- `scripts/import_bulk_ingredient_text.py INPUT.txt` parses one or more D-level build unit blocks from plain text and performs a dry run.
+- `scripts/import_bulk_ingredient_text.py INPUT.txt --write` rewrites only the touched files in `ingredients/` with canonical entry ids and sort order.
+- `scripts/validate_ingredient_files.py` validates every generated file against `hierarchy.json` and fails on schema drift or heading text leaking into ingredient names.
+- `scripts/normalize_ingredient_files.py` backfills missing files and re-canonicalizes entry ids and sort order if a manual edit drifts.
+
+Accepted bulk input format:
+
+```text
+1.1.8.1 South Texas / Border Tex-Mex
+1.1.8.1.1 Staples and Starches
+- Corn tortillas
+- Masa harina
+
+1.1.8.1.2 Vegetables
+- Tomatoes
+- Onions
+```
+
+Rules:
+
+- D-level headers are `buildUnitId` followed by the exact build unit name from `hierarchy.json`.
+- E-level headers are `parentCategoryId` followed by the exact category name from `hierarchy.json`.
+- Ingredient lines can be plain lines or bullet lines beginning with `-`, `*`, or `•`.
+- Uploaded text must not contain embedded codex headings inside ingredient names; the importer and validator reject those blocks.

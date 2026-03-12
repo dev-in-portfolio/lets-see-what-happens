@@ -1,0 +1,165 @@
+#!/usr/bin/env python3
+
+import json
+import re
+from collections import defaultdict
+from pathlib import Path
+
+
+ROOT = Path("/root/world-ingredient-codex")
+INGREDIENTS_DIR = ROOT / "ingredients"
+HIERARCHY_PATH = ROOT / "hierarchy.json"
+EMBEDDED_HEADING_RE = re.compile(r"\d+\.\d+\.\d+\.\d+(?:\.\d+)?\s")
+REQUIRED_ENTRY_KEYS = {
+    "id",
+    "parentCategoryId",
+    "name",
+    "sortOrder",
+    "aliases",
+    "tags",
+    "importanceTags",
+    "notes",
+}
+
+
+def load_hierarchy() -> tuple[dict[str, str], dict[str, tuple[str, str]]]:
+    data = json.loads(HIERARCHY_PATH.read_text(encoding="utf-8"))
+    build_units = {
+        node["id"]: node["name"]
+        for node in data["nodes"]
+        if node["level"] == "D"
+    }
+    categories = {
+        node["id"]: (node["parentId"], node["name"])
+        for node in data["nodes"]
+        if node["level"] == "E"
+    }
+    return build_units, categories
+
+
+def validate_file(
+    path: Path,
+    expected_build_units: dict[str, str],
+    expected_categories: dict[str, tuple[str, str]],
+) -> list[str]:
+    issues: list[str] = []
+
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        return [f"{path.name}: invalid JSON ({exc})"]
+
+    build_unit_id = path.stem
+    expected_name = expected_build_units.get(build_unit_id)
+    if expected_name is None:
+        issues.append(f"{path.name}: unexpected build unit file")
+        return issues
+
+    if payload.get("buildUnitId") != build_unit_id:
+        issues.append(f"{path.name}: buildUnitId mismatch ({payload.get('buildUnitId')!r})")
+
+    if payload.get("buildUnitName") != expected_name:
+        issues.append(f"{path.name}: buildUnitName mismatch ({payload.get('buildUnitName')!r})")
+
+    entries = payload.get("entries")
+    if not isinstance(entries, list):
+        issues.append(f"{path.name}: entries must be a list")
+        return issues
+
+    seen_ids: set[str] = set()
+    category_sort_orders: dict[str, list[int]] = defaultdict(list)
+
+    for index, entry in enumerate(entries, start=1):
+        label = f"{path.name} entry #{index}"
+
+        if not isinstance(entry, dict):
+            issues.append(f"{label}: entry is not an object")
+            continue
+
+        missing_keys = sorted(REQUIRED_ENTRY_KEYS - entry.keys())
+        if missing_keys:
+            issues.append(f"{label}: missing keys {missing_keys}")
+            continue
+
+        entry_id = entry["id"]
+        parent_category_id = entry["parentCategoryId"]
+        name = entry["name"]
+        sort_order = entry["sortOrder"]
+
+        if not isinstance(entry_id, str) or not entry_id:
+            issues.append(f"{label}: id must be a non-empty string")
+            continue
+
+        if entry_id in seen_ids:
+            issues.append(f"{label}: duplicate id {entry_id}")
+        seen_ids.add(entry_id)
+
+        if not isinstance(parent_category_id, str) or parent_category_id not in expected_categories:
+            issues.append(f"{label}: unknown parentCategoryId {parent_category_id!r}")
+            continue
+
+        category_build_unit_id, _ = expected_categories[parent_category_id]
+        if category_build_unit_id != build_unit_id:
+            issues.append(f"{label}: category {parent_category_id} belongs to {category_build_unit_id}")
+
+        if not isinstance(name, str) or not name.strip():
+            issues.append(f"{label}: name must be a non-empty string")
+        elif EMBEDDED_HEADING_RE.search(name):
+            issues.append(f"{label}: suspicious embedded codex heading in name {name!r}")
+
+        if not isinstance(sort_order, int) or sort_order < 1:
+            issues.append(f"{label}: sortOrder must be a positive integer")
+            continue
+
+        expected_id = f"{parent_category_id}.{sort_order}"
+        if entry_id != expected_id:
+            issues.append(f"{label}: id should be {expected_id!r}, found {entry_id!r}")
+
+        if not isinstance(entry["aliases"], list):
+            issues.append(f"{label}: aliases must be a list")
+        if not isinstance(entry["tags"], list):
+            issues.append(f"{label}: tags must be a list")
+        if not isinstance(entry["importanceTags"], list):
+            issues.append(f"{label}: importanceTags must be a list")
+
+        category_sort_orders[parent_category_id].append(sort_order)
+
+    for parent_category_id, sort_orders in sorted(category_sort_orders.items()):
+        expected_orders = list(range(1, len(sort_orders) + 1))
+        if sort_orders != expected_orders:
+            issues.append(
+                f"{path.name}: sortOrder sequence for {parent_category_id} is {sort_orders}, expected {expected_orders}"
+            )
+
+    return issues
+
+
+def main() -> None:
+    expected_build_units, expected_categories = load_hierarchy()
+    file_paths = sorted(INGREDIENTS_DIR.glob("*.json"))
+    issues: list[str] = []
+
+    actual_build_units = {path.stem for path in file_paths}
+    missing_files = sorted(set(expected_build_units) - actual_build_units)
+    extra_files = sorted(actual_build_units - set(expected_build_units))
+
+    for build_unit_id in missing_files:
+        issues.append(f"missing file: {build_unit_id}.json")
+    for build_unit_id in extra_files:
+        issues.append(f"unexpected file: {build_unit_id}.json")
+
+    for path in file_paths:
+        issues.extend(validate_file(path, expected_build_units, expected_categories))
+
+    if issues:
+        print(f"validation_failed={len(issues)}")
+        for issue in issues:
+            print(issue)
+        raise SystemExit(1)
+
+    print(f"validated_files={len(file_paths)}")
+    print("validation_failed=0")
+
+
+if __name__ == "__main__":
+    main()
