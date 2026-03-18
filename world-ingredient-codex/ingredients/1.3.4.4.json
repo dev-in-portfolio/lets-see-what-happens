@@ -1,5 +1,2786 @@
 {
   "buildUnitId": "1.3.4.4",
   "buildUnitName": "Mosquitia East",
-  "entries": []
+  "entries": [
+    {
+      "id": "1.3.4.4.1.1",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "White maize",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.2",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Nixtamalized maize",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.3",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Corn masa",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.4",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "White rice",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.5",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Cassava",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.6",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Cassava flour",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.7",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Casabe",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.8",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Yam",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.9",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Malanga",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.10",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Green plantain",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.11",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Ripe plantain",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.12",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Green banana",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.13",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Ripe banana",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.14",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Chata banana",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.15",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "Wheat flour",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.16",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "corn, corn, maíz",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.17",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "cornmeal, cornmeal, harina de maíz",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.18",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "arroz",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.19",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "rice bread, rice bread, pan de arroz",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.20",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "yuca",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.21",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "cassava flour, cassava flour, harina de yuca",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.22",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "cassava bread, cassava bread, pan de yuca",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.23",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "yam, yam, ñame",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.24",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "malanga",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.25",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "camote",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.26",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "pataste",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.27",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "green banana, green banana, plátano verde",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.28",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "ripe banana, ripe banana, plátano maduro",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.29",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "banano verde",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.30",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "banano maduro",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.1.31",
+      "parentCategoryId": "1.3.4.4.1",
+      "name": "coconut bread, coconut bread, pan de coco",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.1",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "Onion",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.2",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "Garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.3",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "Green chile",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.4",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "Sweet pepper",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.5",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "Squash",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.6",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "Carrot",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.7",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "Potato",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.8",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "Pataste",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.9",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "Fresh elote",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.10",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "yucca leaves, yucca leaves, hojas de yuca",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.11",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "squash flower, squash flower, flor de ayote",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.12",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "ayote",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.13",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "radish, radish, rábano",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.14",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "zanahoria",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.15",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "repollo",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.16",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "tomate",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.17",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "tomate cherry",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.18",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "cebolla",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.19",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "ajo",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.20",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "apio",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.21",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "chile verde",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.22",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "pepino",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.2.23",
+      "parentCategoryId": "1.3.4.4.2",
+      "name": "pataste",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.1",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "Coconut",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.2",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "Pineapple",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.3",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "Orange",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.4",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "Banana",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.5",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "Plantain",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.6",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "Cacao pod",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.7",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "piña",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.8",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "naranja",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.9",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "coco",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.10",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "pejibaye",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.11",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "banana, banana, plátano",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.12",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "marzipan, marzipan, mazapán",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.13",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "oion, oion, ojón",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.14",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "cashew, cashew, marañón",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.3.15",
+      "parentCategoryId": "1.3.4.4.3",
+      "name": "papaya",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.4.1",
+      "parentCategoryId": "1.3.4.4.4",
+      "name": "Beans",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.4.2",
+      "parentCategoryId": "1.3.4.4.4",
+      "name": "Red beans",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.4.3",
+      "parentCategoryId": "1.3.4.4.4",
+      "name": "Black beans",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.4.4",
+      "parentCategoryId": "1.3.4.4.4",
+      "name": "frijol",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.4.5",
+      "parentCategoryId": "1.3.4.4.4",
+      "name": "wing bean, wing bean, frijol alacín",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.4.6",
+      "parentCategoryId": "1.3.4.4.4",
+      "name": "coffee, coffee, caupí",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.5.1",
+      "parentCategoryId": "1.3.4.4.5",
+      "name": "Coconut meat",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.5.2",
+      "parentCategoryId": "1.3.4.4.5",
+      "name": "Cacao beans",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.5.3",
+      "parentCategoryId": "1.3.4.4.5",
+      "name": "cacao",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.5.4",
+      "parentCategoryId": "1.3.4.4.5",
+      "name": "cashew seed, cashew seed, semilla de marañón",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.1",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Fish",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.2",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Robalo",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.3",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Tilapia",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.4",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Shrimp",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.5",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Lobster",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.6",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Crab",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.7",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Beef",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.8",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Chicken",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.9",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Eggs",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.10",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Dried fish",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.11",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Salted fish",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.12",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "Smoked fish",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.13",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "pescado",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.14",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "caracol gigante",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.15",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "common lobster, common lobster, langosta común",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.16",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "white shrimp, white shrimp, camarón blanco",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.17",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "brown shrimp, brown shrimp, camarón café",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.18",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "pink shrimp, pink shrimp, camarón rosado",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.19",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "cangrejo gigante",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.20",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "mariscos",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.21",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "pollo",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.22",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "gallina",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.23",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "beef, beef, carne de res",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.24",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "pork, pork, carne de cerdo",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.6.25",
+      "parentCategoryId": "1.3.4.4.6",
+      "name": "huevos",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.7.1",
+      "parentCategoryId": "1.3.4.4.7",
+      "name": "Cilantro",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.7.2",
+      "parentCategoryId": "1.3.4.4.7",
+      "name": "Oregano",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.7.3",
+      "parentCategoryId": "1.3.4.4.7",
+      "name": "culantro",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.7.4",
+      "parentCategoryId": "1.3.4.4.7",
+      "name": "culantro from castile, culantro from castile, culantro de castilla",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.7.5",
+      "parentCategoryId": "1.3.4.4.7",
+      "name": "albahaca",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.7.6",
+      "parentCategoryId": "1.3.4.4.7",
+      "name": "oregano, oregano, orégano",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.1",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "Ground cumin",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.2",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "Paprika",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.3",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "Black pepper",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.4",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "Dried oregano",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.5",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "pimienta gorda",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.6",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "pimienta negra",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.7",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "chile cabro",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.8",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "achiote",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.9",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "laurel",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.10",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "cinnamon powder, cinnamon powder, canela en polvo",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.11",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "vainilla",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.8.12",
+      "parentCategoryId": "1.3.4.4.8",
+      "name": "jengibre",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.1",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "Onion",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.2",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "Garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.3",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "Green chile",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.4",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "Sweet pepper",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.5",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "Cilantro",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.6",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "cebolla blanca",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.7",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "cebolla",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.8",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "ajo",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.9",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "chile verde",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.10",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "culantro",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.11",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "albahaca",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.12",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "apio",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.9.13",
+      "parentCategoryId": "1.3.4.4.9",
+      "name": "tomate",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.10.1",
+      "parentCategoryId": "1.3.4.4.10",
+      "name": "Coconut milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.10.2",
+      "parentCategoryId": "1.3.4.4.10",
+      "name": "Coconut cream",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.10.3",
+      "parentCategoryId": "1.3.4.4.10",
+      "name": "Coconut oil",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.10.4",
+      "parentCategoryId": "1.3.4.4.10",
+      "name": "Vegetable oil",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.10.5",
+      "parentCategoryId": "1.3.4.4.10",
+      "name": "coconut oil, coconut oil, aceite de coco",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.10.6",
+      "parentCategoryId": "1.3.4.4.10",
+      "name": "aceite vegetal",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.10.7",
+      "parentCategoryId": "1.3.4.4.10",
+      "name": "manteca vegetal",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.10.8",
+      "parentCategoryId": "1.3.4.4.10",
+      "name": "margarina derretida",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.11.1",
+      "parentCategoryId": "1.3.4.4.11",
+      "name": "Cow's milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.11.2",
+      "parentCategoryId": "1.3.4.4.11",
+      "name": "Coconut milk",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.11.3",
+      "parentCategoryId": "1.3.4.4.11",
+      "name": "Coconut cream",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.11.4",
+      "parentCategoryId": "1.3.4.4.11",
+      "name": "Grated cheese",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.11.5",
+      "parentCategoryId": "1.3.4.4.11",
+      "name": "coconut milk, coconut milk, leche de coco",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.11.6",
+      "parentCategoryId": "1.3.4.4.11",
+      "name": "queso seco rallado",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.12.1",
+      "parentCategoryId": "1.3.4.4.12",
+      "name": "Fermented yuca mash",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.12.2",
+      "parentCategoryId": "1.3.4.4.12",
+      "name": "Fermented pineapple juice",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.12.3",
+      "parentCategoryId": "1.3.4.4.12",
+      "name": "Fermented orange juice",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.12.4",
+      "parentCategoryId": "1.3.4.4.12",
+      "name": "lemon juice, lemon juice, jugo de limón",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.12.5",
+      "parentCategoryId": "1.3.4.4.12",
+      "name": "lemon, lemon, limón",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.13.1",
+      "parentCategoryId": "1.3.4.4.13",
+      "name": "Onion and chile sofrito",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.13.2",
+      "parentCategoryId": "1.3.4.4.13",
+      "name": "Garlic and pepper sofrito",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.13.3",
+      "parentCategoryId": "1.3.4.4.13",
+      "name": "Coconut bean base",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.13.4",
+      "parentCategoryId": "1.3.4.4.13",
+      "name": "Mashed bean base",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.13.5",
+      "parentCategoryId": "1.3.4.4.13",
+      "name": "Coconut sauce",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.13.6",
+      "parentCategoryId": "1.3.4.4.13",
+      "name": "seafood cream, seafood cream, crema de mariscos",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.13.7",
+      "parentCategoryId": "1.3.4.4.13",
+      "name": "achiote molido",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.14.1",
+      "parentCategoryId": "1.3.4.4.14",
+      "name": "Casabe",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.14.2",
+      "parentCategoryId": "1.3.4.4.14",
+      "name": "Dried fish",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.14.3",
+      "parentCategoryId": "1.3.4.4.14",
+      "name": "Salted fish",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.14.4",
+      "parentCategoryId": "1.3.4.4.14",
+      "name": "Smoked fish",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.14.5",
+      "parentCategoryId": "1.3.4.4.14",
+      "name": "Fermented yuca mash",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.14.6",
+      "parentCategoryId": "1.3.4.4.14",
+      "name": "Chicha starter",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.14.7",
+      "parentCategoryId": "1.3.4.4.14",
+      "name": "cacao fermentado",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.14.8",
+      "parentCategoryId": "1.3.4.4.14",
+      "name": "dried cocoa bean, dried cocoa bean, grano de cacao secado",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.14.9",
+      "parentCategoryId": "1.3.4.4.14",
+      "name": "cassava flour, cassava flour, harina de yuca",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.14.10",
+      "parentCategoryId": "1.3.4.4.14",
+      "name": "cassava bread, cassava bread, pan de yuca",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.14.11",
+      "parentCategoryId": "1.3.4.4.14",
+      "name": "rice bread, rice bread, pan de arroz",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.15.1",
+      "parentCategoryId": "1.3.4.4.15",
+      "name": "Cane sugar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.15.2",
+      "parentCategoryId": "1.3.4.4.15",
+      "name": "Brown sugar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.15.3",
+      "parentCategoryId": "1.3.4.4.15",
+      "name": "Panela",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.15.4",
+      "parentCategoryId": "1.3.4.4.15",
+      "name": "Sugarcane syrup",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.15.5",
+      "parentCategoryId": "1.3.4.4.15",
+      "name": "sugar, sugar, azúcar",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.1",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "Water",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.2",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "Coconut water",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.3",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "Coconut milk",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.4",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "Fish broth",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.5",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "Bean broth",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.6",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "Beef broth",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.7",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "Chicken broth",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.8",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "Sugarcane juice",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.9",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "agua",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.10",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "coconut milk, coconut milk, leche de coco",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.11",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "coconut water, coconut water, agua de coco",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.12",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "eye juice, eye juice, jugo de ojón",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.13",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "pineapple rice drink, pineapple rice drink, refresco de arroz con piña",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.14",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "fish broth, fish broth, caldo de pescado",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.15",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "seafood broth, seafood broth, caldo de mariscos",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.16",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "beef broth, beef broth, caldo de res",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.16.17",
+      "parentCategoryId": "1.3.4.4.16",
+      "name": "café",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.17.1",
+      "parentCategoryId": "1.3.4.4.17",
+      "name": "Chopped cilantro",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.17.2",
+      "parentCategoryId": "1.3.4.4.17",
+      "name": "Chopped onion",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.17.3",
+      "parentCategoryId": "1.3.4.4.17",
+      "name": "Sliced green chile",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.17.4",
+      "parentCategoryId": "1.3.4.4.17",
+      "name": "Coconut cream",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.17.5",
+      "parentCategoryId": "1.3.4.4.17",
+      "name": "Grated cheese",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.17.6",
+      "parentCategoryId": "1.3.4.4.17",
+      "name": "Casabe shards",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.17.7",
+      "parentCategoryId": "1.3.4.4.17",
+      "name": "culantro picado",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.17.8",
+      "parentCategoryId": "1.3.4.4.17",
+      "name": "coco rallado",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.17.9",
+      "parentCategoryId": "1.3.4.4.17",
+      "name": "queso seco rallado",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.17.10",
+      "parentCategoryId": "1.3.4.4.17",
+      "name": "pimienta molida",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.17.11",
+      "parentCategoryId": "1.3.4.4.17",
+      "name": "lemon wedges, lemon wedges, gajos de limón",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.1",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "Binsand root wall, Binsand root wall, Binsand raíz wal",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.2",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "Dunplin kuku wal",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.3",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "Kruhban",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.4",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "Luk luk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.5",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "Tapauh",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.6",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "Wabul",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.7",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "Rice and beans with coconut",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.8",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "Frita",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.9",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "Sasal",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.10",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "wabul",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.11",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "guabul",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.12",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "luk luk",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.13",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "binsand root wall, binsand root wall, binsand raíz wal",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.14",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "covered fish miskitu, covered fish miskitu, tapado miskitu de pescado",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.15",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "tank pata",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.16",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "coconut bread, coconut bread, pan de coco",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.17",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "coconut cinnamon, coconut cinnamon, encanelados de coco",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.18",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "supa",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.18.19",
+      "parentCategoryId": "1.3.4.4.18",
+      "name": "oion, oion, ojón",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.1",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "Green plantain",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.2",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "Ripe plantain",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.3",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "Yuca",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.4",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "Coconut milk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.5",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "Hen egg",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.6",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "Coconut water",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.7",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "ajo",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.8",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "valeriana",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.9",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "culantro from castile, culantro from castile, culantro de castilla",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.10",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "jengibre",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.11",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "oregano, oregano, orégano",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.19.12",
+      "parentCategoryId": "1.3.4.4.19",
+      "name": "lemon grass, lemon grass, zacate de limón",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.1",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "Wabul",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.2",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "corn chicha, corn chicha, Chicha de maíz",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.3",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "pineapple chicha, pineapple chicha, Chicha de piña",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.4",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "orange chicha, orange chicha, Chicha de naranja",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.5",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "Coconut water",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.6",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "Cacao drink",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.7",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "Sugarcane juice",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.8",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "wabul",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.9",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "guabul",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.10",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "atol de yuca, atol de yuca, atol de yuca",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.11",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "pineapple rice drink, pineapple rice drink, refresco de arroz con piña",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.12",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "café",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.13",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "coconut water, coconut water, agua de coco",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.20.14",
+      "parentCategoryId": "1.3.4.4.20",
+      "name": "eye juice, eye juice, jugo de ojón",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.21.1",
+      "parentCategoryId": "1.3.4.4.21",
+      "name": "Salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.21.2",
+      "parentCategoryId": "1.3.4.4.21",
+      "name": "Sea salt",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.21.3",
+      "parentCategoryId": "1.3.4.4.21",
+      "name": "Cal",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.21.4",
+      "parentCategoryId": "1.3.4.4.21",
+      "name": "Wood ash",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.21.5",
+      "parentCategoryId": "1.3.4.4.21",
+      "name": "sal",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.22.1",
+      "parentCategoryId": "1.3.4.4.22",
+      "name": "Cal",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.22.2",
+      "parentCategoryId": "1.3.4.4.22",
+      "name": "Baking powder",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.22.3",
+      "parentCategoryId": "1.3.4.4.22",
+      "name": "Corn masa",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.22.4",
+      "parentCategoryId": "1.3.4.4.22",
+      "name": "Cassava flour",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.22.5",
+      "parentCategoryId": "1.3.4.4.22",
+      "name": "Bread crumbs",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.22.6",
+      "parentCategoryId": "1.3.4.4.22",
+      "name": "levadura seca",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.22.7",
+      "parentCategoryId": "1.3.4.4.22",
+      "name": "Fermipan",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.22.8",
+      "parentCategoryId": "1.3.4.4.22",
+      "name": "soda",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.22.9",
+      "parentCategoryId": "1.3.4.4.22",
+      "name": "cassava flour, cassava flour, harina de yuca",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.22.10",
+      "parentCategoryId": "1.3.4.4.22",
+      "name": "cornmeal, cornmeal, harina de maíz",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.22.11",
+      "parentCategoryId": "1.3.4.4.22",
+      "name": "wheat flour, wheat flour, harina de trigo",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.23.1",
+      "parentCategoryId": "1.3.4.4.23",
+      "name": "Banana leaves",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.23.2",
+      "parentCategoryId": "1.3.4.4.23",
+      "name": "Plantain leaves",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.23.3",
+      "parentCategoryId": "1.3.4.4.23",
+      "name": "Tike palm leaves",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.23.4",
+      "parentCategoryId": "1.3.4.4.23",
+      "name": "Corn husks",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.23.5",
+      "parentCategoryId": "1.3.4.4.23",
+      "name": "tonka wood mortar, tonka wood mortar, mortero de madera de tonka",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.23.6",
+      "parentCategoryId": "1.3.4.4.23",
+      "name": "tonka wood pestle, tonka wood pestle, mano de mortero de madera de tonka",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.24.1",
+      "parentCategoryId": "1.3.4.4.24",
+      "name": "Hardwood firewood",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.24.2",
+      "parentCategoryId": "1.3.4.4.24",
+      "name": "Coconut husk smoke",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.24.3",
+      "parentCategoryId": "1.3.4.4.24",
+      "name": "Charcoal embers",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.24.4",
+      "parentCategoryId": "1.3.4.4.24",
+      "name": "Hearth smoke",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.24.5",
+      "parentCategoryId": "1.3.4.4.24",
+      "name": "Wood ash",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.4.4.24.6",
+      "parentCategoryId": "1.3.4.4.24",
+      "name": "madera de tonka, madera de tonka, madera de tonka",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

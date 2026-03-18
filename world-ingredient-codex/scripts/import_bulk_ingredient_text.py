@@ -6,7 +6,7 @@ import re
 from pathlib import Path
 
 
-ROOT = Path("/root/world-ingredient-codex")
+ROOT = Path(__file__).resolve().parents[1]
 INGREDIENTS_DIR = ROOT / "ingredients"
 HIERARCHY_PATH = ROOT / "hierarchy.json"
 BUILD_UNIT_HEADER_RE = re.compile(r"^(?P<id>\d+\.\d+\.\d+\.\d+)(?:\s+(?P<name>.+))?$")

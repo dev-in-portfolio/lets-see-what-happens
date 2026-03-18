@@ -1,5 +1,626 @@
 {
   "buildUnitId": "6.8.2.3",
   "buildUnitName": "Western Inner Mongolia",
-  "entries": []
+  "entries": [
+    {
+      "id": "6.8.2.3.1.1",
+      "parentCategoryId": "6.8.2.3.1",
+      "name": "Hard wheat",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.1.2",
+      "parentCategoryId": "6.8.2.3.1",
+      "name": "Spring wheat",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.1.3",
+      "parentCategoryId": "6.8.2.3.1",
+      "name": "Wheat flour",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.1.4",
+      "parentCategoryId": "6.8.2.3.1",
+      "name": "Corn",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.1.5",
+      "parentCategoryId": "6.8.2.3.1",
+      "name": "Potatoes",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.1.6",
+      "parentCategoryId": "6.8.2.3.1",
+      "name": "Sand rice seeds",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.2.1",
+      "parentCategoryId": "6.8.2.3.2",
+      "name": "Tomatoes",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.2.2",
+      "parentCategoryId": "6.8.2.3.2",
+      "name": "Cherry tomatoes",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.2.3",
+      "parentCategoryId": "6.8.2.3.2",
+      "name": "Chili peppers",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.3.1",
+      "parentCategoryId": "6.8.2.3.3",
+      "name": "Wuhai grapes",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.3.2",
+      "parentCategoryId": "6.8.2.3.3",
+      "name": "Sea buckthorn",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.3.3",
+      "parentCategoryId": "6.8.2.3.3",
+      "name": "Apples",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.3.4",
+      "parentCategoryId": "6.8.2.3.3",
+      "name": "Juyan honey melons",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.3.5",
+      "parentCategoryId": "6.8.2.3.3",
+      "name": "Kirin watermelons",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.3.6",
+      "parentCategoryId": "6.8.2.3.3",
+      "name": "Lampion red muskmelons",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.5.1",
+      "parentCategoryId": "6.8.2.3.5",
+      "name": "Sunflower seeds",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.5.2",
+      "parentCategoryId": "6.8.2.3.5",
+      "name": "Sunflower kernels",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.5.3",
+      "parentCategoryId": "6.8.2.3.5",
+      "name": "Sand rice seeds",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.6.1",
+      "parentCategoryId": "6.8.2.3.6",
+      "name": "Lamb",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.6.2",
+      "parentCategoryId": "6.8.2.3.6",
+      "name": "Mutton",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.6.3",
+      "parentCategoryId": "6.8.2.3.6",
+      "name": "Beef",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.6.4",
+      "parentCategoryId": "6.8.2.3.6",
+      "name": "Camel meat",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.6.5",
+      "parentCategoryId": "6.8.2.3.6",
+      "name": "Juyan fish",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.8.1",
+      "parentCategoryId": "6.8.2.3.8",
+      "name": "Dried chili peppers",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.8.2",
+      "parentCategoryId": "6.8.2.3.8",
+      "name": "Dried Helan mountain mushrooms",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.8.3",
+      "parentCategoryId": "6.8.2.3.8",
+      "name": "Dried cistanche slices",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.8.4",
+      "parentCategoryId": "6.8.2.3.8",
+      "name": "Dried cynomorium slices",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.10.1",
+      "parentCategoryId": "6.8.2.3.10",
+      "name": "Sunflower oil",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.11.1",
+      "parentCategoryId": "6.8.2.3.11",
+      "name": "Camel milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.11.2",
+      "parentCategoryId": "6.8.2.3.11",
+      "name": "Camel milk powder",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.12.1",
+      "parentCategoryId": "6.8.2.3.12",
+      "name": "Sea buckthorn",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.12.2",
+      "parentCategoryId": "6.8.2.3.12",
+      "name": "Grapes",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.12.3",
+      "parentCategoryId": "6.8.2.3.12",
+      "name": "Tomatoes",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.13.1",
+      "parentCategoryId": "6.8.2.3.13",
+      "name": "Tomato paste",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.13.2",
+      "parentCategoryId": "6.8.2.3.13",
+      "name": "Tomato powder",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.14.1",
+      "parentCategoryId": "6.8.2.3.14",
+      "name": "Grape wine",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.14.2",
+      "parentCategoryId": "6.8.2.3.14",
+      "name": "Canned tomato chunks",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.14.3",
+      "parentCategoryId": "6.8.2.3.14",
+      "name": "Dried Helan mountain mushrooms",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.14.4",
+      "parentCategoryId": "6.8.2.3.14",
+      "name": "Camel milk powder",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.16.1",
+      "parentCategoryId": "6.8.2.3.16",
+      "name": "Camel milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.16.2",
+      "parentCategoryId": "6.8.2.3.16",
+      "name": "Tomato juice",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.16.3",
+      "parentCategoryId": "6.8.2.3.16",
+      "name": "Grape juice",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.17.1",
+      "parentCategoryId": "6.8.2.3.17",
+      "name": "Sunflower kernels",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.17.2",
+      "parentCategoryId": "6.8.2.3.17",
+      "name": "Fresh grapes",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.17.3",
+      "parentCategoryId": "6.8.2.3.17",
+      "name": "Cherry tomatoes",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.18.1",
+      "parentCategoryId": "6.8.2.3.18",
+      "name": "Sand rice seeds",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.18.2",
+      "parentCategoryId": "6.8.2.3.18",
+      "name": "Cistanche",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.18.3",
+      "parentCategoryId": "6.8.2.3.18",
+      "name": "Cynomorium",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.18.4",
+      "parentCategoryId": "6.8.2.3.18",
+      "name": "Helan mountain mushrooms",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.18.5",
+      "parentCategoryId": "6.8.2.3.18",
+      "name": "Wuhai grapes",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.18.6",
+      "parentCategoryId": "6.8.2.3.18",
+      "name": "Juyan fish",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.18.7",
+      "parentCategoryId": "6.8.2.3.18",
+      "name": "Juyan honey melons",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.18.8",
+      "parentCategoryId": "6.8.2.3.18",
+      "name": "Kirin watermelons",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.18.9",
+      "parentCategoryId": "6.8.2.3.18",
+      "name": "Camel milk powder",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.19.1",
+      "parentCategoryId": "6.8.2.3.19",
+      "name": "Cistanche",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.19.2",
+      "parentCategoryId": "6.8.2.3.19",
+      "name": "Cynomorium",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.19.3",
+      "parentCategoryId": "6.8.2.3.19",
+      "name": "Licorice root",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.19.4",
+      "parentCategoryId": "6.8.2.3.19",
+      "name": "Camel milk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.20.1",
+      "parentCategoryId": "6.8.2.3.20",
+      "name": "Grape wine",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.20.2",
+      "parentCategoryId": "6.8.2.3.20",
+      "name": "Grape juice",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.20.3",
+      "parentCategoryId": "6.8.2.3.20",
+      "name": "Tomato juice",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.2.3.20.4",
+      "parentCategoryId": "6.8.2.3.20",
+      "name": "Camel milk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

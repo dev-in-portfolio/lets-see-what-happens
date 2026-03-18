@@ -1,5 +1,926 @@
 {
   "buildUnitId": "6.8.1.2",
   "buildUnitName": "Gobi South Mongolia",
-  "entries": []
+  "entries": [
+    {
+      "id": "6.8.1.2.1.1",
+      "parentCategoryId": "6.8.1.2.1",
+      "name": "Wheat flour",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.1.2",
+      "parentCategoryId": "6.8.1.2.1",
+      "name": "Handmade noodles",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.1.3",
+      "parentCategoryId": "6.8.1.2.1",
+      "name": "Dumpling dough",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.1.4",
+      "parentCategoryId": "6.8.1.2.1",
+      "name": "Fried dough",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.1.5",
+      "parentCategoryId": "6.8.1.2.1",
+      "name": "Potatoes",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.1.6",
+      "parentCategoryId": "6.8.1.2.1",
+      "name": "Agriophyllum pungens seed flour",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.2.1",
+      "parentCategoryId": "6.8.1.2.2",
+      "name": "Onion",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.2.2",
+      "parentCategoryId": "6.8.1.2.2",
+      "name": "Tomato",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.2.3",
+      "parentCategoryId": "6.8.1.2.2",
+      "name": "Carrot",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.2.4",
+      "parentCategoryId": "6.8.1.2.2",
+      "name": "Cabbage",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.2.5",
+      "parentCategoryId": "6.8.1.2.2",
+      "name": "Khomuul",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.2.6",
+      "parentCategoryId": "6.8.1.2.2",
+      "name": "Taana",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.2.7",
+      "parentCategoryId": "6.8.1.2.2",
+      "name": "Khomuul flower buds",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.3.1",
+      "parentCategoryId": "6.8.1.2.3",
+      "name": "Kharmag",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.3.2",
+      "parentCategoryId": "6.8.1.2.3",
+      "name": "Strawberry",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.3.3",
+      "parentCategoryId": "6.8.1.2.3",
+      "name": "Watermelon",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.3.4",
+      "parentCategoryId": "6.8.1.2.3",
+      "name": "Honeydew melon",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.5.1",
+      "parentCategoryId": "6.8.1.2.5",
+      "name": "Agriophyllum pungens seeds",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.5.2",
+      "parentCategoryId": "6.8.1.2.5",
+      "name": "Watermelon seeds",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.5.3",
+      "parentCategoryId": "6.8.1.2.5",
+      "name": "Mongolian almond kernels",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.6.1",
+      "parentCategoryId": "6.8.1.2.6",
+      "name": "Mutton",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.6.2",
+      "parentCategoryId": "6.8.1.2.6",
+      "name": "Goat meat",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.6.3",
+      "parentCategoryId": "6.8.1.2.6",
+      "name": "Camel meat",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.6.4",
+      "parentCategoryId": "6.8.1.2.6",
+      "name": "Minced mutton",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.6.5",
+      "parentCategoryId": "6.8.1.2.6",
+      "name": "Air-dried mutton",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.7.1",
+      "parentCategoryId": "6.8.1.2.7",
+      "name": "Khomuul shoots",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.7.2",
+      "parentCategoryId": "6.8.1.2.7",
+      "name": "Taana shoots",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.7.3",
+      "parentCategoryId": "6.8.1.2.7",
+      "name": "Wild onion greens",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.7.4",
+      "parentCategoryId": "6.8.1.2.7",
+      "name": "Khomuul flowers",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.8.1",
+      "parentCategoryId": "6.8.1.2.8",
+      "name": "Dried khomuul",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.8.2",
+      "parentCategoryId": "6.8.1.2.8",
+      "name": "Dried taana",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.8.3",
+      "parentCategoryId": "6.8.1.2.8",
+      "name": "Dried kharmag berries",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.9.1",
+      "parentCategoryId": "6.8.1.2.9",
+      "name": "Onion",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.9.2",
+      "parentCategoryId": "6.8.1.2.9",
+      "name": "Khomuul",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.9.3",
+      "parentCategoryId": "6.8.1.2.9",
+      "name": "Taana",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.9.4",
+      "parentCategoryId": "6.8.1.2.9",
+      "name": "Carrot",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.10.1",
+      "parentCategoryId": "6.8.1.2.10",
+      "name": "Butter",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.10.2",
+      "parentCategoryId": "6.8.1.2.10",
+      "name": "Vegetable oil",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.11.1",
+      "parentCategoryId": "6.8.1.2.11",
+      "name": "Camel milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.11.2",
+      "parentCategoryId": "6.8.1.2.11",
+      "name": "Khoormog",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.11.3",
+      "parentCategoryId": "6.8.1.2.11",
+      "name": "Camel-milk aaruul",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.11.4",
+      "parentCategoryId": "6.8.1.2.11",
+      "name": "Milk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.12.1",
+      "parentCategoryId": "6.8.1.2.12",
+      "name": "Khoormog",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.12.2",
+      "parentCategoryId": "6.8.1.2.12",
+      "name": "Kharmag",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.13.1",
+      "parentCategoryId": "6.8.1.2.13",
+      "name": "Pickled khomuul",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.13.2",
+      "parentCategoryId": "6.8.1.2.13",
+      "name": "Kharmag jam",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.14.1",
+      "parentCategoryId": "6.8.1.2.14",
+      "name": "Khoormog",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.14.2",
+      "parentCategoryId": "6.8.1.2.14",
+      "name": "Pickled khomuul",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.14.3",
+      "parentCategoryId": "6.8.1.2.14",
+      "name": "Camel-milk aaruul",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.14.4",
+      "parentCategoryId": "6.8.1.2.14",
+      "name": "Air-dried mutton",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.14.5",
+      "parentCategoryId": "6.8.1.2.14",
+      "name": "Dried kharmag berries",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.15.1",
+      "parentCategoryId": "6.8.1.2.15",
+      "name": "Sugar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.15.2",
+      "parentCategoryId": "6.8.1.2.15",
+      "name": "Rock sugar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.16.1",
+      "parentCategoryId": "6.8.1.2.16",
+      "name": "Water",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.16.2",
+      "parentCategoryId": "6.8.1.2.16",
+      "name": "Camel milk",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.16.3",
+      "parentCategoryId": "6.8.1.2.16",
+      "name": "Black tea",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.16.4",
+      "parentCategoryId": "6.8.1.2.16",
+      "name": "Suutei tsai",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.16.5",
+      "parentCategoryId": "6.8.1.2.16",
+      "name": "Khoormog",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.16.6",
+      "parentCategoryId": "6.8.1.2.16",
+      "name": "Kharmag juice",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.17.1",
+      "parentCategoryId": "6.8.1.2.17",
+      "name": "Chopped khomuul",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.17.2",
+      "parentCategoryId": "6.8.1.2.17",
+      "name": "Khomuul flowers",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.17.3",
+      "parentCategoryId": "6.8.1.2.17",
+      "name": "Kharmag berries",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.17.4",
+      "parentCategoryId": "6.8.1.2.17",
+      "name": "Crushed aaruul",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.18.1",
+      "parentCategoryId": "6.8.1.2.18",
+      "name": "Agriophyllum pungens seeds",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.18.2",
+      "parentCategoryId": "6.8.1.2.18",
+      "name": "Cistanche deserticola",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.18.3",
+      "parentCategoryId": "6.8.1.2.18",
+      "name": "Kharmag",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.18.4",
+      "parentCategoryId": "6.8.1.2.18",
+      "name": "Khomuul",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.18.5",
+      "parentCategoryId": "6.8.1.2.18",
+      "name": "Taana",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.19.1",
+      "parentCategoryId": "6.8.1.2.19",
+      "name": "Cistanche deserticola",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.19.2",
+      "parentCategoryId": "6.8.1.2.19",
+      "name": "Khomuul",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.19.3",
+      "parentCategoryId": "6.8.1.2.19",
+      "name": "Taana",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.19.4",
+      "parentCategoryId": "6.8.1.2.19",
+      "name": "Kharmag",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.19.5",
+      "parentCategoryId": "6.8.1.2.19",
+      "name": "Chonon kharmag",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.20.1",
+      "parentCategoryId": "6.8.1.2.20",
+      "name": "Khoormog",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.20.2",
+      "parentCategoryId": "6.8.1.2.20",
+      "name": "Camel milk",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.20.3",
+      "parentCategoryId": "6.8.1.2.20",
+      "name": "Suutei tsai",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.20.4",
+      "parentCategoryId": "6.8.1.2.20",
+      "name": "Black tea",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.20.5",
+      "parentCategoryId": "6.8.1.2.20",
+      "name": "Kharmag juice",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.20.6",
+      "parentCategoryId": "6.8.1.2.20",
+      "name": "Kharmag wine",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.20.7",
+      "parentCategoryId": "6.8.1.2.20",
+      "name": "Cistanche alcohol infusion",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.21.1",
+      "parentCategoryId": "6.8.1.2.21",
+      "name": "Coarse salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.21.2",
+      "parentCategoryId": "6.8.1.2.21",
+      "name": "Iodized salt",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.22.1",
+      "parentCategoryId": "6.8.1.2.22",
+      "name": "Khoormog starter culture",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.22.2",
+      "parentCategoryId": "6.8.1.2.22",
+      "name": "Yogurt starter",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.22.3",
+      "parentCategoryId": "6.8.1.2.22",
+      "name": "Baking powder",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.23.1",
+      "parentCategoryId": "6.8.1.2.23",
+      "name": "Wheat dough wrappers",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.23.2",
+      "parentCategoryId": "6.8.1.2.23",
+      "name": "Leather fermentation bag",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.23.3",
+      "parentCategoryId": "6.8.1.2.23",
+      "name": "Wooden churn",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.23.4",
+      "parentCategoryId": "6.8.1.2.23",
+      "name": "Cloth straining bag",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.24.1",
+      "parentCategoryId": "6.8.1.2.24",
+      "name": "Saxaul wood",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.24.2",
+      "parentCategoryId": "6.8.1.2.24",
+      "name": "Dried camel dung fuel",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.8.1.2.24.3",
+      "parentCategoryId": "6.8.1.2.24",
+      "name": "Dried goat dung fuel",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

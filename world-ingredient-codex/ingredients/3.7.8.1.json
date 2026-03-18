@@ -1,5 +1,1586 @@
 {
   "buildUnitId": "3.7.8.1",
   "buildUnitName": "Eswatini Lowveld / Middleveld",
-  "entries": []
+  "entries": [
+    {
+      "id": "3.7.8.1.1.1",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "white maize",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.2",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "yellow maize",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.3",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "green mealies",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.4",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "maize meal",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.5",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "maize flour",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.6",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "sorghum",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.7",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "sorghum meal",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.8",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "rice",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.9",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "cassava",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.10",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "cassava flour",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.11",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "sweet potatoes",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.12",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "taro",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.1.13",
+      "parentCategoryId": "3.7.8.1.1",
+      "name": "table potatoes",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.1",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "cabbage",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.2",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "spinach",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.3",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "onions",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.4",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "carrots",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.5",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "mushrooms",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.6",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "beetroot",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.7",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "tomatoes",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.8",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "pumpkin",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.9",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "pumpkin leaves",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.10",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "leaf vegetables",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.11",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "melons",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.12",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "lettuce",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.2.13",
+      "parentCategoryId": "3.7.8.1.2",
+      "name": "green peppers",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.3.1",
+      "parentCategoryId": "3.7.8.1.3",
+      "name": "pineapple",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.3.2",
+      "parentCategoryId": "3.7.8.1.3",
+      "name": "orange",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.3.3",
+      "parentCategoryId": "3.7.8.1.3",
+      "name": "grapefruit",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.3.4",
+      "parentCategoryId": "3.7.8.1.3",
+      "name": "lemon",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.3.5",
+      "parentCategoryId": "3.7.8.1.3",
+      "name": "banana",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.3.6",
+      "parentCategoryId": "3.7.8.1.3",
+      "name": "marula",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.3.7",
+      "parentCategoryId": "3.7.8.1.3",
+      "name": "sugarcane",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.3.8",
+      "parentCategoryId": "3.7.8.1.3",
+      "name": "mango",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.4.1",
+      "parentCategoryId": "3.7.8.1.4",
+      "name": "dry beans",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.4.2",
+      "parentCategoryId": "3.7.8.1.4",
+      "name": "sugar beans",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.4.3",
+      "parentCategoryId": "3.7.8.1.4",
+      "name": "jugo beans",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.4.4",
+      "parentCategoryId": "3.7.8.1.4",
+      "name": "soybeans",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.4.5",
+      "parentCategoryId": "3.7.8.1.4",
+      "name": "cow peas",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.4.6",
+      "parentCategoryId": "3.7.8.1.4",
+      "name": "groundnuts",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.5.1",
+      "parentCategoryId": "3.7.8.1.5",
+      "name": "groundnuts",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.5.2",
+      "parentCategoryId": "3.7.8.1.5",
+      "name": "sunflower seeds",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.5.3",
+      "parentCategoryId": "3.7.8.1.5",
+      "name": "pumpkin seeds",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.5.4",
+      "parentCategoryId": "3.7.8.1.5",
+      "name": "marula kernels",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.6.1",
+      "parentCategoryId": "3.7.8.1.6",
+      "name": "beef",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.6.2",
+      "parentCategoryId": "3.7.8.1.6",
+      "name": "goat meat",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.6.3",
+      "parentCategoryId": "3.7.8.1.6",
+      "name": "pork",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.6.4",
+      "parentCategoryId": "3.7.8.1.6",
+      "name": "chicken",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.6.5",
+      "parentCategoryId": "3.7.8.1.6",
+      "name": "duck",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.6.6",
+      "parentCategoryId": "3.7.8.1.6",
+      "name": "eggs",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.6.7",
+      "parentCategoryId": "3.7.8.1.6",
+      "name": "fresh fish",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.6.8",
+      "parentCategoryId": "3.7.8.1.6",
+      "name": "tilapia",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.6.9",
+      "parentCategoryId": "3.7.8.1.6",
+      "name": "catfish",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.6.10",
+      "parentCategoryId": "3.7.8.1.6",
+      "name": "dried meat",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.7.1",
+      "parentCategoryId": "3.7.8.1.7",
+      "name": "spinach",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.7.2",
+      "parentCategoryId": "3.7.8.1.7",
+      "name": "pumpkin leaves",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.7.3",
+      "parentCategoryId": "3.7.8.1.7",
+      "name": "cassava leaves",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.7.4",
+      "parentCategoryId": "3.7.8.1.7",
+      "name": "amaranth leaves",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.7.5",
+      "parentCategoryId": "3.7.8.1.7",
+      "name": "leaf vegetables",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.8.1",
+      "parentCategoryId": "3.7.8.1.8",
+      "name": "cayenne pepper",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.8.2",
+      "parentCategoryId": "3.7.8.1.8",
+      "name": "cayenne pepper powder",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.8.3",
+      "parentCategoryId": "3.7.8.1.8",
+      "name": "curry powder",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.8.4",
+      "parentCategoryId": "3.7.8.1.8",
+      "name": "garlic powder",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.8.5",
+      "parentCategoryId": "3.7.8.1.8",
+      "name": "ginger powder",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.8.6",
+      "parentCategoryId": "3.7.8.1.8",
+      "name": "paprika",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.8.7",
+      "parentCategoryId": "3.7.8.1.8",
+      "name": "dried chili",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.9.1",
+      "parentCategoryId": "3.7.8.1.9",
+      "name": "onions",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.9.2",
+      "parentCategoryId": "3.7.8.1.9",
+      "name": "tomatoes",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.9.3",
+      "parentCategoryId": "3.7.8.1.9",
+      "name": "garlic",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.9.4",
+      "parentCategoryId": "3.7.8.1.9",
+      "name": "ginger",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.9.5",
+      "parentCategoryId": "3.7.8.1.9",
+      "name": "cayenne pepper",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.10.1",
+      "parentCategoryId": "3.7.8.1.10",
+      "name": "sunflower oil",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.10.2",
+      "parentCategoryId": "3.7.8.1.10",
+      "name": "cooking oil",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.10.3",
+      "parentCategoryId": "3.7.8.1.10",
+      "name": "butter",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.10.4",
+      "parentCategoryId": "3.7.8.1.10",
+      "name": "goat milk fat",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.10.5",
+      "parentCategoryId": "3.7.8.1.10",
+      "name": "beef fat",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.11.1",
+      "parentCategoryId": "3.7.8.1.11",
+      "name": "fresh milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.11.2",
+      "parentCategoryId": "3.7.8.1.11",
+      "name": "sour milk",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.11.3",
+      "parentCategoryId": "3.7.8.1.11",
+      "name": "emasi",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.11.4",
+      "parentCategoryId": "3.7.8.1.11",
+      "name": "goat milk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.11.5",
+      "parentCategoryId": "3.7.8.1.11",
+      "name": "yoghurt",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.11.6",
+      "parentCategoryId": "3.7.8.1.11",
+      "name": "butter",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.12.1",
+      "parentCategoryId": "3.7.8.1.12",
+      "name": "vinegar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.12.2",
+      "parentCategoryId": "3.7.8.1.12",
+      "name": "lemon juice",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.12.3",
+      "parentCategoryId": "3.7.8.1.12",
+      "name": "grapefruit juice",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.12.4",
+      "parentCategoryId": "3.7.8.1.12",
+      "name": "sour milk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.13.1",
+      "parentCategoryId": "3.7.8.1.13",
+      "name": "cayenne pepper sauce",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.13.2",
+      "parentCategoryId": "3.7.8.1.13",
+      "name": "chilli sauce",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.13.3",
+      "parentCategoryId": "3.7.8.1.13",
+      "name": "vegetable atchaar",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.13.4",
+      "parentCategoryId": "3.7.8.1.13",
+      "name": "peanut butter",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.13.5",
+      "parentCategoryId": "3.7.8.1.13",
+      "name": "tomato sauce",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.13.6",
+      "parentCategoryId": "3.7.8.1.13",
+      "name": "mayonnaise",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.13.7",
+      "parentCategoryId": "3.7.8.1.13",
+      "name": "Aromat",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.14.1",
+      "parentCategoryId": "3.7.8.1.14",
+      "name": "emasi",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.14.2",
+      "parentCategoryId": "3.7.8.1.14",
+      "name": "emahewu",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.14.3",
+      "parentCategoryId": "3.7.8.1.14",
+      "name": "buganu",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.14.4",
+      "parentCategoryId": "3.7.8.1.14",
+      "name": "umqombotsi",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.14.5",
+      "parentCategoryId": "3.7.8.1.14",
+      "name": "dried meat",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.14.6",
+      "parentCategoryId": "3.7.8.1.14",
+      "name": "dried fish",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.14.7",
+      "parentCategoryId": "3.7.8.1.14",
+      "name": "vegetable atchaar",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.14.8",
+      "parentCategoryId": "3.7.8.1.14",
+      "name": "orange marmalade",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.14.9",
+      "parentCategoryId": "3.7.8.1.14",
+      "name": "peach jam",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.15.1",
+      "parentCategoryId": "3.7.8.1.15",
+      "name": "white sugar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.15.2",
+      "parentCategoryId": "3.7.8.1.15",
+      "name": "brown sugar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.15.3",
+      "parentCategoryId": "3.7.8.1.15",
+      "name": "sugarcane",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.15.4",
+      "parentCategoryId": "3.7.8.1.15",
+      "name": "honey",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.16.1",
+      "parentCategoryId": "3.7.8.1.16",
+      "name": "water",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.16.2",
+      "parentCategoryId": "3.7.8.1.16",
+      "name": "fresh milk",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.16.3",
+      "parentCategoryId": "3.7.8.1.16",
+      "name": "sour milk",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.16.4",
+      "parentCategoryId": "3.7.8.1.16",
+      "name": "tea",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.16.5",
+      "parentCategoryId": "3.7.8.1.16",
+      "name": "coffee",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.16.6",
+      "parentCategoryId": "3.7.8.1.16",
+      "name": "pineapple juice",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.16.7",
+      "parentCategoryId": "3.7.8.1.16",
+      "name": "orange juice",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.16.8",
+      "parentCategoryId": "3.7.8.1.16",
+      "name": "fish stock",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.17.1",
+      "parentCategoryId": "3.7.8.1.17",
+      "name": "chopped onions",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.17.2",
+      "parentCategoryId": "3.7.8.1.17",
+      "name": "chopped tomatoes",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.17.3",
+      "parentCategoryId": "3.7.8.1.17",
+      "name": "fresh cayenne pepper",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.17.4",
+      "parentCategoryId": "3.7.8.1.17",
+      "name": "roasted groundnuts",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.17.5",
+      "parentCategoryId": "3.7.8.1.17",
+      "name": "pumpkin seeds",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.17.6",
+      "parentCategoryId": "3.7.8.1.17",
+      "name": "vinegar dressing",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.18.1",
+      "parentCategoryId": "3.7.8.1.18",
+      "name": "marula fruit",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.18.2",
+      "parentCategoryId": "3.7.8.1.18",
+      "name": "marula kernels",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.18.3",
+      "parentCategoryId": "3.7.8.1.18",
+      "name": "jugo beans",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.18.4",
+      "parentCategoryId": "3.7.8.1.18",
+      "name": "cassava root",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.18.5",
+      "parentCategoryId": "3.7.8.1.18",
+      "name": "pineapple",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.18.6",
+      "parentCategoryId": "3.7.8.1.18",
+      "name": "sugarcane",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.18.7",
+      "parentCategoryId": "3.7.8.1.18",
+      "name": "edible aloe",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.19.1",
+      "parentCategoryId": "3.7.8.1.19",
+      "name": "ginger",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.19.2",
+      "parentCategoryId": "3.7.8.1.19",
+      "name": "garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.19.3",
+      "parentCategoryId": "3.7.8.1.19",
+      "name": "lemon",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.19.4",
+      "parentCategoryId": "3.7.8.1.19",
+      "name": "honey",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.19.5",
+      "parentCategoryId": "3.7.8.1.19",
+      "name": "edible aloe",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.19.6",
+      "parentCategoryId": "3.7.8.1.19",
+      "name": "marula bark",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.20.1",
+      "parentCategoryId": "3.7.8.1.20",
+      "name": "emahewu",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.20.2",
+      "parentCategoryId": "3.7.8.1.20",
+      "name": "buganu",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.20.3",
+      "parentCategoryId": "3.7.8.1.20",
+      "name": "umqombotsi",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.20.4",
+      "parentCategoryId": "3.7.8.1.20",
+      "name": "tea",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.20.5",
+      "parentCategoryId": "3.7.8.1.20",
+      "name": "coffee",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.20.6",
+      "parentCategoryId": "3.7.8.1.20",
+      "name": "beer",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.20.7",
+      "parentCategoryId": "3.7.8.1.20",
+      "name": "orange juice",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.20.8",
+      "parentCategoryId": "3.7.8.1.20",
+      "name": "pineapple juice",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.21.1",
+      "parentCategoryId": "3.7.8.1.21",
+      "name": "salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.21.2",
+      "parentCategoryId": "3.7.8.1.21",
+      "name": "iodized salt",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.21.3",
+      "parentCategoryId": "3.7.8.1.21",
+      "name": "Aromat",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.22.1",
+      "parentCategoryId": "3.7.8.1.22",
+      "name": "yeast",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.22.2",
+      "parentCategoryId": "3.7.8.1.22",
+      "name": "baking powder",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.22.3",
+      "parentCategoryId": "3.7.8.1.22",
+      "name": "sorghum malt",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.22.4",
+      "parentCategoryId": "3.7.8.1.22",
+      "name": "maize flour",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.22.5",
+      "parentCategoryId": "3.7.8.1.22",
+      "name": "cassava flour",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.22.6",
+      "parentCategoryId": "3.7.8.1.22",
+      "name": "groundnut powder",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.23.1",
+      "parentCategoryId": "3.7.8.1.23",
+      "name": "maize husks",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.23.2",
+      "parentCategoryId": "3.7.8.1.23",
+      "name": "banana leaves",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.23.3",
+      "parentCategoryId": "3.7.8.1.23",
+      "name": "reed mats",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.23.4",
+      "parentCategoryId": "3.7.8.1.23",
+      "name": "drying racks",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.24.1",
+      "parentCategoryId": "3.7.8.1.24",
+      "name": "firewood",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.24.2",
+      "parentCategoryId": "3.7.8.1.24",
+      "name": "charcoal",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.24.3",
+      "parentCategoryId": "3.7.8.1.24",
+      "name": "wood smoke",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "3.7.8.1.24.4",
+      "parentCategoryId": "3.7.8.1.24",
+      "name": "sugarcane bagasse",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 
 
-ROOT = Path("/root/world-ingredient-codex")
+ROOT = Path(__file__).resolve().parents[1]
 INGREDIENTS_DIR = ROOT / "ingredients"
 HIERARCHY_PATH = ROOT / "hierarchy.json"
 HEADING_LIKE_ENTRY_NAME = re.compile(r"^\d+(?:\.\d+)+\s")

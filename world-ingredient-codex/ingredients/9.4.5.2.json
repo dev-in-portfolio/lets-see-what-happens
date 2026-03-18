@@ -1,5 +1,726 @@
 {
   "buildUnitId": "9.4.5.2",
   "buildUnitName": "Phoenix Islands",
-  "entries": []
+  "entries": [
+    {
+      "id": "9.4.5.2.1.1",
+      "parentCategoryId": "9.4.5.2.1",
+      "name": "breadfruit",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.1.2",
+      "parentCategoryId": "9.4.5.2.1",
+      "name": "coconut",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.1.3",
+      "parentCategoryId": "9.4.5.2.1",
+      "name": "banana",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.1.4",
+      "parentCategoryId": "9.4.5.2.1",
+      "name": "sweet potato",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.2.1",
+      "parentCategoryId": "9.4.5.2.2",
+      "name": "pumpkin",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.2.2",
+      "parentCategoryId": "9.4.5.2.2",
+      "name": "cabbage",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.2.3",
+      "parentCategoryId": "9.4.5.2.2",
+      "name": "cucumber",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.2.4",
+      "parentCategoryId": "9.4.5.2.2",
+      "name": "spinach",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.3.1",
+      "parentCategoryId": "9.4.5.2.3",
+      "name": "coconut",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.3.2",
+      "parentCategoryId": "9.4.5.2.3",
+      "name": "breadfruit",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.3.3",
+      "parentCategoryId": "9.4.5.2.3",
+      "name": "banana",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.5.1",
+      "parentCategoryId": "9.4.5.2.5",
+      "name": "coconut",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.6.1",
+      "parentCategoryId": "9.4.5.2.6",
+      "name": "reef fish",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.6.2",
+      "parentCategoryId": "9.4.5.2.6",
+      "name": "pelagic fish",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.6.3",
+      "parentCategoryId": "9.4.5.2.6",
+      "name": "yellowfin tuna",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.6.4",
+      "parentCategoryId": "9.4.5.2.6",
+      "name": "skipjack tuna",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.6.5",
+      "parentCategoryId": "9.4.5.2.6",
+      "name": "flying fish",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.6.6",
+      "parentCategoryId": "9.4.5.2.6",
+      "name": "octopus",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.6.7",
+      "parentCategoryId": "9.4.5.2.6",
+      "name": "clam",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.6.8",
+      "parentCategoryId": "9.4.5.2.6",
+      "name": "lobster",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.6.9",
+      "parentCategoryId": "9.4.5.2.6",
+      "name": "crab",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.10.1",
+      "parentCategoryId": "9.4.5.2.10",
+      "name": "coconut milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.10.2",
+      "parentCategoryId": "9.4.5.2.10",
+      "name": "coconut cream",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.10.3",
+      "parentCategoryId": "9.4.5.2.10",
+      "name": "grated coconut",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.10.4",
+      "parentCategoryId": "9.4.5.2.10",
+      "name": "coconut oil",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.11.1",
+      "parentCategoryId": "9.4.5.2.11",
+      "name": "coconut milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.11.2",
+      "parentCategoryId": "9.4.5.2.11",
+      "name": "coconut cream",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.11.3",
+      "parentCategoryId": "9.4.5.2.11",
+      "name": "grated coconut",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.11.4",
+      "parentCategoryId": "9.4.5.2.11",
+      "name": "mature coconut meat",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.11.5",
+      "parentCategoryId": "9.4.5.2.11",
+      "name": "sprouted coconut embryo",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.12.1",
+      "parentCategoryId": "9.4.5.2.12",
+      "name": "fermented toddy",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.13.1",
+      "parentCategoryId": "9.4.5.2.13",
+      "name": "toddy syrup",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.14.1",
+      "parentCategoryId": "9.4.5.2.14",
+      "name": "te tuae",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.14.2",
+      "parentCategoryId": "9.4.5.2.14",
+      "name": "te tari ni ika",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.14.3",
+      "parentCategoryId": "9.4.5.2.14",
+      "name": "te kamwaimwai",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.14.4",
+      "parentCategoryId": "9.4.5.2.14",
+      "name": "te kabwibwi n mai",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.14.5",
+      "parentCategoryId": "9.4.5.2.14",
+      "name": "te kabwibwi n ika",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.14.6",
+      "parentCategoryId": "9.4.5.2.14",
+      "name": "copra",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.14.7",
+      "parentCategoryId": "9.4.5.2.14",
+      "name": "fermented toddy",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.15.1",
+      "parentCategoryId": "9.4.5.2.15",
+      "name": "te kamwaimwai",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.15.2",
+      "parentCategoryId": "9.4.5.2.15",
+      "name": "fresh toddy",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.15.3",
+      "parentCategoryId": "9.4.5.2.15",
+      "name": "toddy syrup",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.16.1",
+      "parentCategoryId": "9.4.5.2.16",
+      "name": "water",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.16.2",
+      "parentCategoryId": "9.4.5.2.16",
+      "name": "rainwater",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.16.3",
+      "parentCategoryId": "9.4.5.2.16",
+      "name": "coconut water",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.16.4",
+      "parentCategoryId": "9.4.5.2.16",
+      "name": "coconut milk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.16.5",
+      "parentCategoryId": "9.4.5.2.16",
+      "name": "coconut cream",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.16.6",
+      "parentCategoryId": "9.4.5.2.16",
+      "name": "fresh toddy",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.17.1",
+      "parentCategoryId": "9.4.5.2.17",
+      "name": "grated coconut",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.17.2",
+      "parentCategoryId": "9.4.5.2.17",
+      "name": "coconut cream",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.17.3",
+      "parentCategoryId": "9.4.5.2.17",
+      "name": "toddy syrup",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.18.1",
+      "parentCategoryId": "9.4.5.2.18",
+      "name": "te tuae",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.18.2",
+      "parentCategoryId": "9.4.5.2.18",
+      "name": "te kamwaimwai",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.18.3",
+      "parentCategoryId": "9.4.5.2.18",
+      "name": "te kabwibwi n mai",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.18.4",
+      "parentCategoryId": "9.4.5.2.18",
+      "name": "te kabwibwi n ika",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.18.5",
+      "parentCategoryId": "9.4.5.2.18",
+      "name": "sprouted coconut embryo",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.19.1",
+      "parentCategoryId": "9.4.5.2.19",
+      "name": "noni",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.19.2",
+      "parentCategoryId": "9.4.5.2.19",
+      "name": "Scaevola sericea",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.19.3",
+      "parentCategoryId": "9.4.5.2.19",
+      "name": "Premna serratifolia",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.19.4",
+      "parentCategoryId": "9.4.5.2.19",
+      "name": "Guettarda speciosa",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.19.5",
+      "parentCategoryId": "9.4.5.2.19",
+      "name": "coconut oil",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.20.1",
+      "parentCategoryId": "9.4.5.2.20",
+      "name": "fresh toddy",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.20.2",
+      "parentCategoryId": "9.4.5.2.20",
+      "name": "fermented toddy",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.20.3",
+      "parentCategoryId": "9.4.5.2.20",
+      "name": "toddy liquor",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.20.4",
+      "parentCategoryId": "9.4.5.2.20",
+      "name": "coconut water",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.21.1",
+      "parentCategoryId": "9.4.5.2.21",
+      "name": "sea salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.22.1",
+      "parentCategoryId": "9.4.5.2.22",
+      "name": "toddy ferment",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.23.1",
+      "parentCategoryId": "9.4.5.2.23",
+      "name": "coconut leaves",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.23.2",
+      "parentCategoryId": "9.4.5.2.23",
+      "name": "breadfruit leaves",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.24.1",
+      "parentCategoryId": "9.4.5.2.24",
+      "name": "wood smoke",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.24.2",
+      "parentCategoryId": "9.4.5.2.24",
+      "name": "coconut shell charcoal",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "9.4.5.2.24.3",
+      "parentCategoryId": "9.4.5.2.24",
+      "name": "earth-oven heat",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

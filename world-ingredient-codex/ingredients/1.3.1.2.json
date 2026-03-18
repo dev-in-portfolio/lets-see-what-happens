@@ -1,5 +1,3966 @@
 {
   "buildUnitId": "1.3.1.2",
   "buildUnitName": "Pacific Guatemala",
-  "entries": []
+  "entries": [
+    {
+      "id": "1.3.1.2.1.1",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Maize",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.2",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Nixtamalized maize",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.3",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Corn masa",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.4",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Rice",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.5",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Potatoes",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.6",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Yuca",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.7",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Camote",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.8",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Ayote",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.9",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Güicoy, Güicoy, Güicoy",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.10",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Plantain",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.11",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Banana",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.12",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Fresh elote",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.13",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Amaranth",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.14",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "Wheat",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.15",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "white corn, white corn, maíz blanco",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.16",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "yellow corn, yellow corn, maíz amarillo",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.17",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "elote",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.18",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "corn dough, corn dough, masa de maíz",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.19",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "corn tortillas, corn tortillas, tortillas de maíz",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.20",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "arroz",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.21",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "yuca",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.22",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "camote",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.23",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "green banana, green banana, plátano verde",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.24",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "ripe banana, ripe banana, plátano maduro",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.25",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "banano",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.26",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "cassava flour, cassava flour, harina de yuca",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.27",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "sago starch, sago starch, fécula de sagú",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.1.28",
+      "parentCategoryId": "1.3.1.2.1",
+      "name": "corn tamales, corn tamales, tamalitos de elote",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.1",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Tomato",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.2",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Miltomate",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.3",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Onion",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.4",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Garlic",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.5",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Radish",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.6",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Chile pimiento",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.7",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "jalapeno pepper, jalapeno pepper, Jalapeño pepper",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.8",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Cucumber",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.9",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Eggplant",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.10",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Guisquil, Guisquil, Güisquil",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.11",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Ayote",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.12",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Güicoy, Güicoy, Güicoy",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.13",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Chipilin, Chipilin, Chipilín",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.14",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Loroco",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.15",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Hierba mora",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.16",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Pacaya inflorescences",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.17",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Izote flower, Izote flower, Flor de izote",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.18",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "Green peas",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.19",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "tomate",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.20",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "miltomate",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.21",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "cebolla",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.22",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "ajo",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.23",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "chile pimiento rojo",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.24",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "chile pimiento verde",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.25",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "jalapeño chili, jalapeño chili, chile jalapeño",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.26",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "radish, radish, rábano",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.27",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "pepino",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.28",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "ayote",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.29",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "güicoy, güicoy, güicoy",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.30",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "güisquil, güisquil, güisquil",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.31",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "berenjena",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.32",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "repollo",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.33",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "zanahoria",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.34",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "pacaya",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.35",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "izote flower, izote flower, flor de izote",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.36",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "chipilin, chipilin, chipilín",
+      "sortOrder": 36,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.37",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "maxan, maxan, maxán",
+      "sortOrder": 37,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.2.38",
+      "parentCategoryId": "1.3.1.2.2",
+      "name": "yuca tierna",
+      "sortOrder": 38,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.1",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "Mango",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.2",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "Pineapple",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.3",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "Papaya",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.4",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "passion fruit, passion fruit, Maracuyá",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.5",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "Soursop, Soursop, Guanábana",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.6",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "Carambola",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.7",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "Cashew jocote, Cashew jocote, Jocote de marañón",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.8",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "Tamarind",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.9",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "Coconut",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.10",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "Lime",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.11",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "Tahitian lemon, Tahitian lemon, Limón Tahití",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.12",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "Watermelon",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.13",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "mango",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.14",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "papaya",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.15",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "piña",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.16",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "watermelon, watermelon, sandía",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.17",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "watermelon, watermelon, melón",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.18",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "coco",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.19",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "cashew, cashew, marañón",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.20",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "jocote",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.21",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "soursop, soursop, guanábana",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.22",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "caimito",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.23",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "nance",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.24",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "guapinol",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.25",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "moxpin, moxpin, moxpín",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.26",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "banano",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.27",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "banana, banana, plátano",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.3.28",
+      "parentCategoryId": "1.3.1.2.3",
+      "name": "sunza",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.4.1",
+      "parentCategoryId": "1.3.1.2.4",
+      "name": "Black beans",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.4.2",
+      "parentCategoryId": "1.3.1.2.4",
+      "name": "Red beans",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.4.3",
+      "parentCategoryId": "1.3.1.2.4",
+      "name": "Frijol entero",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.4.4",
+      "parentCategoryId": "1.3.1.2.4",
+      "name": "Frijol gandul",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.4.5",
+      "parentCategoryId": "1.3.1.2.4",
+      "name": "Green peas",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.4.6",
+      "parentCategoryId": "1.3.1.2.4",
+      "name": "Soybeans",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.4.7",
+      "parentCategoryId": "1.3.1.2.4",
+      "name": "frijol negro",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.4.8",
+      "parentCategoryId": "1.3.1.2.4",
+      "name": "frijol rojo",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.4.9",
+      "parentCategoryId": "1.3.1.2.4",
+      "name": "frijol blanco",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.4.10",
+      "parentCategoryId": "1.3.1.2.4",
+      "name": "frijol piloy",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.4.11",
+      "parentCategoryId": "1.3.1.2.4",
+      "name": "habas verdes",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.1",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "Pepitoria",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.2",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "Pumpkin seeds",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.3",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "Ayote seeds",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.4",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "Sesame seeds",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.5",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "Peanuts",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.6",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "Cacao beans",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.7",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "Cashew nuts",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.8",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "sesame, sesame, ajonjolí",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.9",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "pepitoria",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.10",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "squash seed, squash seed, semilla de ayote",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.11",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "güicoy seed, güicoy seed, semilla de güicoy",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.12",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "cacao",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.13",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "cashew seed, cashew seed, semilla de marañón",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.5.14",
+      "parentCategoryId": "1.3.1.2.5",
+      "name": "mania, mania, manía",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.1",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Fresh fish",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.2",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Mojarra",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.3",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Shrimp",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.4",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Crab",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.5",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Dried fish",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.6",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Chicken",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.7",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Gallina criolla",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.8",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Duck",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.9",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Turkey",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.10",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Pork",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.11",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Beef",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.12",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Crackling, Crackling, Chicharrón",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.13",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "Eggs",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.14",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "white shrimp, white shrimp, camarón blanco",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.15",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "jumbo shrimp, jumbo shrimp, camarón jumbo",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.16",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "jaiba",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.17",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "concha burro",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.18",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "mojarra",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.19",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "robe, robe, róbalo",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.20",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "pargo miche",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.21",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "pargo lunarejo",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.22",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "dentition snapper, dentition snapper, pargo dentón",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.23",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "lisa",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.24",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "liseta",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.25",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "bagre tacazonte",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.26",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "bagre vaca",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.27",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "bagre mecha",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.28",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "curvina",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.29",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "curvina amarilla",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.30",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "berrugata",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.31",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "guabina",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.32",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "dorado",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.33",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "jurel",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.34",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "quinoa",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.35",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "sierra",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.36",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "mero",
+      "sortOrder": 36,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.37",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "shark, shark, tiburón",
+      "sortOrder": 37,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.38",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "anguila",
+      "sortOrder": 38,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.39",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "pollo",
+      "sortOrder": 39,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.40",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "chompipe",
+      "sortOrder": 40,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.41",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "pork, pork, carne de cerdo",
+      "sortOrder": 41,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.42",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "pork entrails, pork entrails, vísceras de cerdo",
+      "sortOrder": 42,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.43",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "beef, beef, carne de res",
+      "sortOrder": 43,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.44",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "panza",
+      "sortOrder": 44,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.45",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "beef leg, beef leg, pata de res",
+      "sortOrder": 45,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.6.46",
+      "parentCategoryId": "1.3.1.2.6",
+      "name": "huevos",
+      "sortOrder": 46,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.1",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "Chipilin, Chipilin, Chipilín",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.2",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "Cilantro",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.3",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "Parsley",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.4",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "Hierbabuena",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.5",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "Basil",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.6",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "Loroco",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.7",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "Hierba mora",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.8",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "chipilin, chipilin, chipilín",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.9",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "cilantro",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.10",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "perejil",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.11",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "hierbabuena",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.12",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "albahaca",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.7.13",
+      "parentCategoryId": "1.3.1.2.7",
+      "name": "apazote",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.1",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "Chile guaque",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.2",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "Annatto, Annatto, Achiote",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.3",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "Pimienta gorda",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.4",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "Castile pepper, Castile pepper, Pimienta de Castilla",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.5",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "Black pepper",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.6",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "Dried chile flakes",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.7",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "Toasted sesame",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.8",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "Toasted pepitoria",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.9",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "achiote",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.10",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "chile guaque",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.11",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "chile pasa",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.12",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "pimienta negra",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.13",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "pimienta gorda",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.14",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "comino",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.15",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "canela",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.16",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "clove, clove, clavo de olor",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.17",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "dried oregano, dried oregano, orégano seco",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.18",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "tomillo seco",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.19",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "laurel seco",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.20",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "toasted sesame, toasted sesame, ajonjolí tostado",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.8.21",
+      "parentCategoryId": "1.3.1.2.8",
+      "name": "pepitoria tostada",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.1",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "Tomato",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.2",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "Miltomate",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.3",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "Onion",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.4",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "Garlic",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.5",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "Cilantro",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.6",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "jalapeno pepper, jalapeno pepper, Jalapeño pepper",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.7",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "Chile pimiento",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.8",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "tomate asado",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.9",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "miltomate asado",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.10",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "cebolla",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.11",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "ajo",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.12",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "chile pimiento rojo",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.13",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "chile pimiento verde",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.9.14",
+      "parentCategoryId": "1.3.1.2.9",
+      "name": "jalapeño chili, jalapeño chili, chile jalapeño",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.10.1",
+      "parentCategoryId": "1.3.1.2.10",
+      "name": "Vegetable oil",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.10.2",
+      "parentCategoryId": "1.3.1.2.10",
+      "name": "Pork lard",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.10.3",
+      "parentCategoryId": "1.3.1.2.10",
+      "name": "Butter",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.10.4",
+      "parentCategoryId": "1.3.1.2.10",
+      "name": "Crema",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.10.5",
+      "parentCategoryId": "1.3.1.2.10",
+      "name": "Rendered pork fat",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.10.6",
+      "parentCategoryId": "1.3.1.2.10",
+      "name": "lard, lard, manteca de cerdo",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.10.7",
+      "parentCategoryId": "1.3.1.2.10",
+      "name": "aceite vegetal",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.10.8",
+      "parentCategoryId": "1.3.1.2.10",
+      "name": "mantequilla",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.10.9",
+      "parentCategoryId": "1.3.1.2.10",
+      "name": "manteca derretida",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.10.10",
+      "parentCategoryId": "1.3.1.2.10",
+      "name": "pork fat, pork fat, grasa de chicharrón",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.11.1",
+      "parentCategoryId": "1.3.1.2.11",
+      "name": "Fresh milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.11.2",
+      "parentCategoryId": "1.3.1.2.11",
+      "name": "Crema",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.11.3",
+      "parentCategoryId": "1.3.1.2.11",
+      "name": "Queso fresco",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.11.4",
+      "parentCategoryId": "1.3.1.2.11",
+      "name": "Butter",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.11.5",
+      "parentCategoryId": "1.3.1.2.11",
+      "name": "Cottage cheese, Cottage cheese, Requesón",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.11.6",
+      "parentCategoryId": "1.3.1.2.11",
+      "name": "leche",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.11.7",
+      "parentCategoryId": "1.3.1.2.11",
+      "name": "crema",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.11.8",
+      "parentCategoryId": "1.3.1.2.11",
+      "name": "queso fresco",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.11.9",
+      "parentCategoryId": "1.3.1.2.11",
+      "name": "queso seco",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.11.10",
+      "parentCategoryId": "1.3.1.2.11",
+      "name": "queso duro",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.11.11",
+      "parentCategoryId": "1.3.1.2.11",
+      "name": "cuajada",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.12.1",
+      "parentCategoryId": "1.3.1.2.12",
+      "name": "Lime",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.12.2",
+      "parentCategoryId": "1.3.1.2.12",
+      "name": "Tahitian lemon, Tahitian lemon, Limón Tahití",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.12.3",
+      "parentCategoryId": "1.3.1.2.12",
+      "name": "Tamarind",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.12.4",
+      "parentCategoryId": "1.3.1.2.12",
+      "name": "Vinegar",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.12.5",
+      "parentCategoryId": "1.3.1.2.12",
+      "name": "Miltomate",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.12.6",
+      "parentCategoryId": "1.3.1.2.12",
+      "name": "lemon, lemon, limón",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.12.7",
+      "parentCategoryId": "1.3.1.2.12",
+      "name": "naranja agria",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.12.8",
+      "parentCategoryId": "1.3.1.2.12",
+      "name": "cane vinegar, cane vinegar, vinagre de caña",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.12.9",
+      "parentCategoryId": "1.3.1.2.12",
+      "name": "miltomate",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.1",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "Pepián message, Pepián message, Pepián recado",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.2",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "Jocon, Jocon, Jocón",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.3",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "Chilmol",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.4",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "Fish on errand, Fish on errand, Pescado en recado",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.5",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "Mole",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.6",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "Amarillo recado",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.7",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "Escabeche",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.8",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "chili sauce, chili sauce, Salsa de chile",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.9",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "Mania butter, Mania butter, Mantequilla de manía",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.10",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "Iguashte",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.11",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "recado rojo",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.12",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "recado amarillo",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.13",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "miltomate message, miltomate message, recado de miltomate",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.14",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "ketchup, ketchup, salsa de tomate",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.15",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "tomato sauce, tomato sauce, salsa de miltomate",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.16",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "alguashte",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.17",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "mole",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.18",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "chirmol",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.13.19",
+      "parentCategoryId": "1.3.1.2.13",
+      "name": "adobo",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.1",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "Escabeche vegetables",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.2",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "Dried fish",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.3",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "Salted fish",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.4",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "Pickled jalapeños",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.5",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "Loroco in brine, Loroco in brine, Loroco en salmuera",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.6",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "curtido",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.7",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "onion pickle, onion pickle, encurtido de cebolla",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.8",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "pickled chili, pickled chili, chile en escabeche",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.9",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "pescado seco",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.10",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "queso seco",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.11",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "dried corn, dried corn, maíz seco",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.12",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "frijol seco",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.13",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "jocotes in honey, jocotes in honey, jocotes en miel",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.14.14",
+      "parentCategoryId": "1.3.1.2.14",
+      "name": "nance in honey, nance in honey, nance en miel",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.15.1",
+      "parentCategoryId": "1.3.1.2.15",
+      "name": "Panela",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.15.2",
+      "parentCategoryId": "1.3.1.2.15",
+      "name": "Cane sugar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.15.3",
+      "parentCategoryId": "1.3.1.2.15",
+      "name": "Molasses",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.15.4",
+      "parentCategoryId": "1.3.1.2.15",
+      "name": "Honey",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.15.5",
+      "parentCategoryId": "1.3.1.2.15",
+      "name": "cane sugar, cane sugar, azúcar de caña",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.15.6",
+      "parentCategoryId": "1.3.1.2.15",
+      "name": "panela",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.15.7",
+      "parentCategoryId": "1.3.1.2.15",
+      "name": "panela honey, panela honey, miel de panela",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.15.8",
+      "parentCategoryId": "1.3.1.2.15",
+      "name": "cane molasses, cane molasses, melaza de caña",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.15.9",
+      "parentCategoryId": "1.3.1.2.15",
+      "name": "bee honey, bee honey, miel de abeja",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.1",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "Water",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.2",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "Fish broth",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.3",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "Shrimp broth",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.4",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "Chicken broth",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.5",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "Milk",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.6",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "Coffee",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.7",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "Cacao drink",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.8",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "Coconut water",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.9",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "agua",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.10",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "fish broth, fish broth, caldo de pescado",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.11",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "seafood broth, seafood broth, caldo de mariscos",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.12",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "shrimp broth, shrimp broth, caldo de camarón",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.13",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "chicken soup, chicken soup, caldo de pollo",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.14",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "beef broth, beef broth, caldo de res",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.15",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "leche",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.16",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "café",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.16.17",
+      "parentCategoryId": "1.3.1.2.16",
+      "name": "chocolate",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.1",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "Cilantro leaves",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.2",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "Sliced radish",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.3",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "Sliced onion",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.4",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "Lime wedges",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.5",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "Toasted sesame seeds",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.6",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "Toasted pepitoria",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.7",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "Crema",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.8",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "Crumbled queso fresco",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.9",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "cilantro picado",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.10",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "perejil picado",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.11",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "toasted sesame, toasted sesame, ajonjolí tostado",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.12",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "pepitoria tostada",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.13",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "lemon in wedges, lemon in wedges, limón en gajos",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.14",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "cebolla curtida",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.15",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "jalapeño chili, jalapeño chili, chile jalapeño",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.17.16",
+      "parentCategoryId": "1.3.1.2.17",
+      "name": "queso seco rallado",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.1",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "Gusnay inflorescences",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.2",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "Pacaya inflorescences",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.3",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "Izote flower, Izote flower, Flor de izote",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.4",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "Apacin, Apacin, Apacín",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.5",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "Cashew jocote, Cashew jocote, Jocote de marañón",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.6",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "pacaya",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.7",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "izote flower, izote flower, flor de izote",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.8",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "maxan, maxan, maxán",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.9",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "maxan leaf, maxan leaf, hoja de maxán",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.10",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "sago, sago, sagú",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.11",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "yam, yam, ñame",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.12",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "moxpin, moxpin, moxpín",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.13",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "guapinol",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.18.14",
+      "parentCategoryId": "1.3.1.2.18",
+      "name": "cashew jocote, cashew jocote, jocote de marañón",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.19.1",
+      "parentCategoryId": "1.3.1.2.19",
+      "name": "Apacin, Apacin, Apacín",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.19.2",
+      "parentCategoryId": "1.3.1.2.19",
+      "name": "white basil, white basil, Albahaca blanca",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.19.3",
+      "parentCategoryId": "1.3.1.2.19",
+      "name": "Hierbabuena",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.19.4",
+      "parentCategoryId": "1.3.1.2.19",
+      "name": "lemongrass, lemongrass, Zacate de limón",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.19.5",
+      "parentCategoryId": "1.3.1.2.19",
+      "name": "Aloe Vera, Aloe Vera, Sábila",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.19.6",
+      "parentCategoryId": "1.3.1.2.19",
+      "name": "sago flour, sago flour, harina de sagú",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.19.7",
+      "parentCategoryId": "1.3.1.2.19",
+      "name": "guapinol",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.19.8",
+      "parentCategoryId": "1.3.1.2.19",
+      "name": "turkey jocote, turkey jocote, jocote de pava",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.19.9",
+      "parentCategoryId": "1.3.1.2.19",
+      "name": "jocote jobo",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.1",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "Cocoa Pozol, Cocoa Pozol, Pozol de cacao",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.2",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "Atol de amaranto, Atol de amaranto, Atol de amaranto",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.3",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "Atoll of thought, Atoll of thought, Atol de gandul",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.4",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "corn atol, corn atol, Atol de elote",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.5",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "Coffee",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.6",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "Fresh carambola, Fresh carambola, Fresco de carambola",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.7",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "Fresh cashew jocote, Fresh cashew jocote, Fresco de jocote de marañón",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.8",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "Fresh soursop, Fresh soursop, Fresco de guanábana",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.9",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "fresh papaya, fresh papaya, Fresco de papaya",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.10",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "Fresh passion fruit, Fresh passion fruit, Fresco de maracuyá",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.11",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "fresh pineapple, fresh pineapple, Fresco de piña",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.12",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "Schnapps, Schnapps, Aguardiente",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.13",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "café",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.14",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "cacao",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.15",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "chocolate",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.16",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "corn atole, corn atole, atol de elote",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.17",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "rice atoll, rice atoll, atol de arroz",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.18",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "corn atole, corn atole, atol de maíz",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.19",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "chicha",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.20",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "fresh cocoa, fresh cocoa, fresco de cacao",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.21",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "fresh from nance, fresh from nance, fresco de nance",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.20.22",
+      "parentCategoryId": "1.3.1.2.20",
+      "name": "cane guaro, cane guaro, guaro de caña",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.21.1",
+      "parentCategoryId": "1.3.1.2.21",
+      "name": "Salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.21.2",
+      "parentCategoryId": "1.3.1.2.21",
+      "name": "Cal",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.21.3",
+      "parentCategoryId": "1.3.1.2.21",
+      "name": "Wood ash",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.21.4",
+      "parentCategoryId": "1.3.1.2.21",
+      "name": "sal",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.21.5",
+      "parentCategoryId": "1.3.1.2.21",
+      "name": "cal",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.21.6",
+      "parentCategoryId": "1.3.1.2.21",
+      "name": "ceniza",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.1",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "Corn masa",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.2",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "Rice flour",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.3",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "Yeast",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.4",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "Cal",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.5",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "Ground pepitoria",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.6",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "Ground sesame seeds",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.7",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "corn dough, corn dough, masa de maíz",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.8",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "sago starch, sago starch, fécula de sagú",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.9",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "cassava flour, cassava flour, harina de yuca",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.10",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "rice flour, rice flour, harina de arroz",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.11",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "levadura",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.22.12",
+      "parentCategoryId": "1.3.1.2.22",
+      "name": "polvo para hornear",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.23.1",
+      "parentCategoryId": "1.3.1.2.23",
+      "name": "Maxán leaves",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.23.2",
+      "parentCategoryId": "1.3.1.2.23",
+      "name": "Banana leaves",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.23.3",
+      "parentCategoryId": "1.3.1.2.23",
+      "name": "Plantain leaves",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.23.4",
+      "parentCategoryId": "1.3.1.2.23",
+      "name": "Corn husks",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.23.5",
+      "parentCategoryId": "1.3.1.2.23",
+      "name": "maxan leaf, maxan leaf, hoja de maxán",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.23.6",
+      "parentCategoryId": "1.3.1.2.23",
+      "name": "banana leaf, banana leaf, hoja de plátano",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.23.7",
+      "parentCategoryId": "1.3.1.2.23",
+      "name": "corn cob, corn cob, tusa de elote",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.23.8",
+      "parentCategoryId": "1.3.1.2.23",
+      "name": "corn leaf, corn leaf, hoja de maíz",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.24.1",
+      "parentCategoryId": "1.3.1.2.24",
+      "name": "Firewood",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.24.2",
+      "parentCategoryId": "1.3.1.2.24",
+      "name": "Hearth smoke",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.24.3",
+      "parentCategoryId": "1.3.1.2.24",
+      "name": "Wood ash",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.24.4",
+      "parentCategoryId": "1.3.1.2.24",
+      "name": "firewood, firewood, leña",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.24.5",
+      "parentCategoryId": "1.3.1.2.24",
+      "name": "coal, coal, carbón",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.24.6",
+      "parentCategoryId": "1.3.1.2.24",
+      "name": "wood smoke, wood smoke, humo de leña",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.3.1.2.24.7",
+      "parentCategoryId": "1.3.1.2.24",
+      "name": "ceniza",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

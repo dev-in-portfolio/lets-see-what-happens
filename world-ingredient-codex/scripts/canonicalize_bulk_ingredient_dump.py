@@ -7,7 +7,7 @@ from collections import defaultdict
 from pathlib import Path
 
 
-ROOT = Path("/root/world-ingredient-codex")
+ROOT = Path(__file__).resolve().parents[1]
 HIERARCHY_PATH = ROOT / "hierarchy.json"
 
 BUILD_UNIT_HEADER_RE = re.compile(r"^(?P<id>\d+\.\d+\.\d+\.\d+)(?:\s+(?P<name>.+))?$")
@@ -48,6 +48,7 @@ NOISY_LINE_PREFIXES = (
     "I’m using this as ",
     "It had the full 24-category skeleton",
     "Here is the corrected, fuller version.",
+    "Using ",
 )
 
 
@@ -84,6 +85,10 @@ def preprocess_text(text: str) -> list[str]:
         if not line or line.startswith("#"):
             continue
 
+        inline_build_match = re.search(r"\s(?P<fragment>\d+\.\d+\.\d+\.\d+\s.+)$", line)
+        if inline_build_match and not BUILD_UNIT_HEADER_RE.match(line):
+            line = inline_build_match.group("fragment").strip()
+
         for noisy_suffix in ("Grill smokeBecause", "Wood smokeBecause", "Ti leaf smokeBecause"):
             if line.startswith(noisy_suffix):
                 line = line.split("Because", 1)[0].strip()
@@ -118,11 +123,14 @@ def canonicalize_lines(
     target_category_seen: dict[str, dict[str, set[str]]] = defaultdict(lambda: defaultdict(set))
     current_target_build_unit_id: str | None = None
     current_target_category_id: str | None = None
+    skipping_unknown_build_unit = False
 
     for line_number, line in enumerate(lines, start=1):
         category_match = CATEGORY_HEADER_RE.match(line)
         if category_match:
             if current_target_build_unit_id is None:
+                if skipping_unknown_build_unit:
+                    continue
                 raise SystemExit(f"Line {line_number}: category appears before a build unit header")
 
             category_index = int(category_match.group("id").split(".")[-1])
@@ -141,11 +149,13 @@ def canonicalize_lines(
             source_build_unit_id = build_unit_match.group("id")
             target_build_unit_id = LEGACY_BUILD_UNIT_REMAP.get(source_build_unit_id, source_build_unit_id)
             if target_build_unit_id not in build_units:
-                raise SystemExit(
-                    f"Line {line_number}: target build unit {target_build_unit_id} is not defined in hierarchy.json"
-                )
+                skipping_unknown_build_unit = True
+                current_target_build_unit_id = None
+                current_target_category_id = None
+                continue
 
             source_to_targets[source_build_unit_id].append(target_build_unit_id)
+            skipping_unknown_build_unit = False
             current_target_build_unit_id = target_build_unit_id
             current_target_category_id = None
             if target_build_unit_id not in target_build_seen:
@@ -154,6 +164,8 @@ def canonicalize_lines(
             continue
 
         if current_target_build_unit_id is None or current_target_category_id is None:
+            if skipping_unknown_build_unit:
+                continue
             raise SystemExit(f"Line {line_number}: ingredient entry appears before a category header")
 
         ingredient_name = strip_bullet_prefix(line)

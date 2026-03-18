@@ -1,5 +1,3386 @@
 {
   "buildUnitId": "6.7.7.3",
   "buildUnitName": "Amami / North Ryukyu",
-  "entries": []
+  "entries": [
+    {
+      "id": "6.7.7.3.1.1",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "rice",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.2",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "glutinous rice",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.3",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "rice flour",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.4",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "wheat flour",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.5",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "barley rice",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.6",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "millet",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.7",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "millet flour",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.8",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "somen noodles",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.9",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "udon noodles",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.10",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "sweet potato",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.11",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "satoimo",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.12",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "taimo",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.13",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "potato",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.14",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "pumpkin",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.15",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "sotetsu seed starch",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.16",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "hattai flour",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.17",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "glutinous rice flour",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.18",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "taro",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.1.19",
+      "parentCategoryId": "6.7.7.3.1",
+      "name": "koshaman",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.1",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "green papaya",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.2",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "handama",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.3",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "bitter melon",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.4",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "island cucumber",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.5",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "cabbage",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.6",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "island cabbage",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.7",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "onion",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.8",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "daikon radish",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.9",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "carrot",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.10",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "winter melon",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.11",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "fuki",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.12",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "fudan greens",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.13",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "garlic leaves",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.14",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "green onions",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.15",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "Asian chives",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.16",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "lettuce",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.17",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "cucumber",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.18",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "tomato",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.19",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "hechima",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.20",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "makomo",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.21",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "takana",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.22",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "bamboo shoots",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.23",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "bok choy",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.24",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "green beans",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.25",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "broccoli",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.26",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "hamabofu",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.27",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "tara not me, tara not me, tara no me",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.28",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "muji",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.29",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "aloe",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.30",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "shima rakkyo",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.31",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "tsuwabuki",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.32",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "leaf garlic",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.33",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "pumpkin",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.34",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "potato",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.2.35",
+      "parentCategoryId": "6.7.7.3.2",
+      "name": "taro",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.1",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "tankan",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.2",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "ponkan",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.3",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "Keraji mikan",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.4",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "shima mikan",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.5",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "papaya",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.6",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "passion fruit",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.7",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "mango",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.8",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "dragon fruit",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.9",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "Amami sumomo, Amami sumomo, Amami sumomo",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.10",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "mikan",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.11",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "island banana",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.12",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "atemoya",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.3.13",
+      "parentCategoryId": "6.7.7.3.3",
+      "name": "island pomelo",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.4.1",
+      "parentCategoryId": "6.7.7.3.4",
+      "name": "soybeans",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.4.2",
+      "parentCategoryId": "6.7.7.3.4",
+      "name": "adzuki beans",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.4.3",
+      "parentCategoryId": "6.7.7.3.4",
+      "name": "peanuts",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.4.4",
+      "parentCategoryId": "6.7.7.3.4",
+      "name": "broad beans",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.4.5",
+      "parentCategoryId": "6.7.7.3.4",
+      "name": "okara",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.5.1",
+      "parentCategoryId": "6.7.7.3.5",
+      "name": "white sesame",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.5.2",
+      "parentCategoryId": "6.7.7.3.5",
+      "name": "sesame seeds",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.5.3",
+      "parentCategoryId": "6.7.7.3.5",
+      "name": "peanuts",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.5.4",
+      "parentCategoryId": "6.7.7.3.5",
+      "name": "sotetsu seeds",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.1",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "pork",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.2",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "salted pork",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.3",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "salt-cured pork",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.4",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "dried pork",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.5",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "pork bones",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.6",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "pork liver",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.7",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "pork ears",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.8",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "pork offal",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.9",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "goat meat",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.10",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "goat offal",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.11",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "chicken",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.12",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "local chicken",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.13",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "eggs",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.14",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "Pacific bluefin tuna",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.15",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "kanpachi",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.16",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "sayori",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.17",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "filefish",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.18",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "red round herring",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.19",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "muroaji",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.20",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "irabuchi",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.21",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "shark",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.22",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "squid",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.23",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "Japanese spiny lobster",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.24",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "river prawn",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.25",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "crab",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.26",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "sea urchin",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.27",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "tobinya",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.28",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "yakougai",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.29",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "hizaragai",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.30",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "sea cucumber",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.31",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "octopus eggs",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.32",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "small fish",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.33",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "pork belly",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.34",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "chicken bones",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.35",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "wild boar",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.36",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "sodeika",
+      "sortOrder": 36,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.37",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "tuna",
+      "sortOrder": 37,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.38",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "amberjack",
+      "sortOrder": 38,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.39",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "octopus",
+      "sortOrder": 39,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.6.40",
+      "parentCategoryId": "6.7.7.3.6",
+      "name": "guinea fowl",
+      "sortOrder": 40,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.1",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "mugwort",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.2",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "shell ginger leaves",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.3",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "green onions",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.4",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "garlic leaves",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.5",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "Asian chives",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.6",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "handama",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.7",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "chomeiso",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.8",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "kubiki",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.9",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "hamabofu",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.10",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "bitter greens",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.11",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "fudan greens",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.12",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "takana greens",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.13",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "leaf garlic",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.14",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "green onion leaves",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.15",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "botanboufu",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.16",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "shimaazami",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.7.17",
+      "parentCategoryId": "6.7.7.3.7",
+      "name": "moringa",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.1",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "ginger",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.2",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.3",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "dried shiitake",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.4",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "katsuobushi",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.5",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "kombu",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.6",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "dried aosa",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.7",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "dried seaweed",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.8",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "thread chili",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.9",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "chili pepper",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.10",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "mustard",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.11",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "goji berries",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.12",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "dried baby sardines",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.13",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "dried sardines",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.14",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "bonito flakes",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.15",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "island chili",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.16",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "grilled laver",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.8.17",
+      "parentCategoryId": "6.7.7.3.8",
+      "name": "aosa",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.9.1",
+      "parentCategoryId": "6.7.7.3.9",
+      "name": "onion",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.9.2",
+      "parentCategoryId": "6.7.7.3.9",
+      "name": "green onion",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.9.3",
+      "parentCategoryId": "6.7.7.3.9",
+      "name": "garlic",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.9.4",
+      "parentCategoryId": "6.7.7.3.9",
+      "name": "ginger",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.9.5",
+      "parentCategoryId": "6.7.7.3.9",
+      "name": "Asian chives",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.9.6",
+      "parentCategoryId": "6.7.7.3.9",
+      "name": "garlic leaves",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.9.7",
+      "parentCategoryId": "6.7.7.3.9",
+      "name": "leaf garlic",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.10.1",
+      "parentCategoryId": "6.7.7.3.10",
+      "name": "lard",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.10.2",
+      "parentCategoryId": "6.7.7.3.10",
+      "name": "rendered pork fat",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.10.3",
+      "parentCategoryId": "6.7.7.3.10",
+      "name": "sesame oil",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.10.4",
+      "parentCategoryId": "6.7.7.3.10",
+      "name": "rapeseed oil",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.10.5",
+      "parentCategoryId": "6.7.7.3.10",
+      "name": "vegetable oil",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.10.6",
+      "parentCategoryId": "6.7.7.3.10",
+      "name": "tsubaki oil",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.11.1",
+      "parentCategoryId": "6.7.7.3.11",
+      "name": "island tofu",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.11.2",
+      "parentCategoryId": "6.7.7.3.11",
+      "name": "tofu",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.11.3",
+      "parentCategoryId": "6.7.7.3.11",
+      "name": "fried tofu",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.11.4",
+      "parentCategoryId": "6.7.7.3.11",
+      "name": "peanut tofu",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.11.5",
+      "parentCategoryId": "6.7.7.3.11",
+      "name": "miki",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.11.6",
+      "parentCategoryId": "6.7.7.3.11",
+      "name": "okara",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.12.1",
+      "parentCategoryId": "6.7.7.3.12",
+      "name": "vinegar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.12.2",
+      "parentCategoryId": "6.7.7.3.12",
+      "name": "sugarcane vinegar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.12.3",
+      "parentCategoryId": "6.7.7.3.12",
+      "name": "tankan juice",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.12.4",
+      "parentCategoryId": "6.7.7.3.12",
+      "name": "Keraji mikan juice",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.12.5",
+      "parentCategoryId": "6.7.7.3.12",
+      "name": "shima mikan juice",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.12.6",
+      "parentCategoryId": "6.7.7.3.12",
+      "name": "passion fruit juice",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.12.7",
+      "parentCategoryId": "6.7.7.3.12",
+      "name": "Amami sumomo, Amami sumomo, Amami sumomo",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.12.8",
+      "parentCategoryId": "6.7.7.3.12",
+      "name": "citrus zest",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.12.9",
+      "parentCategoryId": "6.7.7.3.12",
+      "name": "island pomelo",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.1",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "soy sauce",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.2",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "light soy sauce",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.3",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "miso",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.4",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "sotetsu miso",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.5",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "nari miso",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.6",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "pork miso",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.7",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "fish miso",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.8",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "egg miso",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.9",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "sesame miso",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.10",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "mustard miso",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.11",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "vinegared miso",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.12",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "island miso sauce",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.13",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "sesame dressing",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.14",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "grilled miso",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.15",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "buta miso",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.16",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "ika miso",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.17",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "nigauri miso",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.18",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "papaya miso-zuke",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.13.19",
+      "parentCategoryId": "6.7.7.3.13",
+      "name": "barley miso",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.1",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "salted pork",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.2",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "dried pork",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.3",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "smoked salt pork",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.4",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "pickled papaya",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.5",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "papaya miso pickle",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.6",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "papaya soy pickle",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.7",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "green papaya one-night pickle",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.8",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "green papaya hifumi pickle",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.9",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "bitter melon pickle",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.10",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "salt-cured garlic",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.11",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "sugar-cured garlic",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.12",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "pickled ginger",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.13",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "salt-pickled takana",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.14",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "miso-pickled daikon",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.15",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "dried papaya",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.16",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "fish miso-zuke",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.17",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "hizaragai miso-zuke",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.18",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "liver miso-zuke",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.19",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "salted fish entrails",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.20",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "salt-cured fish",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.21",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "miki",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.22",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "papaya pickles",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.23",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "papaya miso-zuke",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.24",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "nari miso",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.25",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "dried shiitake",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.26",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "dried sardines",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.27",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "smoked bonito",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.14.28",
+      "parentCategoryId": "6.7.7.3.14",
+      "name": "grilled laver",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.15.1",
+      "parentCategoryId": "6.7.7.3.15",
+      "name": "brown sugar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.15.2",
+      "parentCategoryId": "6.7.7.3.15",
+      "name": "black sugar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.15.3",
+      "parentCategoryId": "6.7.7.3.15",
+      "name": "raw cane sugar",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.15.4",
+      "parentCategoryId": "6.7.7.3.15",
+      "name": "sugarcane juice",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.15.5",
+      "parentCategoryId": "6.7.7.3.15",
+      "name": "black sugar syrup",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.15.6",
+      "parentCategoryId": "6.7.7.3.15",
+      "name": "white sugar",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.15.7",
+      "parentCategoryId": "6.7.7.3.15",
+      "name": "shima-zarame",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.15.8",
+      "parentCategoryId": "6.7.7.3.15",
+      "name": "sugarcane",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.1",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "chicken broth",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.2",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "fish broth",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.3",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "bonito broth",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.4",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "kombu broth",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.5",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "first dashi",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.6",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "water",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.7",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "miki",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.8",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "tankan juice",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.9",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "Keraji mikan juice",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.10",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "shima mikan juice",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.11",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "passion fruit juice",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.12",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "chicken stock",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.13",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "dashi stock",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.14",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "dried shiitake stock",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.16.15",
+      "parentCategoryId": "6.7.7.3.16",
+      "name": "kokuto shochu",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.1",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "shredded chicken",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.2",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "kinshi tamago",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.3",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "pickled papaya",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.4",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "shiitake slices",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.5",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "seaweed",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.6",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "nori",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.7",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "green onions",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.8",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "citrus zest",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.9",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "sesame seeds",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.10",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "goji berries",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.11",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "thread chili",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.12",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "aosa",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.13",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "green onion leaves",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.14",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "mandarin orange peel",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.15",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "grilled laver",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.16",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "shredded shiitake",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.17.17",
+      "parentCategoryId": "6.7.7.3.17",
+      "name": "white sesame",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.1",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "sotetsu seeds",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.2",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "sotetsu seed starch",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.3",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "kubiki wood cuttings",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.4",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "mashu sea salt",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.5",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "tobinya",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.6",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "yakougai",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.7",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "hizaragai",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.8",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "octopus eggs",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.9",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "sea urchin",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.10",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "aosa",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.11",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "mozuku",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.12",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "kikurage",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.13",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "makomo",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.14",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "muji",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.15",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "Keraji mikan",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.16",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "sotetsu starch",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.17",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "botanboufu",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.18",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "shimaazami",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.19",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "moringa",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.20",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "wild boar",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.18.21",
+      "parentCategoryId": "6.7.7.3.18",
+      "name": "guinea fowl",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.1",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "kubiki",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.2",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "kubiki tea",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.3",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "chomeiso",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.4",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "handama",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.5",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "aloe",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.6",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "bitter greens",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.7",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "mugwort",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.8",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "shima mikan",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.9",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "Keraji mikan",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.10",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "botanboufu",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.11",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "shimaazami",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.19.12",
+      "parentCategoryId": "6.7.7.3.19",
+      "name": "moringa",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.20.1",
+      "parentCategoryId": "6.7.7.3.20",
+      "name": "kokuto shochu",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.20.2",
+      "parentCategoryId": "6.7.7.3.20",
+      "name": "miki",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.20.3",
+      "parentCategoryId": "6.7.7.3.20",
+      "name": "kubiki tea",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.20.4",
+      "parentCategoryId": "6.7.7.3.20",
+      "name": "tankan juice",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.20.5",
+      "parentCategoryId": "6.7.7.3.20",
+      "name": "Keraji mikan juice",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.20.6",
+      "parentCategoryId": "6.7.7.3.20",
+      "name": "shima mikan juice",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.20.7",
+      "parentCategoryId": "6.7.7.3.20",
+      "name": "passion fruit juice",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.20.8",
+      "parentCategoryId": "6.7.7.3.20",
+      "name": "sugarcane juice",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.20.9",
+      "parentCategoryId": "6.7.7.3.20",
+      "name": "Shimayusen",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.21.1",
+      "parentCategoryId": "6.7.7.3.21",
+      "name": "mashu sea salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.21.2",
+      "parentCategoryId": "6.7.7.3.21",
+      "name": "sea salt",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.21.3",
+      "parentCategoryId": "6.7.7.3.21",
+      "name": "goma shio",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.21.4",
+      "parentCategoryId": "6.7.7.3.21",
+      "name": "island salt",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.21.5",
+      "parentCategoryId": "6.7.7.3.21",
+      "name": "baking soda",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.1",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "koji mold",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.2",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "rice koji",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.3",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "egg white",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.4",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "sotetsu seed starch",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.5",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "potato starch",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.6",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "rice flour",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.7",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "wheat flour",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.8",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "baking powder",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.9",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "baking soda",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.10",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "glutinous rice flour",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.11",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "sotetsu starch",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.22.12",
+      "parentCategoryId": "6.7.7.3.22",
+      "name": "sweet potato starch",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.23.1",
+      "parentCategoryId": "6.7.7.3.23",
+      "name": "shell ginger leaves",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.23.2",
+      "parentCategoryId": "6.7.7.3.23",
+      "name": "spring roll wrappers",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.23.3",
+      "parentCategoryId": "6.7.7.3.23",
+      "name": "straw mat",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.23.4",
+      "parentCategoryId": "6.7.7.3.23",
+      "name": "earthenware crock",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.23.5",
+      "parentCategoryId": "6.7.7.3.23",
+      "name": "cloth lining",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.23.6",
+      "parentCategoryId": "6.7.7.3.23",
+      "name": "wooden skewers",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.23.7",
+      "parentCategoryId": "6.7.7.3.23",
+      "name": "kasha leaves",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.23.8",
+      "parentCategoryId": "6.7.7.3.23",
+      "name": "storage jar",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.23.9",
+      "parentCategoryId": "6.7.7.3.23",
+      "name": "wooden spoon",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.24.1",
+      "parentCategoryId": "6.7.7.3.24",
+      "name": "firewood",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.24.2",
+      "parentCategoryId": "6.7.7.3.24",
+      "name": "kubiki wood",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.24.3",
+      "parentCategoryId": "6.7.7.3.24",
+      "name": "wood smoke",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.24.4",
+      "parentCategoryId": "6.7.7.3.24",
+      "name": "ash",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.7.3.24.5",
+      "parentCategoryId": "6.7.7.3.24",
+      "name": "tea infusion",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

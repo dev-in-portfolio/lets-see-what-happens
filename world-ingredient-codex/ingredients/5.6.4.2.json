@@ -1,5 +1,2366 @@
 {
   "buildUnitId": "5.6.4.2",
   "buildUnitName": "South Coastal Andhra",
-  "entries": []
+  "entries": [
+    {
+      "id": "5.6.4.2.1.1",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Paddy rice",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.2",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Parboiled rice",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.3",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Raw rice",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.4",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Rice flour",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.5",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Broken rice",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.6",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Idli rice",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.7",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Flattened rice",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.8",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Puffed rice",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.9",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Jowar",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.10",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Maize",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.11",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Ragi",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.12",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Semolina",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.1.13",
+      "parentCategoryId": "5.6.4.2.1",
+      "name": "Wheat flour",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.1",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Brinjal",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.2",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Tender brinjal",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.3",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Tomato",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.4",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Okra",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.5",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Bottle gourd",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.6",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Ridge gourd",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.7",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Snake gourd",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.8",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Bitter gourd",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.9",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Ash gourd",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.10",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Cucumber",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.11",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Little gourd",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.12",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Elephant foot yam",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.13",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Onion",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.14",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Small onion",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.15",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Garlic",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.16",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Green chillies",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.17",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Guntur Sannam chillies",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.18",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Cabbage",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.19",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Cauliflower",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.20",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Leafy greens",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.21",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Amaranth greens",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.2.22",
+      "parentCategoryId": "5.6.4.2.2",
+      "name": "Gongura",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.1",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Mango",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.2",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Raw mango",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.3",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Banana",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.4",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Papaya",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.5",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Guava",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.6",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Sapota",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.7",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Sweet orange",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.8",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Lemon",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.9",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Acid lime",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.10",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Watermelon",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.11",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Coconut",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.12",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Tender coconut",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.13",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Cashew apple",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.3.14",
+      "parentCategoryId": "5.6.4.2.3",
+      "name": "Indian gooseberry",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.4.1",
+      "parentCategoryId": "5.6.4.2.4",
+      "name": "Toor dal",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.4.2",
+      "parentCategoryId": "5.6.4.2.4",
+      "name": "Red gram",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.4.3",
+      "parentCategoryId": "5.6.4.2.4",
+      "name": "Black gram",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.4.4",
+      "parentCategoryId": "5.6.4.2.4",
+      "name": "Urad dal",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.4.5",
+      "parentCategoryId": "5.6.4.2.4",
+      "name": "Split urad dal",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.4.6",
+      "parentCategoryId": "5.6.4.2.4",
+      "name": "Green gram",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.4.7",
+      "parentCategoryId": "5.6.4.2.4",
+      "name": "Moong dal",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.4.8",
+      "parentCategoryId": "5.6.4.2.4",
+      "name": "Bengal gram",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.4.9",
+      "parentCategoryId": "5.6.4.2.4",
+      "name": "Chana dal",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.4.10",
+      "parentCategoryId": "5.6.4.2.4",
+      "name": "Chickpeas",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.4.11",
+      "parentCategoryId": "5.6.4.2.4",
+      "name": "Cowpea",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.5.1",
+      "parentCategoryId": "5.6.4.2.5",
+      "name": "Fresh coconut",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.5.2",
+      "parentCategoryId": "5.6.4.2.5",
+      "name": "Grated coconut",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.5.3",
+      "parentCategoryId": "5.6.4.2.5",
+      "name": "Dried coconut",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.5.4",
+      "parentCategoryId": "5.6.4.2.5",
+      "name": "Copra",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.5.5",
+      "parentCategoryId": "5.6.4.2.5",
+      "name": "Groundnut",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.5.6",
+      "parentCategoryId": "5.6.4.2.5",
+      "name": "White sesame seeds",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.5.7",
+      "parentCategoryId": "5.6.4.2.5",
+      "name": "Black sesame seeds",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.5.8",
+      "parentCategoryId": "5.6.4.2.5",
+      "name": "Cashew nuts",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.5.9",
+      "parentCategoryId": "5.6.4.2.5",
+      "name": "Sunflower seeds",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.5.10",
+      "parentCategoryId": "5.6.4.2.5",
+      "name": "Niger seeds",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.1",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Vannamei shrimp",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.2",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Black tiger prawns",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.3",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Indian white prawns",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.4",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Freshwater prawns",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.5",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Mud crab",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.6",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Blue swimmer crab",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.7",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Seer fish",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.8",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Indian mackerel",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.9",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Lesser sardines",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.10",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Croakers",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.11",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Mullets",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.12",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Barramundi",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.13",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Rohu",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.14",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Catla",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.15",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Tilapia",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.16",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Chicken",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.17",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Country chicken",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.18",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Goat meat",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.6.19",
+      "parentCategoryId": "5.6.4.2.6",
+      "name": "Eggs",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.7.1",
+      "parentCategoryId": "5.6.4.2.7",
+      "name": "Curry leaves",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.7.2",
+      "parentCategoryId": "5.6.4.2.7",
+      "name": "Coriander leaves",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.7.3",
+      "parentCategoryId": "5.6.4.2.7",
+      "name": "Mint leaves",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.7.4",
+      "parentCategoryId": "5.6.4.2.7",
+      "name": "Gongura leaves",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.7.5",
+      "parentCategoryId": "5.6.4.2.7",
+      "name": "Amaranth leaves",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.7.6",
+      "parentCategoryId": "5.6.4.2.7",
+      "name": "Betel leaves",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.7.7",
+      "parentCategoryId": "5.6.4.2.7",
+      "name": "Tulsi",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.1",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Guntur Sannam chilli",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.2",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Dried red chillies",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.3",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Red chilli powder",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.4",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Black pepper",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.5",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Coriander seeds",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.6",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Cumin seeds",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.7",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Fenugreek seeds",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.8",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Mustard seeds",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.9",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Turmeric",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.10",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Turmeric powder",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.11",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Dry ginger",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.12",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Asafoetida",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.8.13",
+      "parentCategoryId": "5.6.4.2.8",
+      "name": "Garlic flakes",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.9.1",
+      "parentCategoryId": "5.6.4.2.9",
+      "name": "Onion",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.9.2",
+      "parentCategoryId": "5.6.4.2.9",
+      "name": "Small onion",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.9.3",
+      "parentCategoryId": "5.6.4.2.9",
+      "name": "Garlic",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.9.4",
+      "parentCategoryId": "5.6.4.2.9",
+      "name": "Ginger",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.9.5",
+      "parentCategoryId": "5.6.4.2.9",
+      "name": "Green chillies",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.9.6",
+      "parentCategoryId": "5.6.4.2.9",
+      "name": "Tomato",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.9.7",
+      "parentCategoryId": "5.6.4.2.9",
+      "name": "Curry leaves",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.9.8",
+      "parentCategoryId": "5.6.4.2.9",
+      "name": "Coriander leaves",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.9.9",
+      "parentCategoryId": "5.6.4.2.9",
+      "name": "Grated coconut",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.10.1",
+      "parentCategoryId": "5.6.4.2.10",
+      "name": "Gingelly oil",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.10.2",
+      "parentCategoryId": "5.6.4.2.10",
+      "name": "Groundnut oil",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.10.3",
+      "parentCategoryId": "5.6.4.2.10",
+      "name": "Sunflower oil",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.10.4",
+      "parentCategoryId": "5.6.4.2.10",
+      "name": "Ghee",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.10.5",
+      "parentCategoryId": "5.6.4.2.10",
+      "name": "Butter",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.10.6",
+      "parentCategoryId": "5.6.4.2.10",
+      "name": "Coconut oil",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.11.1",
+      "parentCategoryId": "5.6.4.2.11",
+      "name": "Milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.11.2",
+      "parentCategoryId": "5.6.4.2.11",
+      "name": "Curd",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.11.3",
+      "parentCategoryId": "5.6.4.2.11",
+      "name": "Yogurt",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.11.4",
+      "parentCategoryId": "5.6.4.2.11",
+      "name": "Buttermilk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.11.5",
+      "parentCategoryId": "5.6.4.2.11",
+      "name": "Butter",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.11.6",
+      "parentCategoryId": "5.6.4.2.11",
+      "name": "Ghee",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.11.7",
+      "parentCategoryId": "5.6.4.2.11",
+      "name": "Coconut milk",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.12.1",
+      "parentCategoryId": "5.6.4.2.12",
+      "name": "Tamarind",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.12.2",
+      "parentCategoryId": "5.6.4.2.12",
+      "name": "Tamarind extract",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.12.3",
+      "parentCategoryId": "5.6.4.2.12",
+      "name": "Raw mango",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.12.4",
+      "parentCategoryId": "5.6.4.2.12",
+      "name": "Gongura",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.12.5",
+      "parentCategoryId": "5.6.4.2.12",
+      "name": "Lemon juice",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.12.6",
+      "parentCategoryId": "5.6.4.2.12",
+      "name": "Lime juice",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.12.7",
+      "parentCategoryId": "5.6.4.2.12",
+      "name": "Curd",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.12.8",
+      "parentCategoryId": "5.6.4.2.12",
+      "name": "Buttermilk",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.12.9",
+      "parentCategoryId": "5.6.4.2.12",
+      "name": "Tomato",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.1",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Gongura pachadi",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.2",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Gongura pickle",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.3",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Allam pachadi, Allam pachadi, Allam pachadi",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.4",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Coconut chutney",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.5",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Peanut chutney",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.6",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Sesame chutney",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.7",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Tomato pachadi",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.8",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Tamarind paste",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.9",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Ginger garlic paste",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.10",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Avakaya",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.11",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Mango pickle",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.13.12",
+      "parentCategoryId": "5.6.4.2.13",
+      "name": "Chilli pickle",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.14.1",
+      "parentCategoryId": "5.6.4.2.14",
+      "name": "Idli batter",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.14.2",
+      "parentCategoryId": "5.6.4.2.14",
+      "name": "Dosa batter",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.14.3",
+      "parentCategoryId": "5.6.4.2.14",
+      "name": "Fermented rice batter",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.14.4",
+      "parentCategoryId": "5.6.4.2.14",
+      "name": "Dried fish",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.14.5",
+      "parentCategoryId": "5.6.4.2.14",
+      "name": "Dried prawns",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.14.6",
+      "parentCategoryId": "5.6.4.2.14",
+      "name": "Salt-cured prawns",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.14.7",
+      "parentCategoryId": "5.6.4.2.14",
+      "name": "Avakaya",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.14.8",
+      "parentCategoryId": "5.6.4.2.14",
+      "name": "Mango pickle",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.14.9",
+      "parentCategoryId": "5.6.4.2.14",
+      "name": "Gongura pickle",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.14.10",
+      "parentCategoryId": "5.6.4.2.14",
+      "name": "Sun-dried chillies",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.14.11",
+      "parentCategoryId": "5.6.4.2.14",
+      "name": "Sun-dried gongura",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.15.1",
+      "parentCategoryId": "5.6.4.2.15",
+      "name": "Jaggery",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.15.2",
+      "parentCategoryId": "5.6.4.2.15",
+      "name": "Palm jaggery",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.15.3",
+      "parentCategoryId": "5.6.4.2.15",
+      "name": "Cane sugar",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.15.4",
+      "parentCategoryId": "5.6.4.2.15",
+      "name": "Rock sugar",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.15.5",
+      "parentCategoryId": "5.6.4.2.15",
+      "name": "Honey",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.16.1",
+      "parentCategoryId": "5.6.4.2.16",
+      "name": "Water",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.16.2",
+      "parentCategoryId": "5.6.4.2.16",
+      "name": "Tender coconut water",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.16.3",
+      "parentCategoryId": "5.6.4.2.16",
+      "name": "Coconut milk",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.16.4",
+      "parentCategoryId": "5.6.4.2.16",
+      "name": "Buttermilk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.16.5",
+      "parentCategoryId": "5.6.4.2.16",
+      "name": "Tamarind water",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.16.6",
+      "parentCategoryId": "5.6.4.2.16",
+      "name": "Rice starch water",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.16.7",
+      "parentCategoryId": "5.6.4.2.16",
+      "name": "Fish stock",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.16.8",
+      "parentCategoryId": "5.6.4.2.16",
+      "name": "Prawn stock",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.16.9",
+      "parentCategoryId": "5.6.4.2.16",
+      "name": "Chicken stock",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.16.10",
+      "parentCategoryId": "5.6.4.2.16",
+      "name": "Coffee decoction",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.17.1",
+      "parentCategoryId": "5.6.4.2.17",
+      "name": "Chopped onion",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.17.2",
+      "parentCategoryId": "5.6.4.2.17",
+      "name": "Chopped coriander leaves",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.17.3",
+      "parentCategoryId": "5.6.4.2.17",
+      "name": "Curry leaves",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.17.4",
+      "parentCategoryId": "5.6.4.2.17",
+      "name": "Fried curry leaves",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.17.5",
+      "parentCategoryId": "5.6.4.2.17",
+      "name": "Grated coconut",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.17.6",
+      "parentCategoryId": "5.6.4.2.17",
+      "name": "Roasted groundnuts",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.17.7",
+      "parentCategoryId": "5.6.4.2.17",
+      "name": "Sesame powder",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.17.8",
+      "parentCategoryId": "5.6.4.2.17",
+      "name": "Ghee drizzle",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.17.9",
+      "parentCategoryId": "5.6.4.2.17",
+      "name": "Lemon wedges",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.17.10",
+      "parentCategoryId": "5.6.4.2.17",
+      "name": "Fried garlic",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.1",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Guntur Sannam chilli",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.2",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Red-stem gongura",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.3",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Green-stem gongura",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.4",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Vannamei shrimp",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.5",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Black tiger prawns",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.6",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Bapatla shrimp",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.7",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Nellore fish masala",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.8",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Pesarattu batter",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.9",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Gongura paste",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.10",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Gongura pickle masala",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.11",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Sun-dried gongura",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.18.12",
+      "parentCategoryId": "5.6.4.2.18",
+      "name": "Betel leaves",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.19.1",
+      "parentCategoryId": "5.6.4.2.19",
+      "name": "Dry ginger",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.19.2",
+      "parentCategoryId": "5.6.4.2.19",
+      "name": "Black pepper",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.19.3",
+      "parentCategoryId": "5.6.4.2.19",
+      "name": "Cumin seeds",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.19.4",
+      "parentCategoryId": "5.6.4.2.19",
+      "name": "Coriander seeds",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.19.5",
+      "parentCategoryId": "5.6.4.2.19",
+      "name": "Tulsi",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.19.6",
+      "parentCategoryId": "5.6.4.2.19",
+      "name": "Indian gooseberry",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.19.7",
+      "parentCategoryId": "5.6.4.2.19",
+      "name": "Honey",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.19.8",
+      "parentCategoryId": "5.6.4.2.19",
+      "name": "Tender coconut water",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.19.9",
+      "parentCategoryId": "5.6.4.2.19",
+      "name": "Betel leaves",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.19.10",
+      "parentCategoryId": "5.6.4.2.19",
+      "name": "Garlic",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.20.1",
+      "parentCategoryId": "5.6.4.2.20",
+      "name": "Filter coffee",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.20.2",
+      "parentCategoryId": "5.6.4.2.20",
+      "name": "Black tea",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.20.3",
+      "parentCategoryId": "5.6.4.2.20",
+      "name": "Buttermilk",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.20.4",
+      "parentCategoryId": "5.6.4.2.20",
+      "name": "Neeru majjiga",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.20.5",
+      "parentCategoryId": "5.6.4.2.20",
+      "name": "Rice gruel",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.20.6",
+      "parentCategoryId": "5.6.4.2.20",
+      "name": "Sugarcane juice",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.20.7",
+      "parentCategoryId": "5.6.4.2.20",
+      "name": "Tender coconut water",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.21.1",
+      "parentCategoryId": "5.6.4.2.21",
+      "name": "Sea salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.21.2",
+      "parentCategoryId": "5.6.4.2.21",
+      "name": "Rock salt",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.21.3",
+      "parentCategoryId": "5.6.4.2.21",
+      "name": "Iodized salt",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.21.4",
+      "parentCategoryId": "5.6.4.2.21",
+      "name": "Slaked lime",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.22.1",
+      "parentCategoryId": "5.6.4.2.22",
+      "name": "Fermented idli batter",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.22.2",
+      "parentCategoryId": "5.6.4.2.22",
+      "name": "Fermented dosa batter",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.22.3",
+      "parentCategoryId": "5.6.4.2.22",
+      "name": "Sour curd",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.22.4",
+      "parentCategoryId": "5.6.4.2.22",
+      "name": "Sour buttermilk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.22.5",
+      "parentCategoryId": "5.6.4.2.22",
+      "name": "Rice flour slurry",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.22.6",
+      "parentCategoryId": "5.6.4.2.22",
+      "name": "Urad dal batter",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.22.7",
+      "parentCategoryId": "5.6.4.2.22",
+      "name": "Baking soda",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.23.1",
+      "parentCategoryId": "5.6.4.2.23",
+      "name": "Banana leaf",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.23.2",
+      "parentCategoryId": "5.6.4.2.23",
+      "name": "Earthen pot",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.23.3",
+      "parentCategoryId": "5.6.4.2.23",
+      "name": "Muslin cloth",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.23.4",
+      "parentCategoryId": "5.6.4.2.23",
+      "name": "Coconut shell",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.24.1",
+      "parentCategoryId": "5.6.4.2.24",
+      "name": "Firewood smoke",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.24.2",
+      "parentCategoryId": "5.6.4.2.24",
+      "name": "Coconut shell embers",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.24.3",
+      "parentCategoryId": "5.6.4.2.24",
+      "name": "Charcoal embers",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.6.4.2.24.4",
+      "parentCategoryId": "5.6.4.2.24",
+      "name": "Paddy-straw smoke",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

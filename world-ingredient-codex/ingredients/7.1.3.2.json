@@ -1,5 +1,1396 @@
 {
   "buildUnitId": "7.1.3.2",
   "buildUnitName": "Ayutthaya-Chao Phraya Basin",
-  "entries": []
+  "entries": [
+    {
+      "id": "7.1.3.2.1.1",
+      "parentCategoryId": "7.1.3.2.1",
+      "name": "rice",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.1.2",
+      "parentCategoryId": "7.1.3.2.1",
+      "name": "sticky rice",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.1.3",
+      "parentCategoryId": "7.1.3.2.1",
+      "name": "rice noodles",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.1.4",
+      "parentCategoryId": "7.1.3.2.1",
+      "name": "small rice noodles",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.1.5",
+      "parentCategoryId": "7.1.3.2.1",
+      "name": "thin rice noodles",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.1.6",
+      "parentCategoryId": "7.1.3.2.1",
+      "name": "wide rice noodles",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.1.7",
+      "parentCategoryId": "7.1.3.2.1",
+      "name": "egg noodles",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.1.8",
+      "parentCategoryId": "7.1.3.2.1",
+      "name": "roti sheets",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.2.1",
+      "parentCategoryId": "7.1.3.2.2",
+      "name": "lotus stems",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.2.2",
+      "parentCategoryId": "7.1.3.2.2",
+      "name": "cucumber",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.2.3",
+      "parentCategoryId": "7.1.3.2.2",
+      "name": "winged beans",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.2.4",
+      "parentCategoryId": "7.1.3.2.2",
+      "name": "white turmeric",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.2.5",
+      "parentCategoryId": "7.1.3.2.2",
+      "name": "onion",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.2.6",
+      "parentCategoryId": "7.1.3.2.2",
+      "name": "scallions",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.2.7",
+      "parentCategoryId": "7.1.3.2.2",
+      "name": "bean sprouts",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.2.8",
+      "parentCategoryId": "7.1.3.2.2",
+      "name": "morning glory",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.2.9",
+      "parentCategoryId": "7.1.3.2.2",
+      "name": "kale",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.2.10",
+      "parentCategoryId": "7.1.3.2.2",
+      "name": "radish",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.3.1",
+      "parentCategoryId": "7.1.3.2.3",
+      "name": "pineapple",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.3.2",
+      "parentCategoryId": "7.1.3.2.3",
+      "name": "tamarind",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.3.3",
+      "parentCategoryId": "7.1.3.2.3",
+      "name": "lime",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.3.4",
+      "parentCategoryId": "7.1.3.2.3",
+      "name": "coconut",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.4.1",
+      "parentCategoryId": "7.1.3.2.4",
+      "name": "winged beans",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.4.2",
+      "parentCategoryId": "7.1.3.2.4",
+      "name": "peanuts",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.5.1",
+      "parentCategoryId": "7.1.3.2.5",
+      "name": "peanuts",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.5.2",
+      "parentCategoryId": "7.1.3.2.5",
+      "name": "sesame",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.5.3",
+      "parentCategoryId": "7.1.3.2.5",
+      "name": "white sesame",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.5.4",
+      "parentCategoryId": "7.1.3.2.5",
+      "name": "coriander seeds",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.1",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "giant river prawns",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.2",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "freshwater prawns",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.3",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "shrimp",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.4",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "river fish",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.5",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "freshwater fish",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.6",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "featherback fish",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.7",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "fish cakes",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.8",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "pork",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.9",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "beef",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.10",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "pork ribs",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.11",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "pig liver",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.12",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "meatballs",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.13",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "pig blood",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.14",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "beef blood",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.15",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "salted fish",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.6.16",
+      "parentCategoryId": "7.1.3.2.6",
+      "name": "squid flakes",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.7.1",
+      "parentCategoryId": "7.1.3.2.7",
+      "name": "coriander",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.7.2",
+      "parentCategoryId": "7.1.3.2.7",
+      "name": "lemongrass",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.7.3",
+      "parentCategoryId": "7.1.3.2.7",
+      "name": "tree basil leaves",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.7.4",
+      "parentCategoryId": "7.1.3.2.7",
+      "name": "makrut lime leaves",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.7.5",
+      "parentCategoryId": "7.1.3.2.7",
+      "name": "ginger",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.7.6",
+      "parentCategoryId": "7.1.3.2.7",
+      "name": "scallions",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.7.7",
+      "parentCategoryId": "7.1.3.2.7",
+      "name": "pandan leaves",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.8.1",
+      "parentCategoryId": "7.1.3.2.8",
+      "name": "chilies",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.8.2",
+      "parentCategoryId": "7.1.3.2.8",
+      "name": "dried chili flakes",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.8.3",
+      "parentCategoryId": "7.1.3.2.8",
+      "name": "cinnamon",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.8.4",
+      "parentCategoryId": "7.1.3.2.8",
+      "name": "coriander powder",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.8.5",
+      "parentCategoryId": "7.1.3.2.8",
+      "name": "coriander seeds",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.8.6",
+      "parentCategoryId": "7.1.3.2.8",
+      "name": "sesame",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.9.1",
+      "parentCategoryId": "7.1.3.2.9",
+      "name": "garlic",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.9.2",
+      "parentCategoryId": "7.1.3.2.9",
+      "name": "fried garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.9.3",
+      "parentCategoryId": "7.1.3.2.9",
+      "name": "onion",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.9.4",
+      "parentCategoryId": "7.1.3.2.9",
+      "name": "ginger",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.9.5",
+      "parentCategoryId": "7.1.3.2.9",
+      "name": "lemongrass",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.9.6",
+      "parentCategoryId": "7.1.3.2.9",
+      "name": "scallions",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.9.7",
+      "parentCategoryId": "7.1.3.2.9",
+      "name": "coriander",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.9.8",
+      "parentCategoryId": "7.1.3.2.9",
+      "name": "tree basil leaves",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.9.9",
+      "parentCategoryId": "7.1.3.2.9",
+      "name": "makrut lime leaves",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.9.10",
+      "parentCategoryId": "7.1.3.2.9",
+      "name": "pandan leaves",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.10.1",
+      "parentCategoryId": "7.1.3.2.10",
+      "name": "vegetable oil",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.10.2",
+      "parentCategoryId": "7.1.3.2.10",
+      "name": "prawn fat",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.10.3",
+      "parentCategoryId": "7.1.3.2.10",
+      "name": "pork fat",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.11.1",
+      "parentCategoryId": "7.1.3.2.11",
+      "name": "pickled bean curd",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.11.2",
+      "parentCategoryId": "7.1.3.2.11",
+      "name": "yellow soybean paste",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.12.1",
+      "parentCategoryId": "7.1.3.2.12",
+      "name": "tamarind juice",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.12.2",
+      "parentCategoryId": "7.1.3.2.12",
+      "name": "lime juice",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.12.3",
+      "parentCategoryId": "7.1.3.2.12",
+      "name": "pineapple",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.12.4",
+      "parentCategoryId": "7.1.3.2.12",
+      "name": "vinegar",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.12.5",
+      "parentCategoryId": "7.1.3.2.12",
+      "name": "pickled garlic brine",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.13.1",
+      "parentCategoryId": "7.1.3.2.13",
+      "name": "fish sauce",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.13.2",
+      "parentCategoryId": "7.1.3.2.13",
+      "name": "dark soy sauce",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.13.3",
+      "parentCategoryId": "7.1.3.2.13",
+      "name": "yellow soybean paste",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.13.4",
+      "parentCategoryId": "7.1.3.2.13",
+      "name": "pickled bean curd",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.13.5",
+      "parentCategoryId": "7.1.3.2.13",
+      "name": "seafood dipping sauce",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.13.6",
+      "parentCategoryId": "7.1.3.2.13",
+      "name": "ajard sauce",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.13.7",
+      "parentCategoryId": "7.1.3.2.13",
+      "name": "spicy dressing",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.14.1",
+      "parentCategoryId": "7.1.3.2.14",
+      "name": "pickled bean curd",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.14.2",
+      "parentCategoryId": "7.1.3.2.14",
+      "name": "pickled garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.14.3",
+      "parentCategoryId": "7.1.3.2.14",
+      "name": "honey-pickled garlic",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.14.4",
+      "parentCategoryId": "7.1.3.2.14",
+      "name": "yellow soybean paste",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.14.5",
+      "parentCategoryId": "7.1.3.2.14",
+      "name": "salted fish",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.14.6",
+      "parentCategoryId": "7.1.3.2.14",
+      "name": "fish sauce",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.14.7",
+      "parentCategoryId": "7.1.3.2.14",
+      "name": "preserved radish",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.15.1",
+      "parentCategoryId": "7.1.3.2.15",
+      "name": "spun sugar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.15.2",
+      "parentCategoryId": "7.1.3.2.15",
+      "name": "white sugar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.15.3",
+      "parentCategoryId": "7.1.3.2.15",
+      "name": "honey",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.16.1",
+      "parentCategoryId": "7.1.3.2.16",
+      "name": "water",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.16.2",
+      "parentCategoryId": "7.1.3.2.16",
+      "name": "broth",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.16.3",
+      "parentCategoryId": "7.1.3.2.16",
+      "name": "tamarind juice",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.16.4",
+      "parentCategoryId": "7.1.3.2.16",
+      "name": "lime juice",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.16.5",
+      "parentCategoryId": "7.1.3.2.16",
+      "name": "coconut water",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.16.6",
+      "parentCategoryId": "7.1.3.2.16",
+      "name": "pickled garlic brine",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.17.1",
+      "parentCategoryId": "7.1.3.2.17",
+      "name": "fried garlic",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.17.2",
+      "parentCategoryId": "7.1.3.2.17",
+      "name": "coriander",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.17.3",
+      "parentCategoryId": "7.1.3.2.17",
+      "name": "scallions",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.17.4",
+      "parentCategoryId": "7.1.3.2.17",
+      "name": "cucumber",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.17.5",
+      "parentCategoryId": "7.1.3.2.17",
+      "name": "winged beans",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.17.6",
+      "parentCategoryId": "7.1.3.2.17",
+      "name": "white turmeric",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.17.7",
+      "parentCategoryId": "7.1.3.2.17",
+      "name": "pork rinds",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.17.8",
+      "parentCategoryId": "7.1.3.2.17",
+      "name": "bean sprouts",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.17.9",
+      "parentCategoryId": "7.1.3.2.17",
+      "name": "edible flowers",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.17.10",
+      "parentCategoryId": "7.1.3.2.17",
+      "name": "dried chili flakes",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.17.11",
+      "parentCategoryId": "7.1.3.2.17",
+      "name": "squid flakes",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.18.1",
+      "parentCategoryId": "7.1.3.2.18",
+      "name": "giant river prawns",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.18.2",
+      "parentCategoryId": "7.1.3.2.18",
+      "name": "lotus stems",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.18.3",
+      "parentCategoryId": "7.1.3.2.18",
+      "name": "featherback fish balls",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.18.4",
+      "parentCategoryId": "7.1.3.2.18",
+      "name": "roti sai mai",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.18.5",
+      "parentCategoryId": "7.1.3.2.18",
+      "name": "cotton candy wrap",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.18.6",
+      "parentCategoryId": "7.1.3.2.18",
+      "name": "prawn head fat",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.18.7",
+      "parentCategoryId": "7.1.3.2.18",
+      "name": "boat noodles",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.18.8",
+      "parentCategoryId": "7.1.3.2.18",
+      "name": "thong yip",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.18.9",
+      "parentCategoryId": "7.1.3.2.18",
+      "name": "thong yod",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.19.1",
+      "parentCategoryId": "7.1.3.2.19",
+      "name": "ginger",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.19.2",
+      "parentCategoryId": "7.1.3.2.19",
+      "name": "lemongrass",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.19.3",
+      "parentCategoryId": "7.1.3.2.19",
+      "name": "white turmeric",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.19.4",
+      "parentCategoryId": "7.1.3.2.19",
+      "name": "makrut lime leaves",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.19.5",
+      "parentCategoryId": "7.1.3.2.19",
+      "name": "pandan leaves",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.20.1",
+      "parentCategoryId": "7.1.3.2.20",
+      "name": "iced Thai tea",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.20.2",
+      "parentCategoryId": "7.1.3.2.20",
+      "name": "coconut water",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.20.3",
+      "parentCategoryId": "7.1.3.2.20",
+      "name": "lemongrass tea",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.21.1",
+      "parentCategoryId": "7.1.3.2.21",
+      "name": "salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.22.1",
+      "parentCategoryId": "7.1.3.2.22",
+      "name": "pig blood",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.22.2",
+      "parentCategoryId": "7.1.3.2.22",
+      "name": "beef blood",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.22.3",
+      "parentCategoryId": "7.1.3.2.22",
+      "name": "pickled bean curd",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.22.4",
+      "parentCategoryId": "7.1.3.2.22",
+      "name": "yellow soybean paste",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.23.1",
+      "parentCategoryId": "7.1.3.2.23",
+      "name": "roti sheets",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.23.2",
+      "parentCategoryId": "7.1.3.2.23",
+      "name": "pandan roti sheets",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.23.3",
+      "parentCategoryId": "7.1.3.2.23",
+      "name": "banana leaves",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.24.1",
+      "parentCategoryId": "7.1.3.2.24",
+      "name": "charcoal",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.24.2",
+      "parentCategoryId": "7.1.3.2.24",
+      "name": "charcoal fire",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "7.1.3.2.24.3",
+      "parentCategoryId": "7.1.3.2.24",
+      "name": "wood fire",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

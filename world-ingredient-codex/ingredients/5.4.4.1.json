@@ -1,5 +1,1976 @@
 {
   "buildUnitId": "5.4.4.1",
   "buildUnitName": "Malwa",
-  "entries": []
+  "entries": [
+    {
+      "id": "5.4.4.1.1.1",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Wheat",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.2",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Sharbati wheat",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.3",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Whole wheat flour",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.4",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Jowar",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.5",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Jowar flour",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.6",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Pearl millet",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.7",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Bajra flour",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.8",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Maize",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.9",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Maize flour",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.10",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Rice",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.11",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Poha",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.12",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Semolina",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.13",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Gram flour",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.1.14",
+      "parentCategoryId": "5.4.4.1.1",
+      "name": "Sabudana",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.1",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Onion",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.2",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.3",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Mandsaur garlic",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.4",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Tomato",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.5",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Green chilies",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.6",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Corn kernels",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.7",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Potato",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.8",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Garadu",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.9",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Brinjal",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.10",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Baby brinjal",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.11",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Colocasia corms",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.12",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Spinach",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.13",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Fresh green chickpeas",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.2.14",
+      "parentCategoryId": "5.4.4.1.2",
+      "name": "Coriander stems",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.3.1",
+      "parentCategoryId": "5.4.4.1.3",
+      "name": "Orange",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.3.2",
+      "parentCategoryId": "5.4.4.1.3",
+      "name": "Mandsaur orange",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.3.3",
+      "parentCategoryId": "5.4.4.1.3",
+      "name": "Sweet orange",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.3.4",
+      "parentCategoryId": "5.4.4.1.3",
+      "name": "Lemon",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.3.5",
+      "parentCategoryId": "5.4.4.1.3",
+      "name": "Lime",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.3.6",
+      "parentCategoryId": "5.4.4.1.3",
+      "name": "Raw mango",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.3.7",
+      "parentCategoryId": "5.4.4.1.3",
+      "name": "Custard apple",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.3.8",
+      "parentCategoryId": "5.4.4.1.3",
+      "name": "Khorasani imli",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.3.9",
+      "parentCategoryId": "5.4.4.1.3",
+      "name": "Guava",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.4.1",
+      "parentCategoryId": "5.4.4.1.4",
+      "name": "Chickpea",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.4.2",
+      "parentCategoryId": "5.4.4.1.4",
+      "name": "Gram",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.4.3",
+      "parentCategoryId": "5.4.4.1.4",
+      "name": "Chana dal",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.4.4",
+      "parentCategoryId": "5.4.4.1.4",
+      "name": "Pigeon pea",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.4.5",
+      "parentCategoryId": "5.4.4.1.4",
+      "name": "Toor dal",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.4.6",
+      "parentCategoryId": "5.4.4.1.4",
+      "name": "Moong",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.4.7",
+      "parentCategoryId": "5.4.4.1.4",
+      "name": "Split moong dal",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.4.8",
+      "parentCategoryId": "5.4.4.1.4",
+      "name": "Urad dal",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.4.9",
+      "parentCategoryId": "5.4.4.1.4",
+      "name": "Split urad dal",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.4.10",
+      "parentCategoryId": "5.4.4.1.4",
+      "name": "Soybean",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.5.1",
+      "parentCategoryId": "5.4.4.1.5",
+      "name": "Peanuts",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.5.2",
+      "parentCategoryId": "5.4.4.1.5",
+      "name": "Roasted peanuts",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.5.3",
+      "parentCategoryId": "5.4.4.1.5",
+      "name": "White sesame seeds",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.5.4",
+      "parentCategoryId": "5.4.4.1.5",
+      "name": "Poppy seeds",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.5.5",
+      "parentCategoryId": "5.4.4.1.5",
+      "name": "Cashews",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.5.6",
+      "parentCategoryId": "5.4.4.1.5",
+      "name": "Almonds",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.5.7",
+      "parentCategoryId": "5.4.4.1.5",
+      "name": "Pistachios",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.6.1",
+      "parentCategoryId": "5.4.4.1.6",
+      "name": "Soybeans",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.6.2",
+      "parentCategoryId": "5.4.4.1.6",
+      "name": "Soy granules",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.6.3",
+      "parentCategoryId": "5.4.4.1.6",
+      "name": "Paneer",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.6.4",
+      "parentCategoryId": "5.4.4.1.6",
+      "name": "Mutton",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.6.5",
+      "parentCategoryId": "5.4.4.1.6",
+      "name": "Goat meat",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.6.6",
+      "parentCategoryId": "5.4.4.1.6",
+      "name": "Mutton mince",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.6.7",
+      "parentCategoryId": "5.4.4.1.6",
+      "name": "Chicken",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.6.8",
+      "parentCategoryId": "5.4.4.1.6",
+      "name": "Eggs",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.7.1",
+      "parentCategoryId": "5.4.4.1.7",
+      "name": "Fresh coriander leaves",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.7.2",
+      "parentCategoryId": "5.4.4.1.7",
+      "name": "Mint leaves",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.7.3",
+      "parentCategoryId": "5.4.4.1.7",
+      "name": "Curry leaves",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.7.4",
+      "parentCategoryId": "5.4.4.1.7",
+      "name": "Spinach leaves",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.7.5",
+      "parentCategoryId": "5.4.4.1.7",
+      "name": "Green garlic",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.1",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Cumin seeds",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.2",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Coriander seeds",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.3",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Fennel seeds",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.4",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Ajwain, Ajwain, Ajwain",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.5",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Cloves",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.6",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Black pepper",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.7",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Turmeric",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.8",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Red chili powder",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.9",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Dried red chilies",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.10",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Asafoetida",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.11",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Dried mango powder",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.12",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Mustard seeds",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.13",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Green cardamom",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.14",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Saffron",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.15",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Mace",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.8.16",
+      "parentCategoryId": "5.4.4.1.8",
+      "name": "Nutmeg",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.9.1",
+      "parentCategoryId": "5.4.4.1.9",
+      "name": "Onion",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.9.2",
+      "parentCategoryId": "5.4.4.1.9",
+      "name": "Garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.9.3",
+      "parentCategoryId": "5.4.4.1.9",
+      "name": "Ginger",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.9.4",
+      "parentCategoryId": "5.4.4.1.9",
+      "name": "Green chilies",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.9.5",
+      "parentCategoryId": "5.4.4.1.9",
+      "name": "Tomato",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.9.6",
+      "parentCategoryId": "5.4.4.1.9",
+      "name": "Fresh coriander",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.10.1",
+      "parentCategoryId": "5.4.4.1.10",
+      "name": "Ghee",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.10.2",
+      "parentCategoryId": "5.4.4.1.10",
+      "name": "Groundnut oil",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.10.3",
+      "parentCategoryId": "5.4.4.1.10",
+      "name": "Soybean oil",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.10.4",
+      "parentCategoryId": "5.4.4.1.10",
+      "name": "Butter",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.10.5",
+      "parentCategoryId": "5.4.4.1.10",
+      "name": "Milk cream",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.11.1",
+      "parentCategoryId": "5.4.4.1.11",
+      "name": "Milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.11.2",
+      "parentCategoryId": "5.4.4.1.11",
+      "name": "Curd",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.11.3",
+      "parentCategoryId": "5.4.4.1.11",
+      "name": "Yogurt",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.11.4",
+      "parentCategoryId": "5.4.4.1.11",
+      "name": "Buttermilk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.11.5",
+      "parentCategoryId": "5.4.4.1.11",
+      "name": "Mattha",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.11.6",
+      "parentCategoryId": "5.4.4.1.11",
+      "name": "Ghee",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.11.7",
+      "parentCategoryId": "5.4.4.1.11",
+      "name": "Butter",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.11.8",
+      "parentCategoryId": "5.4.4.1.11",
+      "name": "Paneer",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.11.9",
+      "parentCategoryId": "5.4.4.1.11",
+      "name": "Mawa",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.11.10",
+      "parentCategoryId": "5.4.4.1.11",
+      "name": "Khoya",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.11.11",
+      "parentCategoryId": "5.4.4.1.11",
+      "name": "Rabdi",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.12.1",
+      "parentCategoryId": "5.4.4.1.12",
+      "name": "Lemon",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.12.2",
+      "parentCategoryId": "5.4.4.1.12",
+      "name": "Lime",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.12.3",
+      "parentCategoryId": "5.4.4.1.12",
+      "name": "Raw mango",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.12.4",
+      "parentCategoryId": "5.4.4.1.12",
+      "name": "Dried mango powder",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.12.5",
+      "parentCategoryId": "5.4.4.1.12",
+      "name": "Tamarind",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.12.6",
+      "parentCategoryId": "5.4.4.1.12",
+      "name": "Curd",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.12.7",
+      "parentCategoryId": "5.4.4.1.12",
+      "name": "Buttermilk",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.12.8",
+      "parentCategoryId": "5.4.4.1.12",
+      "name": "Khorasani imli",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.13.1",
+      "parentCategoryId": "5.4.4.1.13",
+      "name": "Jeerawan",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.13.2",
+      "parentCategoryId": "5.4.4.1.13",
+      "name": "Jeeralu masala",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.13.3",
+      "parentCategoryId": "5.4.4.1.13",
+      "name": "Green chutney",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.13.4",
+      "parentCategoryId": "5.4.4.1.13",
+      "name": "Tamarind-date chutney",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.13.5",
+      "parentCategoryId": "5.4.4.1.13",
+      "name": "Garlic chutney",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.13.6",
+      "parentCategoryId": "5.4.4.1.13",
+      "name": "Ginger-garlic paste",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.13.7",
+      "parentCategoryId": "5.4.4.1.13",
+      "name": "Green chili-ginger paste",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.13.8",
+      "parentCategoryId": "5.4.4.1.13",
+      "name": "Papad ki sabzi masala",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.14.1",
+      "parentCategoryId": "5.4.4.1.14",
+      "name": "Mango pickle",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.14.2",
+      "parentCategoryId": "5.4.4.1.14",
+      "name": "Lemon pickle",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.14.3",
+      "parentCategoryId": "5.4.4.1.14",
+      "name": "Green chili pickle",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.14.4",
+      "parentCategoryId": "5.4.4.1.14",
+      "name": "Papad",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.14.5",
+      "parentCategoryId": "5.4.4.1.14",
+      "name": "Ratlami sev",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.14.6",
+      "parentCategoryId": "5.4.4.1.14",
+      "name": "Sun-dried red chilies",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.14.7",
+      "parentCategoryId": "5.4.4.1.14",
+      "name": "Dried mango slices",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.14.8",
+      "parentCategoryId": "5.4.4.1.14",
+      "name": "Curd culture",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.15.1",
+      "parentCategoryId": "5.4.4.1.15",
+      "name": "Cane sugar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.15.2",
+      "parentCategoryId": "5.4.4.1.15",
+      "name": "Jaggery",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.15.3",
+      "parentCategoryId": "5.4.4.1.15",
+      "name": "Honey",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.15.4",
+      "parentCategoryId": "5.4.4.1.15",
+      "name": "Sugar syrup",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.16.1",
+      "parentCategoryId": "5.4.4.1.16",
+      "name": "Water",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.16.2",
+      "parentCategoryId": "5.4.4.1.16",
+      "name": "Milk",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.16.3",
+      "parentCategoryId": "5.4.4.1.16",
+      "name": "Buttermilk",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.16.4",
+      "parentCategoryId": "5.4.4.1.16",
+      "name": "Mattha",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.16.5",
+      "parentCategoryId": "5.4.4.1.16",
+      "name": "Tamarind water",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.16.6",
+      "parentCategoryId": "5.4.4.1.16",
+      "name": "Orange juice",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.16.7",
+      "parentCategoryId": "5.4.4.1.16",
+      "name": "Lemon juice",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.17.1",
+      "parentCategoryId": "5.4.4.1.17",
+      "name": "Ratlami sev",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.17.2",
+      "parentCategoryId": "5.4.4.1.17",
+      "name": "Sev",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.17.3",
+      "parentCategoryId": "5.4.4.1.17",
+      "name": "Chopped onion",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.17.4",
+      "parentCategoryId": "5.4.4.1.17",
+      "name": "Chopped coriander",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.17.5",
+      "parentCategoryId": "5.4.4.1.17",
+      "name": "Lemon wedges",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.17.6",
+      "parentCategoryId": "5.4.4.1.17",
+      "name": "Fresh grated coconut",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.17.7",
+      "parentCategoryId": "5.4.4.1.17",
+      "name": "Roasted peanuts",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.17.8",
+      "parentCategoryId": "5.4.4.1.17",
+      "name": "Jeerawan",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.17.9",
+      "parentCategoryId": "5.4.4.1.17",
+      "name": "Fried green chilies",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.18.1",
+      "parentCategoryId": "5.4.4.1.18",
+      "name": "Sharbati wheat",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.18.2",
+      "parentCategoryId": "5.4.4.1.18",
+      "name": "Mandsaur garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.18.3",
+      "parentCategoryId": "5.4.4.1.18",
+      "name": "Ratlami sev",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.18.4",
+      "parentCategoryId": "5.4.4.1.18",
+      "name": "Jeerawan",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.18.5",
+      "parentCategoryId": "5.4.4.1.18",
+      "name": "Jeeralu masala",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.18.6",
+      "parentCategoryId": "5.4.4.1.18",
+      "name": "Garadu",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.18.7",
+      "parentCategoryId": "5.4.4.1.18",
+      "name": "Sabudana",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.18.8",
+      "parentCategoryId": "5.4.4.1.18",
+      "name": "Khorasani imli",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.18.9",
+      "parentCategoryId": "5.4.4.1.18",
+      "name": "Aak leaves, Aak leaves, Aak leaves",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.18.10",
+      "parentCategoryId": "5.4.4.1.18",
+      "name": "Poha",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.19.1",
+      "parentCategoryId": "5.4.4.1.19",
+      "name": "Cumin seeds",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.19.2",
+      "parentCategoryId": "5.4.4.1.19",
+      "name": "Dry ginger powder",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.19.3",
+      "parentCategoryId": "5.4.4.1.19",
+      "name": "Rock salt",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.19.4",
+      "parentCategoryId": "5.4.4.1.19",
+      "name": "Asafoetida",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.19.5",
+      "parentCategoryId": "5.4.4.1.19",
+      "name": "Turmeric",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.19.6",
+      "parentCategoryId": "5.4.4.1.19",
+      "name": "Garlic",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.19.7",
+      "parentCategoryId": "5.4.4.1.19",
+      "name": "Ajwain, Ajwain, Ajwain",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.19.8",
+      "parentCategoryId": "5.4.4.1.19",
+      "name": "Honey",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.20.1",
+      "parentCategoryId": "5.4.4.1.20",
+      "name": "Shahi Shikanji",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.20.2",
+      "parentCategoryId": "5.4.4.1.20",
+      "name": "Mattha",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.20.3",
+      "parentCategoryId": "5.4.4.1.20",
+      "name": "Chaas",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.20.4",
+      "parentCategoryId": "5.4.4.1.20",
+      "name": "Lassi",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.20.5",
+      "parentCategoryId": "5.4.4.1.20",
+      "name": "Orange juice",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.20.6",
+      "parentCategoryId": "5.4.4.1.20",
+      "name": "Milk tea",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.20.7",
+      "parentCategoryId": "5.4.4.1.20",
+      "name": "Plain milk",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.20.8",
+      "parentCategoryId": "5.4.4.1.20",
+      "name": "Curd culture",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.21.1",
+      "parentCategoryId": "5.4.4.1.21",
+      "name": "Salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.21.2",
+      "parentCategoryId": "5.4.4.1.21",
+      "name": "Rock salt",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.21.3",
+      "parentCategoryId": "5.4.4.1.21",
+      "name": "Black salt",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.21.4",
+      "parentCategoryId": "5.4.4.1.21",
+      "name": "Sendha namak",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.21.5",
+      "parentCategoryId": "5.4.4.1.21",
+      "name": "Baking soda",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.22.1",
+      "parentCategoryId": "5.4.4.1.22",
+      "name": "Curd culture",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.22.2",
+      "parentCategoryId": "5.4.4.1.22",
+      "name": "Baking soda",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.22.3",
+      "parentCategoryId": "5.4.4.1.22",
+      "name": "Fruit salt",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.22.4",
+      "parentCategoryId": "5.4.4.1.22",
+      "name": "Urad dal batter",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.22.5",
+      "parentCategoryId": "5.4.4.1.22",
+      "name": "Semolina",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.22.6",
+      "parentCategoryId": "5.4.4.1.22",
+      "name": "Gram flour",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.22.7",
+      "parentCategoryId": "5.4.4.1.22",
+      "name": "Maize flour",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.23.1",
+      "parentCategoryId": "5.4.4.1.23",
+      "name": "Aak leaves, Aak leaves, Aak leaves",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.23.2",
+      "parentCategoryId": "5.4.4.1.23",
+      "name": "Cotton cloth",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.23.3",
+      "parentCategoryId": "5.4.4.1.23",
+      "name": "Muslin cloth",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.23.4",
+      "parentCategoryId": "5.4.4.1.23",
+      "name": "Earthen pot",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.23.5",
+      "parentCategoryId": "5.4.4.1.23",
+      "name": "Clay pot",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.24.1",
+      "parentCategoryId": "5.4.4.1.24",
+      "name": "Dung-cake fire",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.24.2",
+      "parentCategoryId": "5.4.4.1.24",
+      "name": "Coal embers",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.24.3",
+      "parentCategoryId": "5.4.4.1.24",
+      "name": "Charcoal embers",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.24.4",
+      "parentCategoryId": "5.4.4.1.24",
+      "name": "Firewood smoke",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "5.4.4.1.24.5",
+      "parentCategoryId": "5.4.4.1.24",
+      "name": "Open-flame smoke",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

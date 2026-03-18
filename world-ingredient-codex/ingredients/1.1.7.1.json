@@ -5,7 +5,7 @@
     {
       "id": "1.1.7.1.1.1",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Wheat flour",
+      "name": "hard red spring wheat",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -15,7 +15,7 @@
     {
       "id": "1.1.7.1.1.2",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Bread flour",
+      "name": "durum wheat",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -25,7 +25,7 @@
     {
       "id": "1.1.7.1.1.3",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "All purpose flour",
+      "name": "semolina",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -35,7 +35,7 @@
     {
       "id": "1.1.7.1.1.4",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Durum flour",
+      "name": "barley",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -45,7 +45,7 @@
     {
       "id": "1.1.7.1.1.5",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Cornmeal",
+      "name": "rolled oats",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -55,7 +55,7 @@
     {
       "id": "1.1.7.1.1.6",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Stone ground cornmeal",
+      "name": "steel-cut oats",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -65,7 +65,7 @@
     {
       "id": "1.1.7.1.1.7",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Yellow cornmeal",
+      "name": "rye",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -75,7 +75,7 @@
     {
       "id": "1.1.7.1.1.8",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "White cornmeal",
+      "name": "whole wheat flour",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -85,7 +85,7 @@
     {
       "id": "1.1.7.1.1.9",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Barley",
+      "name": "all-purpose flour",
       "sortOrder": 9,
       "aliases": [],
       "tags": [],
@@ -95,7 +95,7 @@
     {
       "id": "1.1.7.1.1.10",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Pearled barley",
+      "name": "bread flour",
       "sortOrder": 10,
       "aliases": [],
       "tags": [],
@@ -105,7 +105,7 @@
     {
       "id": "1.1.7.1.1.11",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Rolled oats",
+      "name": "yellow cornmeal",
       "sortOrder": 11,
       "aliases": [],
       "tags": [],
@@ -115,7 +115,7 @@
     {
       "id": "1.1.7.1.1.12",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Oatmeal",
+      "name": "white cornmeal",
       "sortOrder": 12,
       "aliases": [],
       "tags": [],
@@ -125,7 +125,7 @@
     {
       "id": "1.1.7.1.1.13",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Potatoes",
+      "name": "hominy",
       "sortOrder": 13,
       "aliases": [],
       "tags": [],
@@ -135,7 +135,7 @@
     {
       "id": "1.1.7.1.1.14",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Red potatoes",
+      "name": "russet potatoes",
       "sortOrder": 14,
       "aliases": [],
       "tags": [],
@@ -145,7 +145,7 @@
     {
       "id": "1.1.7.1.1.15",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Russet potatoes",
+      "name": "red potatoes",
       "sortOrder": 15,
       "aliases": [],
       "tags": [],
@@ -155,8 +155,28 @@
     {
       "id": "1.1.7.1.1.16",
       "parentCategoryId": "1.1.7.1.1",
-      "name": "Wild rice",
+      "name": "yellow potatoes",
       "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.1.17",
+      "parentCategoryId": "1.1.7.1.1",
+      "name": "sweet corn",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.1.18",
+      "parentCategoryId": "1.1.7.1.1",
+      "name": "popcorn",
+      "sortOrder": 18,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -165,7 +185,7 @@
     {
       "id": "1.1.7.1.2.1",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Cabbage",
+      "name": "beets",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -175,7 +195,7 @@
     {
       "id": "1.1.7.1.2.2",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Red cabbage",
+      "name": "sugar beets",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -185,7 +205,7 @@
     {
       "id": "1.1.7.1.2.3",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Onions",
+      "name": "carrots",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -195,7 +215,7 @@
     {
       "id": "1.1.7.1.2.4",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Garlic",
+      "name": "parsnips",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -205,7 +225,7 @@
     {
       "id": "1.1.7.1.2.5",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Celery",
+      "name": "turnips",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -215,7 +235,7 @@
     {
       "id": "1.1.7.1.2.6",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Carrots",
+      "name": "rutabagas",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -225,7 +245,7 @@
     {
       "id": "1.1.7.1.2.7",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Beets",
+      "name": "green cabbage",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -235,7 +255,7 @@
     {
       "id": "1.1.7.1.2.8",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Turnips",
+      "name": "red cabbage",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -245,7 +265,7 @@
     {
       "id": "1.1.7.1.2.9",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Rutabagas",
+      "name": "savoy cabbage",
       "sortOrder": 9,
       "aliases": [],
       "tags": [],
@@ -255,7 +275,7 @@
     {
       "id": "1.1.7.1.2.10",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Sweet corn",
+      "name": "napa cabbage",
       "sortOrder": 10,
       "aliases": [],
       "tags": [],
@@ -265,7 +285,7 @@
     {
       "id": "1.1.7.1.2.11",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Green beans",
+      "name": "broccoli",
       "sortOrder": 11,
       "aliases": [],
       "tags": [],
@@ -275,7 +295,7 @@
     {
       "id": "1.1.7.1.2.12",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Peas",
+      "name": "cauliflower",
       "sortOrder": 12,
       "aliases": [],
       "tags": [],
@@ -285,7 +305,7 @@
     {
       "id": "1.1.7.1.2.13",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Tomatoes",
+      "name": "Brussels sprouts",
       "sortOrder": 13,
       "aliases": [],
       "tags": [],
@@ -295,7 +315,7 @@
     {
       "id": "1.1.7.1.2.14",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Bell peppers",
+      "name": "kohlrabi",
       "sortOrder": 14,
       "aliases": [],
       "tags": [],
@@ -305,7 +325,7 @@
     {
       "id": "1.1.7.1.2.15",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Pumpkins",
+      "name": "celery",
       "sortOrder": 15,
       "aliases": [],
       "tags": [],
@@ -315,7 +335,7 @@
     {
       "id": "1.1.7.1.2.16",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Butternut squash",
+      "name": "cucumbers",
       "sortOrder": 16,
       "aliases": [],
       "tags": [],
@@ -325,7 +345,7 @@
     {
       "id": "1.1.7.1.2.17",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Acorn squash",
+      "name": "pickling cucumbers",
       "sortOrder": 17,
       "aliases": [],
       "tags": [],
@@ -335,7 +355,7 @@
     {
       "id": "1.1.7.1.2.18",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Kale",
+      "name": "garlic",
       "sortOrder": 18,
       "aliases": [],
       "tags": [],
@@ -345,7 +365,7 @@
     {
       "id": "1.1.7.1.2.19",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Spinach",
+      "name": "yellow onions",
       "sortOrder": 19,
       "aliases": [],
       "tags": [],
@@ -355,8 +375,218 @@
     {
       "id": "1.1.7.1.2.20",
       "parentCategoryId": "1.1.7.1.2",
-      "name": "Lettuce",
+      "name": "red onions",
       "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.21",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "green onions",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.22",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "leeks",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.23",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "leaf lettuce",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.24",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "romaine lettuce",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.25",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "spinach",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.26",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "kale",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.27",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "Swiss chard",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.28",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "green peas",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.29",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "snap beans",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.30",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "sweet bell peppers",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.31",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "jalapeño peppers",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.32",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "tomatoes",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.33",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "green tomatoes",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.34",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "pumpkins",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.35",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "butternut squash",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.36",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "acorn squash",
+      "sortOrder": 36,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.37",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "zucchini",
+      "sortOrder": 37,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.38",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "yellow summer squash",
+      "sortOrder": 38,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.39",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "radishes",
+      "sortOrder": 39,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.40",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "watermelon",
+      "sortOrder": 40,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.2.41",
+      "parentCategoryId": "1.1.7.1.2",
+      "name": "cantaloupe",
+      "sortOrder": 41,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -365,7 +595,7 @@
     {
       "id": "1.1.7.1.3.1",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Apples",
+      "name": "apples",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -375,7 +605,7 @@
     {
       "id": "1.1.7.1.3.2",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Chokecherries",
+      "name": "crabapples",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -385,7 +615,7 @@
     {
       "id": "1.1.7.1.3.3",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Juneberries",
+      "name": "plums",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -395,7 +625,7 @@
     {
       "id": "1.1.7.1.3.4",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Serviceberries",
+      "name": "wild plums",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -405,7 +635,7 @@
     {
       "id": "1.1.7.1.3.5",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Plums",
+      "name": "pears",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -415,7 +645,7 @@
     {
       "id": "1.1.7.1.3.6",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Cherries",
+      "name": "sour cherries",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -425,7 +655,7 @@
     {
       "id": "1.1.7.1.3.7",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Blueberries",
+      "name": "sweet cherries",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -435,7 +665,7 @@
     {
       "id": "1.1.7.1.3.8",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Strawberries",
+      "name": "grapes",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -445,7 +675,7 @@
     {
       "id": "1.1.7.1.3.9",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Raspberries",
+      "name": "strawberries",
       "sortOrder": 9,
       "aliases": [],
       "tags": [],
@@ -455,7 +685,7 @@
     {
       "id": "1.1.7.1.3.10",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Blackberries",
+      "name": "red raspberries",
       "sortOrder": 10,
       "aliases": [],
       "tags": [],
@@ -465,7 +695,7 @@
     {
       "id": "1.1.7.1.3.11",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Pears",
+      "name": "black raspberries",
       "sortOrder": 11,
       "aliases": [],
       "tags": [],
@@ -475,8 +705,108 @@
     {
       "id": "1.1.7.1.3.12",
       "parentCategoryId": "1.1.7.1.3",
-      "name": "Cranberries",
+      "name": "blackberries",
       "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.3.13",
+      "parentCategoryId": "1.1.7.1.3",
+      "name": "gooseberries",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.3.14",
+      "parentCategoryId": "1.1.7.1.3",
+      "name": "currants",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.3.15",
+      "parentCategoryId": "1.1.7.1.3",
+      "name": "juneberries",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.3.16",
+      "parentCategoryId": "1.1.7.1.3",
+      "name": "serviceberries",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.3.17",
+      "parentCategoryId": "1.1.7.1.3",
+      "name": "chokecherries",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.3.18",
+      "parentCategoryId": "1.1.7.1.3",
+      "name": "buffaloberries",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.3.19",
+      "parentCategoryId": "1.1.7.1.3",
+      "name": "sand cherries",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.3.20",
+      "parentCategoryId": "1.1.7.1.3",
+      "name": "ground cherries",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.3.21",
+      "parentCategoryId": "1.1.7.1.3",
+      "name": "rose hips",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.3.22",
+      "parentCategoryId": "1.1.7.1.3",
+      "name": "rhubarb",
+      "sortOrder": 22,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -485,7 +815,7 @@
     {
       "id": "1.1.7.1.4.1",
       "parentCategoryId": "1.1.7.1.4",
-      "name": "Pinto beans",
+      "name": "pinto beans",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -495,7 +825,7 @@
     {
       "id": "1.1.7.1.4.2",
       "parentCategoryId": "1.1.7.1.4",
-      "name": "Navy beans",
+      "name": "navy beans",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -505,7 +835,7 @@
     {
       "id": "1.1.7.1.4.3",
       "parentCategoryId": "1.1.7.1.4",
-      "name": "Great Northern beans",
+      "name": "great northern beans",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -515,7 +845,7 @@
     {
       "id": "1.1.7.1.4.4",
       "parentCategoryId": "1.1.7.1.4",
-      "name": "Kidney beans",
+      "name": "black beans",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -525,7 +855,7 @@
     {
       "id": "1.1.7.1.4.5",
       "parentCategoryId": "1.1.7.1.4",
-      "name": "Cannellini beans",
+      "name": "pink beans",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -535,7 +865,7 @@
     {
       "id": "1.1.7.1.4.6",
       "parentCategoryId": "1.1.7.1.4",
-      "name": "Dry beans",
+      "name": "small red beans",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -545,7 +875,7 @@
     {
       "id": "1.1.7.1.4.7",
       "parentCategoryId": "1.1.7.1.4",
-      "name": "Lentils",
+      "name": "kidney beans",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -555,7 +885,7 @@
     {
       "id": "1.1.7.1.4.8",
       "parentCategoryId": "1.1.7.1.4",
-      "name": "Split peas",
+      "name": "dry peas",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -565,7 +895,7 @@
     {
       "id": "1.1.7.1.4.9",
       "parentCategoryId": "1.1.7.1.4",
-      "name": "Yellow peas",
+      "name": "yellow peas",
       "sortOrder": 9,
       "aliases": [],
       "tags": [],
@@ -575,8 +905,48 @@
     {
       "id": "1.1.7.1.4.10",
       "parentCategoryId": "1.1.7.1.4",
-      "name": "Chickpeas",
+      "name": "green peas",
       "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.4.11",
+      "parentCategoryId": "1.1.7.1.4",
+      "name": "lentils",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.4.12",
+      "parentCategoryId": "1.1.7.1.4",
+      "name": "chickpeas",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.4.13",
+      "parentCategoryId": "1.1.7.1.4",
+      "name": "soybeans",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.4.14",
+      "parentCategoryId": "1.1.7.1.4",
+      "name": "edamame",
+      "sortOrder": 14,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -585,7 +955,7 @@
     {
       "id": "1.1.7.1.5.1",
       "parentCategoryId": "1.1.7.1.5",
-      "name": "Sunflower seeds",
+      "name": "sunflower seeds",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -595,7 +965,7 @@
     {
       "id": "1.1.7.1.5.2",
       "parentCategoryId": "1.1.7.1.5",
-      "name": "Pumpkin seeds",
+      "name": "pumpkin seeds",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -605,7 +975,7 @@
     {
       "id": "1.1.7.1.5.3",
       "parentCategoryId": "1.1.7.1.5",
-      "name": "Hazelnuts",
+      "name": "flaxseed",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -615,7 +985,7 @@
     {
       "id": "1.1.7.1.5.4",
       "parentCategoryId": "1.1.7.1.5",
-      "name": "Walnuts",
+      "name": "black walnuts",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -625,7 +995,7 @@
     {
       "id": "1.1.7.1.5.5",
       "parentCategoryId": "1.1.7.1.5",
-      "name": "Black walnuts",
+      "name": "hazelnuts",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -635,38 +1005,8 @@
     {
       "id": "1.1.7.1.5.6",
       "parentCategoryId": "1.1.7.1.5",
-      "name": "Poppy seeds",
+      "name": "hickory nuts",
       "sortOrder": 6,
-      "aliases": [],
-      "tags": [],
-      "importanceTags": [],
-      "notes": null
-    },
-    {
-      "id": "1.1.7.1.5.7",
-      "parentCategoryId": "1.1.7.1.5",
-      "name": "Mustard seeds",
-      "sortOrder": 7,
-      "aliases": [],
-      "tags": [],
-      "importanceTags": [],
-      "notes": null
-    },
-    {
-      "id": "1.1.7.1.5.8",
-      "parentCategoryId": "1.1.7.1.5",
-      "name": "Celery seeds",
-      "sortOrder": 8,
-      "aliases": [],
-      "tags": [],
-      "importanceTags": [],
-      "notes": null
-    },
-    {
-      "id": "1.1.7.1.5.9",
-      "parentCategoryId": "1.1.7.1.5",
-      "name": "Flaxseed",
-      "sortOrder": 9,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -675,7 +1015,7 @@
     {
       "id": "1.1.7.1.6.1",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Beef",
+      "name": "beef",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -685,7 +1025,7 @@
     {
       "id": "1.1.7.1.6.2",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Ground beef",
+      "name": "bison",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -695,7 +1035,7 @@
     {
       "id": "1.1.7.1.6.3",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Roast beef",
+      "name": "pork",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -705,7 +1045,7 @@
     {
       "id": "1.1.7.1.6.4",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Bison",
+      "name": "chicken",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -715,7 +1055,7 @@
     {
       "id": "1.1.7.1.6.5",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Venison",
+      "name": "turkey",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -725,7 +1065,7 @@
     {
       "id": "1.1.7.1.6.6",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Elk",
+      "name": "duck",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -735,7 +1075,7 @@
     {
       "id": "1.1.7.1.6.7",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Pork",
+      "name": "eggs",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -745,7 +1085,7 @@
     {
       "id": "1.1.7.1.6.8",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Ham",
+      "name": "lamb",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -755,7 +1095,7 @@
     {
       "id": "1.1.7.1.6.9",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Bacon",
+      "name": "venison",
       "sortOrder": 9,
       "aliases": [],
       "tags": [],
@@ -765,7 +1105,7 @@
     {
       "id": "1.1.7.1.6.10",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Sausage",
+      "name": "pheasant",
       "sortOrder": 10,
       "aliases": [],
       "tags": [],
@@ -775,7 +1115,7 @@
     {
       "id": "1.1.7.1.6.11",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Chicken",
+      "name": "rabbit",
       "sortOrder": 11,
       "aliases": [],
       "tags": [],
@@ -785,7 +1125,7 @@
     {
       "id": "1.1.7.1.6.12",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Turkey",
+      "name": "walleye",
       "sortOrder": 12,
       "aliases": [],
       "tags": [],
@@ -795,7 +1135,7 @@
     {
       "id": "1.1.7.1.6.13",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Walleye",
+      "name": "sauger",
       "sortOrder": 13,
       "aliases": [],
       "tags": [],
@@ -805,7 +1145,7 @@
     {
       "id": "1.1.7.1.6.14",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Yellow perch",
+      "name": "yellow perch",
       "sortOrder": 14,
       "aliases": [],
       "tags": [],
@@ -815,7 +1155,7 @@
     {
       "id": "1.1.7.1.6.15",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Northern pike",
+      "name": "northern pike",
       "sortOrder": 15,
       "aliases": [],
       "tags": [],
@@ -825,8 +1165,18 @@
     {
       "id": "1.1.7.1.6.16",
       "parentCategoryId": "1.1.7.1.6",
-      "name": "Trout",
+      "name": "rainbow trout",
       "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.6.17",
+      "parentCategoryId": "1.1.7.1.6",
+      "name": "channel catfish",
+      "sortOrder": 17,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -835,7 +1185,7 @@
     {
       "id": "1.1.7.1.7.1",
       "parentCategoryId": "1.1.7.1.7",
-      "name": "Parsley",
+      "name": "dill",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -845,7 +1195,7 @@
     {
       "id": "1.1.7.1.7.2",
       "parentCategoryId": "1.1.7.1.7",
-      "name": "Chives",
+      "name": "parsley",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -855,7 +1205,7 @@
     {
       "id": "1.1.7.1.7.3",
       "parentCategoryId": "1.1.7.1.7",
-      "name": "Dill",
+      "name": "chives",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -865,7 +1215,7 @@
     {
       "id": "1.1.7.1.7.4",
       "parentCategoryId": "1.1.7.1.7",
-      "name": "Thyme",
+      "name": "mint",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -875,7 +1225,7 @@
     {
       "id": "1.1.7.1.7.5",
       "parentCategoryId": "1.1.7.1.7",
-      "name": "Sage",
+      "name": "sage",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -885,7 +1235,7 @@
     {
       "id": "1.1.7.1.7.6",
       "parentCategoryId": "1.1.7.1.7",
-      "name": "Rosemary",
+      "name": "thyme",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -895,7 +1245,7 @@
     {
       "id": "1.1.7.1.7.7",
       "parentCategoryId": "1.1.7.1.7",
-      "name": "Mint",
+      "name": "basil",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -905,7 +1255,7 @@
     {
       "id": "1.1.7.1.7.8",
       "parentCategoryId": "1.1.7.1.7",
-      "name": "Oregano",
+      "name": "oregano",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -915,8 +1265,18 @@
     {
       "id": "1.1.7.1.7.9",
       "parentCategoryId": "1.1.7.1.7",
-      "name": "Tarragon",
+      "name": "rosemary",
       "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.7.10",
+      "parentCategoryId": "1.1.7.1.7",
+      "name": "cilantro",
+      "sortOrder": 10,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -925,7 +1285,7 @@
     {
       "id": "1.1.7.1.8.1",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Black pepper",
+      "name": "black pepper",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -935,7 +1295,7 @@
     {
       "id": "1.1.7.1.8.2",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "White pepper",
+      "name": "white pepper",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -945,7 +1305,7 @@
     {
       "id": "1.1.7.1.8.3",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Paprika",
+      "name": "paprika",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -955,7 +1315,7 @@
     {
       "id": "1.1.7.1.8.4",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Smoked paprika",
+      "name": "smoked paprika",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -965,7 +1325,7 @@
     {
       "id": "1.1.7.1.8.5",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Mustard powder",
+      "name": "mustard seed",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -975,7 +1335,7 @@
     {
       "id": "1.1.7.1.8.6",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Celery seed",
+      "name": "celery seed",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -985,7 +1345,7 @@
     {
       "id": "1.1.7.1.8.7",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Caraway seed",
+      "name": "dill seed",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -995,7 +1355,7 @@
     {
       "id": "1.1.7.1.8.8",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Cinnamon",
+      "name": "caraway seed",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -1005,7 +1365,7 @@
     {
       "id": "1.1.7.1.8.9",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Nutmeg",
+      "name": "juniper berries",
       "sortOrder": 9,
       "aliases": [],
       "tags": [],
@@ -1015,7 +1375,7 @@
     {
       "id": "1.1.7.1.8.10",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Allspice",
+      "name": "coriander seed",
       "sortOrder": 10,
       "aliases": [],
       "tags": [],
@@ -1025,7 +1385,7 @@
     {
       "id": "1.1.7.1.8.11",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Cloves",
+      "name": "garlic powder",
       "sortOrder": 11,
       "aliases": [],
       "tags": [],
@@ -1035,7 +1395,7 @@
     {
       "id": "1.1.7.1.8.12",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Cayenne",
+      "name": "onion powder",
       "sortOrder": 12,
       "aliases": [],
       "tags": [],
@@ -1045,8 +1405,78 @@
     {
       "id": "1.1.7.1.8.13",
       "parentCategoryId": "1.1.7.1.8",
-      "name": "Bay leaf",
+      "name": "dried dill",
       "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.8.14",
+      "parentCategoryId": "1.1.7.1.8",
+      "name": "dried thyme",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.8.15",
+      "parentCategoryId": "1.1.7.1.8",
+      "name": "dried sage",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.8.16",
+      "parentCategoryId": "1.1.7.1.8",
+      "name": "bay leaves",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.8.17",
+      "parentCategoryId": "1.1.7.1.8",
+      "name": "allspice",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.8.18",
+      "parentCategoryId": "1.1.7.1.8",
+      "name": "cinnamon",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.8.19",
+      "parentCategoryId": "1.1.7.1.8",
+      "name": "cloves",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.8.20",
+      "parentCategoryId": "1.1.7.1.8",
+      "name": "nutmeg",
+      "sortOrder": 20,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -1055,7 +1485,7 @@
     {
       "id": "1.1.7.1.9.1",
       "parentCategoryId": "1.1.7.1.9",
-      "name": "Onions",
+      "name": "yellow onions",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -1065,7 +1495,7 @@
     {
       "id": "1.1.7.1.9.2",
       "parentCategoryId": "1.1.7.1.9",
-      "name": "Garlic",
+      "name": "white onions",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -1075,7 +1505,7 @@
     {
       "id": "1.1.7.1.9.3",
       "parentCategoryId": "1.1.7.1.9",
-      "name": "Celery",
+      "name": "red onions",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -1085,7 +1515,7 @@
     {
       "id": "1.1.7.1.9.4",
       "parentCategoryId": "1.1.7.1.9",
-      "name": "Shallots",
+      "name": "green onions",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -1095,7 +1525,7 @@
     {
       "id": "1.1.7.1.9.5",
       "parentCategoryId": "1.1.7.1.9",
-      "name": "Leeks",
+      "name": "leeks",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -1105,7 +1535,7 @@
     {
       "id": "1.1.7.1.9.6",
       "parentCategoryId": "1.1.7.1.9",
-      "name": "Scallions",
+      "name": "celery",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -1115,8 +1545,18 @@
     {
       "id": "1.1.7.1.9.7",
       "parentCategoryId": "1.1.7.1.9",
-      "name": "Carrots",
+      "name": "garlic",
       "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.9.8",
+      "parentCategoryId": "1.1.7.1.9",
+      "name": "shallots",
+      "sortOrder": 8,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -1125,7 +1565,7 @@
     {
       "id": "1.1.7.1.10.1",
       "parentCategoryId": "1.1.7.1.10",
-      "name": "Butter",
+      "name": "butter",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -1135,7 +1575,7 @@
     {
       "id": "1.1.7.1.10.2",
       "parentCategoryId": "1.1.7.1.10",
-      "name": "Lard",
+      "name": "cultured butter",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -1145,7 +1585,7 @@
     {
       "id": "1.1.7.1.10.3",
       "parentCategoryId": "1.1.7.1.10",
-      "name": "Beef tallow",
+      "name": "lard",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -1155,7 +1595,7 @@
     {
       "id": "1.1.7.1.10.4",
       "parentCategoryId": "1.1.7.1.10",
-      "name": "Bacon fat",
+      "name": "bacon fat",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -1165,7 +1605,7 @@
     {
       "id": "1.1.7.1.10.5",
       "parentCategoryId": "1.1.7.1.10",
-      "name": "Chicken fat",
+      "name": "beef tallow",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -1175,7 +1615,7 @@
     {
       "id": "1.1.7.1.10.6",
       "parentCategoryId": "1.1.7.1.10",
-      "name": "Canola oil",
+      "name": "chicken fat",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -1185,7 +1625,7 @@
     {
       "id": "1.1.7.1.10.7",
       "parentCategoryId": "1.1.7.1.10",
-      "name": "Sunflower oil",
+      "name": "sunflower oil",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -1195,7 +1635,7 @@
     {
       "id": "1.1.7.1.10.8",
       "parentCategoryId": "1.1.7.1.10",
-      "name": "Vegetable oil",
+      "name": "canola oil",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -1205,7 +1645,7 @@
     {
       "id": "1.1.7.1.10.9",
       "parentCategoryId": "1.1.7.1.10",
-      "name": "Olive oil",
+      "name": "soybean oil",
       "sortOrder": 9,
       "aliases": [],
       "tags": [],
@@ -1215,7 +1655,7 @@
     {
       "id": "1.1.7.1.11.1",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Milk",
+      "name": "whole milk",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -1225,7 +1665,7 @@
     {
       "id": "1.1.7.1.11.2",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Cream",
+      "name": "buttermilk",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -1235,7 +1675,7 @@
     {
       "id": "1.1.7.1.11.3",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Half and half",
+      "name": "heavy cream",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -1245,7 +1685,7 @@
     {
       "id": "1.1.7.1.11.4",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Buttermilk",
+      "name": "sour cream",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -1255,7 +1695,7 @@
     {
       "id": "1.1.7.1.11.5",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Butter",
+      "name": "plain yogurt",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -1265,7 +1705,7 @@
     {
       "id": "1.1.7.1.11.6",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Cheddar",
+      "name": "cream cheese",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -1275,7 +1715,7 @@
     {
       "id": "1.1.7.1.11.7",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Sharp cheddar",
+      "name": "cottage cheese",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -1285,7 +1725,7 @@
     {
       "id": "1.1.7.1.11.8",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Monterey Jack",
+      "name": "cheddar cheese",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -1295,7 +1735,7 @@
     {
       "id": "1.1.7.1.11.9",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Cream cheese",
+      "name": "Colby cheese",
       "sortOrder": 9,
       "aliases": [],
       "tags": [],
@@ -1305,7 +1745,7 @@
     {
       "id": "1.1.7.1.11.10",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Cottage cheese",
+      "name": "Monterey Jack cheese",
       "sortOrder": 10,
       "aliases": [],
       "tags": [],
@@ -1315,7 +1755,7 @@
     {
       "id": "1.1.7.1.11.11",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Yogurt",
+      "name": "farmer cheese",
       "sortOrder": 11,
       "aliases": [],
       "tags": [],
@@ -1325,7 +1765,7 @@
     {
       "id": "1.1.7.1.11.12",
       "parentCategoryId": "1.1.7.1.11",
-      "name": "Sour cream",
+      "name": "butter",
       "sortOrder": 12,
       "aliases": [],
       "tags": [],
@@ -1335,7 +1775,7 @@
     {
       "id": "1.1.7.1.12.1",
       "parentCategoryId": "1.1.7.1.12",
-      "name": "Apple cider vinegar",
+      "name": "apple cider vinegar",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -1345,7 +1785,7 @@
     {
       "id": "1.1.7.1.12.2",
       "parentCategoryId": "1.1.7.1.12",
-      "name": "White vinegar",
+      "name": "distilled white vinegar",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -1355,7 +1795,7 @@
     {
       "id": "1.1.7.1.12.3",
       "parentCategoryId": "1.1.7.1.12",
-      "name": "Malt vinegar",
+      "name": "pickle brine",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -1365,7 +1805,7 @@
     {
       "id": "1.1.7.1.12.4",
       "parentCategoryId": "1.1.7.1.12",
-      "name": "Red wine vinegar",
+      "name": "sauerkraut brine",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -1375,7 +1815,7 @@
     {
       "id": "1.1.7.1.12.5",
       "parentCategoryId": "1.1.7.1.12",
-      "name": "White wine vinegar",
+      "name": "lemon juice",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -1385,7 +1825,7 @@
     {
       "id": "1.1.7.1.12.6",
       "parentCategoryId": "1.1.7.1.12",
-      "name": "Lemon juice",
+      "name": "chokecherry juice",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -1395,18 +1835,8 @@
     {
       "id": "1.1.7.1.12.7",
       "parentCategoryId": "1.1.7.1.12",
-      "name": "Buttermilk",
+      "name": "rhubarb juice",
       "sortOrder": 7,
-      "aliases": [],
-      "tags": [],
-      "importanceTags": [],
-      "notes": null
-    },
-    {
-      "id": "1.1.7.1.12.8",
-      "parentCategoryId": "1.1.7.1.12",
-      "name": "Sour cream",
-      "sortOrder": 8,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -1415,7 +1845,7 @@
     {
       "id": "1.1.7.1.13.1",
       "parentCategoryId": "1.1.7.1.13",
-      "name": "Brown mustard",
+      "name": "yellow mustard",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -1425,7 +1855,7 @@
     {
       "id": "1.1.7.1.13.2",
       "parentCategoryId": "1.1.7.1.13",
-      "name": "Yellow mustard",
+      "name": "brown mustard",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -1435,7 +1865,7 @@
     {
       "id": "1.1.7.1.13.3",
       "parentCategoryId": "1.1.7.1.13",
-      "name": "Spicy mustard",
+      "name": "prepared horseradish",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -1445,7 +1875,7 @@
     {
       "id": "1.1.7.1.13.4",
       "parentCategoryId": "1.1.7.1.13",
-      "name": "Prepared horseradish",
+      "name": "horseradish sauce",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -1455,7 +1885,7 @@
     {
       "id": "1.1.7.1.13.5",
       "parentCategoryId": "1.1.7.1.13",
-      "name": "Mayonnaise",
+      "name": "sunflower seed butter",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -1465,7 +1895,7 @@
     {
       "id": "1.1.7.1.13.6",
       "parentCategoryId": "1.1.7.1.13",
-      "name": "Ketchup",
+      "name": "dill pickle relish",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -1475,7 +1905,7 @@
     {
       "id": "1.1.7.1.13.7",
       "parentCategoryId": "1.1.7.1.13",
-      "name": "Applesauce",
+      "name": "sweet pickle relish",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -1485,7 +1915,7 @@
     {
       "id": "1.1.7.1.13.8",
       "parentCategoryId": "1.1.7.1.13",
-      "name": "Apple butter",
+      "name": "barbecue sauce",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -1495,7 +1925,7 @@
     {
       "id": "1.1.7.1.13.9",
       "parentCategoryId": "1.1.7.1.13",
-      "name": "Barbecue sauce",
+      "name": "steak sauce",
       "sortOrder": 9,
       "aliases": [],
       "tags": [],
@@ -1505,7 +1935,7 @@
     {
       "id": "1.1.7.1.13.10",
       "parentCategoryId": "1.1.7.1.13",
-      "name": "Hot sauce",
+      "name": "chokecherry syrup",
       "sortOrder": 10,
       "aliases": [],
       "tags": [],
@@ -1515,8 +1945,28 @@
     {
       "id": "1.1.7.1.13.11",
       "parentCategoryId": "1.1.7.1.13",
-      "name": "Relish",
+      "name": "chokecherry jelly",
       "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.13.12",
+      "parentCategoryId": "1.1.7.1.13",
+      "name": "wild plum jam",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.13.13",
+      "parentCategoryId": "1.1.7.1.13",
+      "name": "ground cherry preserves",
+      "sortOrder": 13,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -1525,7 +1975,7 @@
     {
       "id": "1.1.7.1.14.1",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Sauerkraut",
+      "name": "sauerkraut",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -1535,7 +1985,7 @@
     {
       "id": "1.1.7.1.14.2",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Pickles",
+      "name": "dill pickles",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -1545,7 +1995,7 @@
     {
       "id": "1.1.7.1.14.3",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Bread and butter pickles",
+      "name": "bread-and-butter pickles",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -1555,7 +2005,7 @@
     {
       "id": "1.1.7.1.14.4",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Pickled beets",
+      "name": "pickled beets",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -1565,7 +2015,7 @@
     {
       "id": "1.1.7.1.14.5",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Pickled onions",
+      "name": "pickled carrots",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -1575,7 +2025,7 @@
     {
       "id": "1.1.7.1.14.6",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Pickled eggs",
+      "name": "pickled green beans",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -1585,7 +2035,7 @@
     {
       "id": "1.1.7.1.14.7",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Pickled peppers",
+      "name": "pickled eggs",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -1595,7 +2045,7 @@
     {
       "id": "1.1.7.1.14.8",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Smoked sausage",
+      "name": "pickled peppers",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -1605,7 +2055,7 @@
     {
       "id": "1.1.7.1.14.9",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Ham",
+      "name": "bacon",
       "sortOrder": 9,
       "aliases": [],
       "tags": [],
@@ -1615,7 +2065,7 @@
     {
       "id": "1.1.7.1.14.10",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Bacon",
+      "name": "summer sausage",
       "sortOrder": 10,
       "aliases": [],
       "tags": [],
@@ -1625,7 +2075,7 @@
     {
       "id": "1.1.7.1.14.11",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Jerky",
+      "name": "smoked sausage",
       "sortOrder": 11,
       "aliases": [],
       "tags": [],
@@ -1635,7 +2085,7 @@
     {
       "id": "1.1.7.1.14.12",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Smoked fish",
+      "name": "jerky",
       "sortOrder": 12,
       "aliases": [],
       "tags": [],
@@ -1645,7 +2095,7 @@
     {
       "id": "1.1.7.1.14.13",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Jam",
+      "name": "smoked trout",
       "sortOrder": 13,
       "aliases": [],
       "tags": [],
@@ -1655,7 +2105,7 @@
     {
       "id": "1.1.7.1.14.14",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Jelly",
+      "name": "canned tomatoes",
       "sortOrder": 14,
       "aliases": [],
       "tags": [],
@@ -1665,7 +2115,7 @@
     {
       "id": "1.1.7.1.14.15",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Fruit preserves",
+      "name": "dried apples",
       "sortOrder": 15,
       "aliases": [],
       "tags": [],
@@ -1675,8 +2125,28 @@
     {
       "id": "1.1.7.1.14.16",
       "parentCategoryId": "1.1.7.1.14",
-      "name": "Dried apples",
+      "name": "chokecherry jelly",
       "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.14.17",
+      "parentCategoryId": "1.1.7.1.14",
+      "name": "buffaloberry jam",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.14.18",
+      "parentCategoryId": "1.1.7.1.14",
+      "name": "wild plum preserves",
+      "sortOrder": 18,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -1685,7 +2155,7 @@
     {
       "id": "1.1.7.1.15.1",
       "parentCategoryId": "1.1.7.1.15",
-      "name": "Honey",
+      "name": "honey",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -1695,7 +2165,7 @@
     {
       "id": "1.1.7.1.15.2",
       "parentCategoryId": "1.1.7.1.15",
-      "name": "Maple syrup",
+      "name": "granulated sugar",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -1705,7 +2175,7 @@
     {
       "id": "1.1.7.1.15.3",
       "parentCategoryId": "1.1.7.1.15",
-      "name": "Maple sugar",
+      "name": "brown sugar",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -1715,7 +2185,7 @@
     {
       "id": "1.1.7.1.15.4",
       "parentCategoryId": "1.1.7.1.15",
-      "name": "Molasses",
+      "name": "beet sugar",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -1725,28 +2195,8 @@
     {
       "id": "1.1.7.1.15.5",
       "parentCategoryId": "1.1.7.1.15",
-      "name": "Brown sugar",
+      "name": "chokecherry syrup",
       "sortOrder": 5,
-      "aliases": [],
-      "tags": [],
-      "importanceTags": [],
-      "notes": null
-    },
-    {
-      "id": "1.1.7.1.15.6",
-      "parentCategoryId": "1.1.7.1.15",
-      "name": "Cane sugar",
-      "sortOrder": 6,
-      "aliases": [],
-      "tags": [],
-      "importanceTags": [],
-      "notes": null
-    },
-    {
-      "id": "1.1.7.1.15.7",
-      "parentCategoryId": "1.1.7.1.15",
-      "name": "Sorghum syrup",
-      "sortOrder": 7,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -1755,7 +2205,7 @@
     {
       "id": "1.1.7.1.16.1",
       "parentCategoryId": "1.1.7.1.16",
-      "name": "Beef stock",
+      "name": "beef stock",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -1765,7 +2215,7 @@
     {
       "id": "1.1.7.1.16.2",
       "parentCategoryId": "1.1.7.1.16",
-      "name": "Chicken stock",
+      "name": "chicken stock",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -1775,7 +2225,7 @@
     {
       "id": "1.1.7.1.16.3",
       "parentCategoryId": "1.1.7.1.16",
-      "name": "Vegetable stock",
+      "name": "vegetable stock",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -1785,7 +2235,7 @@
     {
       "id": "1.1.7.1.16.4",
       "parentCategoryId": "1.1.7.1.16",
-      "name": "Fish stock",
+      "name": "fish stock",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -1795,7 +2245,7 @@
     {
       "id": "1.1.7.1.16.5",
       "parentCategoryId": "1.1.7.1.16",
-      "name": "Apple cider",
+      "name": "whole milk",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -1805,7 +2255,7 @@
     {
       "id": "1.1.7.1.16.6",
       "parentCategoryId": "1.1.7.1.16",
-      "name": "Beer",
+      "name": "buttermilk",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -1815,7 +2265,7 @@
     {
       "id": "1.1.7.1.16.7",
       "parentCategoryId": "1.1.7.1.16",
-      "name": "Ale",
+      "name": "apple cider",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -1825,7 +2275,7 @@
     {
       "id": "1.1.7.1.16.8",
       "parentCategoryId": "1.1.7.1.16",
-      "name": "Milk",
+      "name": "chokecherry juice",
       "sortOrder": 8,
       "aliases": [],
       "tags": [],
@@ -1835,7 +2285,7 @@
     {
       "id": "1.1.7.1.16.9",
       "parentCategoryId": "1.1.7.1.16",
-      "name": "Cream",
+      "name": "plum juice",
       "sortOrder": 9,
       "aliases": [],
       "tags": [],
@@ -1845,8 +2295,18 @@
     {
       "id": "1.1.7.1.16.10",
       "parentCategoryId": "1.1.7.1.16",
-      "name": "Water",
+      "name": "beer",
       "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.16.11",
+      "parentCategoryId": "1.1.7.1.16",
+      "name": "coffee",
+      "sortOrder": 11,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -1855,7 +2315,7 @@
     {
       "id": "1.1.7.1.17.1",
       "parentCategoryId": "1.1.7.1.17",
-      "name": "Chopped parsley",
+      "name": "chopped dill",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -1865,7 +2325,7 @@
     {
       "id": "1.1.7.1.17.2",
       "parentCategoryId": "1.1.7.1.17",
-      "name": "Chopped chives",
+      "name": "chopped parsley",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -1875,7 +2335,7 @@
     {
       "id": "1.1.7.1.17.3",
       "parentCategoryId": "1.1.7.1.17",
-      "name": "Fresh dill",
+      "name": "chopped chives",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -1885,7 +2345,7 @@
     {
       "id": "1.1.7.1.17.4",
       "parentCategoryId": "1.1.7.1.17",
-      "name": "Cracked black pepper",
+      "name": "sliced green onions",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -1895,7 +2355,7 @@
     {
       "id": "1.1.7.1.17.5",
       "parentCategoryId": "1.1.7.1.17",
-      "name": "Horseradish",
+      "name": "prepared horseradish",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -1905,7 +2365,7 @@
     {
       "id": "1.1.7.1.17.6",
       "parentCategoryId": "1.1.7.1.17",
-      "name": "Pickles",
+      "name": "pickled beets",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -1915,7 +2375,7 @@
     {
       "id": "1.1.7.1.17.7",
       "parentCategoryId": "1.1.7.1.17",
-      "name": "Croutons",
+      "name": "dill pickle slices",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -1925,8 +2385,28 @@
     {
       "id": "1.1.7.1.17.8",
       "parentCategoryId": "1.1.7.1.17",
-      "name": "Crumbled bacon",
+      "name": "toasted sunflower seeds",
       "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.17.9",
+      "parentCategoryId": "1.1.7.1.17",
+      "name": "crispy bacon",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.17.10",
+      "parentCategoryId": "1.1.7.1.17",
+      "name": "lemon wedges",
+      "sortOrder": 10,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -1935,7 +2415,7 @@
     {
       "id": "1.1.7.1.18.1",
       "parentCategoryId": "1.1.7.1.18",
-      "name": "Buffalo berry",
+      "name": "juneberries",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -1945,7 +2425,7 @@
     {
       "id": "1.1.7.1.18.2",
       "parentCategoryId": "1.1.7.1.18",
-      "name": "Juneberry preserve",
+      "name": "serviceberries",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -1955,7 +2435,7 @@
     {
       "id": "1.1.7.1.18.3",
       "parentCategoryId": "1.1.7.1.18",
-      "name": "Wild rice blend",
+      "name": "chokecherries",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -1965,7 +2445,7 @@
     {
       "id": "1.1.7.1.18.4",
       "parentCategoryId": "1.1.7.1.18",
-      "name": "Morels",
+      "name": "buffaloberries",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -1975,7 +2455,7 @@
     {
       "id": "1.1.7.1.18.5",
       "parentCategoryId": "1.1.7.1.18",
-      "name": "Chanterelles",
+      "name": "sand cherries",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -1985,7 +2465,7 @@
     {
       "id": "1.1.7.1.18.6",
       "parentCategoryId": "1.1.7.1.18",
-      "name": "Jerky",
+      "name": "ground cherries",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -1995,8 +2475,38 @@
     {
       "id": "1.1.7.1.18.7",
       "parentCategoryId": "1.1.7.1.18",
-      "name": "Fry bread dough",
+      "name": "wild plums",
       "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.18.8",
+      "parentCategoryId": "1.1.7.1.18",
+      "name": "rose hips",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.18.9",
+      "parentCategoryId": "1.1.7.1.18",
+      "name": "morel mushrooms",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.18.10",
+      "parentCategoryId": "1.1.7.1.18",
+      "name": "prairie turnips",
+      "sortOrder": 10,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -2005,7 +2515,7 @@
     {
       "id": "1.1.7.1.19.1",
       "parentCategoryId": "1.1.7.1.19",
-      "name": "Elderberries",
+      "name": "honey",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -2015,7 +2525,7 @@
     {
       "id": "1.1.7.1.19.2",
       "parentCategoryId": "1.1.7.1.19",
-      "name": "Peppermint",
+      "name": "rose hips",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -2025,7 +2535,7 @@
     {
       "id": "1.1.7.1.19.3",
       "parentCategoryId": "1.1.7.1.19",
-      "name": "Lemon balm",
+      "name": "chokecherry syrup",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -2035,7 +2545,7 @@
     {
       "id": "1.1.7.1.19.4",
       "parentCategoryId": "1.1.7.1.19",
-      "name": "Chamomile",
+      "name": "peppermint",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -2045,7 +2555,7 @@
     {
       "id": "1.1.7.1.19.5",
       "parentCategoryId": "1.1.7.1.19",
-      "name": "Yarrow",
+      "name": "ginger",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -2055,7 +2565,7 @@
     {
       "id": "1.1.7.1.19.6",
       "parentCategoryId": "1.1.7.1.19",
-      "name": "Bee balm",
+      "name": "chamomile",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -2065,7 +2575,7 @@
     {
       "id": "1.1.7.1.19.7",
       "parentCategoryId": "1.1.7.1.19",
-      "name": "Mullein",
+      "name": "echinacea",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -2075,8 +2585,18 @@
     {
       "id": "1.1.7.1.19.8",
       "parentCategoryId": "1.1.7.1.19",
-      "name": "Echinacea",
+      "name": "sage",
       "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.19.9",
+      "parentCategoryId": "1.1.7.1.19",
+      "name": "juniper berries",
+      "sortOrder": 9,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -2085,7 +2605,7 @@
     {
       "id": "1.1.7.1.20.1",
       "parentCategoryId": "1.1.7.1.20",
-      "name": "Beer",
+      "name": "coffee",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -2095,7 +2615,7 @@
     {
       "id": "1.1.7.1.20.2",
       "parentCategoryId": "1.1.7.1.20",
-      "name": "Ale",
+      "name": "black tea",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -2105,7 +2625,7 @@
     {
       "id": "1.1.7.1.20.3",
       "parentCategoryId": "1.1.7.1.20",
-      "name": "Lager",
+      "name": "beer",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -2115,7 +2635,7 @@
     {
       "id": "1.1.7.1.20.4",
       "parentCategoryId": "1.1.7.1.20",
-      "name": "Hard cider",
+      "name": "barley malt",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -2125,7 +2645,7 @@
     {
       "id": "1.1.7.1.20.5",
       "parentCategoryId": "1.1.7.1.20",
-      "name": "Apple cider",
+      "name": "mead",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -2135,7 +2655,7 @@
     {
       "id": "1.1.7.1.20.6",
       "parentCategoryId": "1.1.7.1.20",
-      "name": "Whiskey",
+      "name": "apple cider",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -2145,7 +2665,7 @@
     {
       "id": "1.1.7.1.20.7",
       "parentCategoryId": "1.1.7.1.20",
-      "name": "Bourbon",
+      "name": "chokecherry wine",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -2155,8 +2675,18 @@
     {
       "id": "1.1.7.1.20.8",
       "parentCategoryId": "1.1.7.1.20",
-      "name": "Brandy",
+      "name": "plum wine",
       "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.20.9",
+      "parentCategoryId": "1.1.7.1.20",
+      "name": "grape juice",
+      "sortOrder": 9,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -2165,7 +2695,7 @@
     {
       "id": "1.1.7.1.21.1",
       "parentCategoryId": "1.1.7.1.21",
-      "name": "Kosher salt",
+      "name": "kosher salt",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -2175,7 +2705,7 @@
     {
       "id": "1.1.7.1.21.2",
       "parentCategoryId": "1.1.7.1.21",
-      "name": "Sea salt",
+      "name": "pickling salt",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -2185,7 +2715,7 @@
     {
       "id": "1.1.7.1.21.3",
       "parentCategoryId": "1.1.7.1.21",
-      "name": "Table salt",
+      "name": "sea salt",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -2195,7 +2725,7 @@
     {
       "id": "1.1.7.1.21.4",
       "parentCategoryId": "1.1.7.1.21",
-      "name": "Pickling salt",
+      "name": "celery salt",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -2205,7 +2735,7 @@
     {
       "id": "1.1.7.1.21.5",
       "parentCategoryId": "1.1.7.1.21",
-      "name": "Celery salt",
+      "name": "baking soda",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -2215,7 +2745,7 @@
     {
       "id": "1.1.7.1.22.1",
       "parentCategoryId": "1.1.7.1.22",
-      "name": "Baking powder",
+      "name": "active dry yeast",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -2225,7 +2755,7 @@
     {
       "id": "1.1.7.1.22.2",
       "parentCategoryId": "1.1.7.1.22",
-      "name": "Baking soda",
+      "name": "sourdough starter",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -2235,7 +2765,7 @@
     {
       "id": "1.1.7.1.22.3",
       "parentCategoryId": "1.1.7.1.22",
-      "name": "Yeast",
+      "name": "baking powder",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -2245,7 +2775,7 @@
     {
       "id": "1.1.7.1.22.4",
       "parentCategoryId": "1.1.7.1.22",
-      "name": "Sourdough starter",
+      "name": "baking soda",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -2255,7 +2785,7 @@
     {
       "id": "1.1.7.1.22.5",
       "parentCategoryId": "1.1.7.1.22",
-      "name": "Cornstarch",
+      "name": "powdered pectin",
       "sortOrder": 5,
       "aliases": [],
       "tags": [],
@@ -2265,7 +2795,7 @@
     {
       "id": "1.1.7.1.22.6",
       "parentCategoryId": "1.1.7.1.22",
-      "name": "Flour roux",
+      "name": "liquid pectin",
       "sortOrder": 6,
       "aliases": [],
       "tags": [],
@@ -2275,7 +2805,7 @@
     {
       "id": "1.1.7.1.22.7",
       "parentCategoryId": "1.1.7.1.22",
-      "name": "Pectin",
+      "name": "cornstarch",
       "sortOrder": 7,
       "aliases": [],
       "tags": [],
@@ -2285,8 +2815,18 @@
     {
       "id": "1.1.7.1.22.8",
       "parentCategoryId": "1.1.7.1.22",
-      "name": "Gelatin",
+      "name": "gelatin",
       "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.1.7.1.22.9",
+      "parentCategoryId": "1.1.7.1.22",
+      "name": "rennet",
+      "sortOrder": 9,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -2295,7 +2835,7 @@
     {
       "id": "1.1.7.1.23.1",
       "parentCategoryId": "1.1.7.1.23",
-      "name": "Pie dough",
+      "name": "cabbage leaves",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -2305,7 +2845,7 @@
     {
       "id": "1.1.7.1.23.2",
       "parentCategoryId": "1.1.7.1.23",
-      "name": "Puff pastry",
+      "name": "corn husks",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -2315,7 +2855,7 @@
     {
       "id": "1.1.7.1.23.3",
       "parentCategoryId": "1.1.7.1.23",
-      "name": "Sausage casings",
+      "name": "sausage casings",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -2325,7 +2865,7 @@
     {
       "id": "1.1.7.1.23.4",
       "parentCategoryId": "1.1.7.1.23",
-      "name": "Cheesecloth",
+      "name": "cheesecloth",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -2335,18 +2875,8 @@
     {
       "id": "1.1.7.1.23.5",
       "parentCategoryId": "1.1.7.1.23",
-      "name": "Parchment paper",
+      "name": "butcher paper",
       "sortOrder": 5,
-      "aliases": [],
-      "tags": [],
-      "importanceTags": [],
-      "notes": null
-    },
-    {
-      "id": "1.1.7.1.23.6",
-      "parentCategoryId": "1.1.7.1.23",
-      "name": "Wax paper",
-      "sortOrder": 6,
       "aliases": [],
       "tags": [],
       "importanceTags": [],
@@ -2355,7 +2885,7 @@
     {
       "id": "1.1.7.1.24.1",
       "parentCategoryId": "1.1.7.1.24",
-      "name": "Oak wood",
+      "name": "oak wood",
       "sortOrder": 1,
       "aliases": [],
       "tags": [],
@@ -2365,7 +2895,7 @@
     {
       "id": "1.1.7.1.24.2",
       "parentCategoryId": "1.1.7.1.24",
-      "name": "Hickory wood",
+      "name": "apple wood",
       "sortOrder": 2,
       "aliases": [],
       "tags": [],
@@ -2375,7 +2905,7 @@
     {
       "id": "1.1.7.1.24.3",
       "parentCategoryId": "1.1.7.1.24",
-      "name": "Applewood",
+      "name": "cherry wood",
       "sortOrder": 3,
       "aliases": [],
       "tags": [],
@@ -2385,7 +2915,7 @@
     {
       "id": "1.1.7.1.24.4",
       "parentCategoryId": "1.1.7.1.24",
-      "name": "Maple wood",
+      "name": "corncobs",
       "sortOrder": 4,
       "aliases": [],
       "tags": [],
@@ -2395,18 +2925,8 @@
     {
       "id": "1.1.7.1.24.5",
       "parentCategoryId": "1.1.7.1.24",
-      "name": "Charcoal",
+      "name": "natural charcoal",
       "sortOrder": 5,
-      "aliases": [],
-      "tags": [],
-      "importanceTags": [],
-      "notes": null
-    },
-    {
-      "id": "1.1.7.1.24.6",
-      "parentCategoryId": "1.1.7.1.24",
-      "name": "Wood smoke",
-      "sortOrder": 6,
       "aliases": [],
       "tags": [],
       "importanceTags": [],

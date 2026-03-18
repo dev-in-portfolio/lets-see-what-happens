@@ -1,5 +1,2356 @@
 {
   "buildUnitId": "6.1.2.3",
   "buildUnitName": "Southwest Shandong",
-  "entries": []
+  "entries": [
+    {
+      "id": "6.1.2.3.1.1",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "wheat flour",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.2",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "winter wheat",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.3",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "Yutai rice",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.4",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "Tao Gou Qiao rice",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.5",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "foxtail millet",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.6",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "Xuzhuang millet",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.7",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "corn",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.8",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "cornmeal",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.9",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "sweet potato",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.10",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "Tengzhou potato",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.11",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "sweet potato vermicelli",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.12",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "mung bean starch",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.13",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "sweet potato starch",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.1.14",
+      "parentCategoryId": "6.1.2.3.1",
+      "name": "wheat starch",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.1",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Jinxiang garlic",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.2",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Juye garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.3",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Longyang green radish",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.4",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Tengzhou cabbage",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.5",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Zhouying red-skinned potato",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.6",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Jiantouji long eggplant",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.7",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Daogou white lotus root",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.8",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Weishan Lake lotus root",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.9",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Caoxian asparagus",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.10",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Chenji yam",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.11",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Nigou edible mushrooms",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.12",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "Chinese cabbage",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.13",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "bok choy",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.14",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "spinach",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.15",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "scallion",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.16",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "leek",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.17",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "garlic chives",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.18",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "cucumber",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.19",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "tomato",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.2.20",
+      "parentCategoryId": "6.1.2.3.2",
+      "name": "green chili pepper",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.1",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "Yicheng pomegranate",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.2",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "Shanting fire cherry",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.3",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "Hongmen grape",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.4",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "Liucun crisp pear",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.5",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "Dianzi long red jujube",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.6",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "Nawangdian watermelon",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.7",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "Dongming watermelon",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.8",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "pear",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.9",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "grape",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.10",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "jujube",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.11",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "hawthorn",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.3.12",
+      "parentCategoryId": "6.1.2.3.3",
+      "name": "sweet cherry",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.4.1",
+      "parentCategoryId": "6.1.2.3.4",
+      "name": "soybeans",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.4.2",
+      "parentCategoryId": "6.1.2.3.4",
+      "name": "yellow soybeans",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.4.3",
+      "parentCategoryId": "6.1.2.3.4",
+      "name": "black soybeans",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.4.4",
+      "parentCategoryId": "6.1.2.3.4",
+      "name": "mung beans",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.4.5",
+      "parentCategoryId": "6.1.2.3.4",
+      "name": "adzuki beans",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.4.6",
+      "parentCategoryId": "6.1.2.3.4",
+      "name": "peas",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.4.7",
+      "parentCategoryId": "6.1.2.3.4",
+      "name": "broad beans",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.4.8",
+      "parentCategoryId": "6.1.2.3.4",
+      "name": "edamame",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.5.1",
+      "parentCategoryId": "6.1.2.3.5",
+      "name": "Xuzhuang chestnut",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.5.2",
+      "parentCategoryId": "6.1.2.3.5",
+      "name": "Zhaishan walnut",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.5.3",
+      "parentCategoryId": "6.1.2.3.5",
+      "name": "peanuts",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.5.4",
+      "parentCategoryId": "6.1.2.3.5",
+      "name": "sesame seeds",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.5.5",
+      "parentCategoryId": "6.1.2.3.5",
+      "name": "black sesame seeds",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.5.6",
+      "parentCategoryId": "6.1.2.3.5",
+      "name": "pumpkin seeds",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.5.7",
+      "parentCategoryId": "6.1.2.3.5",
+      "name": "watermelon seeds",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.5.8",
+      "parentCategoryId": "6.1.2.3.5",
+      "name": "lotus seeds",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.5.9",
+      "parentCategoryId": "6.1.2.3.5",
+      "name": "fox nuts",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.5.10",
+      "parentCategoryId": "6.1.2.3.5",
+      "name": "peony seeds",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.1",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Weishan Lake four-nostril carp",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.2",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Weishan Lake snakehead",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.3",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Weishan Lake mitten crab",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.4",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Weishan Lake freshwater shrimp",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.5",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Weishan Lake river snails",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.6",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Weishan Lake duck",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.7",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "duck eggs",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.8",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "salted duck eggs",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.9",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Zhangwang pressed duck",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.10",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "donkey meat",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.11",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "mutton",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.12",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Qingshan goat",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.13",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Small-tailed Han sheep",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.14",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Luxi yellow cattle beef",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.15",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Caoxian roast beef",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.16",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "chicken",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.17",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "Dingtao roast chicken",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.18",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "pork",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.19",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "tofu",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.20",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "dried tofu",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.6.21",
+      "parentCategoryId": "6.1.2.3.6",
+      "name": "tofu skin",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.7.1",
+      "parentCategoryId": "6.1.2.3.7",
+      "name": "scallion greens",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.7.2",
+      "parentCategoryId": "6.1.2.3.7",
+      "name": "coriander",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.7.3",
+      "parentCategoryId": "6.1.2.3.7",
+      "name": "garlic chives",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.7.4",
+      "parentCategoryId": "6.1.2.3.7",
+      "name": "leek leaves",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.7.5",
+      "parentCategoryId": "6.1.2.3.7",
+      "name": "lotus leaf",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.7.6",
+      "parentCategoryId": "6.1.2.3.7",
+      "name": "rose petals",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.7.7",
+      "parentCategoryId": "6.1.2.3.7",
+      "name": "peony petals",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.8.1",
+      "parentCategoryId": "6.1.2.3.8",
+      "name": "Liangcheng fennel seed",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.8.2",
+      "parentCategoryId": "6.1.2.3.8",
+      "name": "Shanting prickly ash",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.8.3",
+      "parentCategoryId": "6.1.2.3.8",
+      "name": "dried chili peppers",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.8.4",
+      "parentCategoryId": "6.1.2.3.8",
+      "name": "star anise",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.8.5",
+      "parentCategoryId": "6.1.2.3.8",
+      "name": "cassia bark",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.8.6",
+      "parentCategoryId": "6.1.2.3.8",
+      "name": "fennel seeds",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.8.7",
+      "parentCategoryId": "6.1.2.3.8",
+      "name": "white pepper",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.8.8",
+      "parentCategoryId": "6.1.2.3.8",
+      "name": "black pepper",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.8.9",
+      "parentCategoryId": "6.1.2.3.8",
+      "name": "dried tangerine peel",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.9.1",
+      "parentCategoryId": "6.1.2.3.9",
+      "name": "Jinxiang garlic",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.9.2",
+      "parentCategoryId": "6.1.2.3.9",
+      "name": "Juye garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.9.3",
+      "parentCategoryId": "6.1.2.3.9",
+      "name": "scallion whites",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.9.4",
+      "parentCategoryId": "6.1.2.3.9",
+      "name": "ginger",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.9.5",
+      "parentCategoryId": "6.1.2.3.9",
+      "name": "onion",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.9.6",
+      "parentCategoryId": "6.1.2.3.9",
+      "name": "leek",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.10.1",
+      "parentCategoryId": "6.1.2.3.10",
+      "name": "peony seed oil",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.10.2",
+      "parentCategoryId": "6.1.2.3.10",
+      "name": "peanut oil",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.10.3",
+      "parentCategoryId": "6.1.2.3.10",
+      "name": "sesame oil",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.10.4",
+      "parentCategoryId": "6.1.2.3.10",
+      "name": "Kongjia stone-milled sesame oil",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.10.5",
+      "parentCategoryId": "6.1.2.3.10",
+      "name": "soybean oil",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.10.6",
+      "parentCategoryId": "6.1.2.3.10",
+      "name": "lard",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.10.7",
+      "parentCategoryId": "6.1.2.3.10",
+      "name": "duck fat",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.11.1",
+      "parentCategoryId": "6.1.2.3.11",
+      "name": "soy milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.11.2",
+      "parentCategoryId": "6.1.2.3.11",
+      "name": "tofu",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.11.3",
+      "parentCategoryId": "6.1.2.3.11",
+      "name": "old tofu",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.11.4",
+      "parentCategoryId": "6.1.2.3.11",
+      "name": "dried tofu",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.11.5",
+      "parentCategoryId": "6.1.2.3.11",
+      "name": "tofu skin",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.11.6",
+      "parentCategoryId": "6.1.2.3.11",
+      "name": "frozen tofu",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.11.7",
+      "parentCategoryId": "6.1.2.3.11",
+      "name": "bean curd sheets",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.12.1",
+      "parentCategoryId": "6.1.2.3.12",
+      "name": "mature vinegar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.12.2",
+      "parentCategoryId": "6.1.2.3.12",
+      "name": "rice vinegar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.12.3",
+      "parentCategoryId": "6.1.2.3.12",
+      "name": "pomegranate juice",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.12.4",
+      "parentCategoryId": "6.1.2.3.12",
+      "name": "hawthorn",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.12.5",
+      "parentCategoryId": "6.1.2.3.12",
+      "name": "pickled radish brine",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.13.1",
+      "parentCategoryId": "6.1.2.3.13",
+      "name": "soy sauce",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.13.2",
+      "parentCategoryId": "6.1.2.3.13",
+      "name": "yellow soybean paste",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.13.3",
+      "parentCategoryId": "6.1.2.3.13",
+      "name": "sweet flour sauce",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.13.4",
+      "parentCategoryId": "6.1.2.3.13",
+      "name": "sesame paste",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.13.5",
+      "parentCategoryId": "6.1.2.3.13",
+      "name": "garlic paste",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.13.6",
+      "parentCategoryId": "6.1.2.3.13",
+      "name": "chili sauce",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.13.7",
+      "parentCategoryId": "6.1.2.3.13",
+      "name": "chili oil",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.13.8",
+      "parentCategoryId": "6.1.2.3.13",
+      "name": "fermented bean curd",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.13.9",
+      "parentCategoryId": "6.1.2.3.13",
+      "name": "mature vinegar",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.13.10",
+      "parentCategoryId": "6.1.2.3.13",
+      "name": "Kongjia stone-milled sesame oil",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.1",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "salted duck eggs",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.2",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "preserved duck eggs",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.3",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "Zhangwang pressed duck",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.4",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "Dongming aromatic tripe",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.5",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "Chengwu pickled mustard head",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.6",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "black garlic",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.7",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "pickled garlic",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.8",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "pickled radish",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.9",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "pickled cabbage",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.10",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "fermented bean curd",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.11",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "dried jujube",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.14.12",
+      "parentCategoryId": "6.1.2.3.14",
+      "name": "dried pomegranate peel",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.15.1",
+      "parentCategoryId": "6.1.2.3.15",
+      "name": "white sugar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.15.2",
+      "parentCategoryId": "6.1.2.3.15",
+      "name": "brown sugar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.15.3",
+      "parentCategoryId": "6.1.2.3.15",
+      "name": "rock sugar",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.15.4",
+      "parentCategoryId": "6.1.2.3.15",
+      "name": "honey",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.15.5",
+      "parentCategoryId": "6.1.2.3.15",
+      "name": "maltose",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.16.1",
+      "parentCategoryId": "6.1.2.3.16",
+      "name": "fresh water",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.16.2",
+      "parentCategoryId": "6.1.2.3.16",
+      "name": "rice cooking water",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.16.3",
+      "parentCategoryId": "6.1.2.3.16",
+      "name": "fish stock",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.16.4",
+      "parentCategoryId": "6.1.2.3.16",
+      "name": "duck broth",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.16.5",
+      "parentCategoryId": "6.1.2.3.16",
+      "name": "lamb broth",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.16.6",
+      "parentCategoryId": "6.1.2.3.16",
+      "name": "soy milk",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.16.7",
+      "parentCategoryId": "6.1.2.3.16",
+      "name": "sweet rice wine",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.17.1",
+      "parentCategoryId": "6.1.2.3.17",
+      "name": "scallion shreds",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.17.2",
+      "parentCategoryId": "6.1.2.3.17",
+      "name": "coriander",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.17.3",
+      "parentCategoryId": "6.1.2.3.17",
+      "name": "chopped garlic",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.17.4",
+      "parentCategoryId": "6.1.2.3.17",
+      "name": "toasted sesame seeds",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.17.5",
+      "parentCategoryId": "6.1.2.3.17",
+      "name": "black sesame seeds",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.17.6",
+      "parentCategoryId": "6.1.2.3.17",
+      "name": "chili oil",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.17.7",
+      "parentCategoryId": "6.1.2.3.17",
+      "name": "rose petals",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.17.8",
+      "parentCategoryId": "6.1.2.3.17",
+      "name": "pomegranate arils",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.17.9",
+      "parentCategoryId": "6.1.2.3.17",
+      "name": "shredded radish",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.1",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Yutai rice",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.2",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Jinxiang garlic",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.3",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Weishan Lake lotus root",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.4",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Weishan Lake lotus seeds",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.5",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Weishan Lake fox nuts",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.6",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Weishan Lake four-nostril carp",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.7",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Weishan Lake snakehead",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.8",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Weishan Lake mitten crab",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.9",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Weishan Lake salted duck eggs",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.10",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Tengzhou potato",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.11",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Longyang green radish",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.12",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Yicheng pomegranate",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.13",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Shanting fire cherry",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.14",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Hongmen grape",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.15",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Liucun crisp pear",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.16",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Dianzi long red jujube",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.17",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Xuzhuang chestnut",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.18",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Caoxian asparagus",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.19",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Chenji yam",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.20",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Juye garlic",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.21",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Dingtao rose",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.22",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Nawangdian watermelon",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.23",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "peony seed oil",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.18.24",
+      "parentCategoryId": "6.1.2.3.18",
+      "name": "Kongjia stone-milled sesame oil",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.19.1",
+      "parentCategoryId": "6.1.2.3.19",
+      "name": "peony root bark",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.19.2",
+      "parentCategoryId": "6.1.2.3.19",
+      "name": "red peony root",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.19.3",
+      "parentCategoryId": "6.1.2.3.19",
+      "name": "Dingtao rose",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.19.4",
+      "parentCategoryId": "6.1.2.3.19",
+      "name": "peony petals",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.19.5",
+      "parentCategoryId": "6.1.2.3.19",
+      "name": "Chenji yam",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.19.6",
+      "parentCategoryId": "6.1.2.3.19",
+      "name": "Shanxian luohanshen",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.19.7",
+      "parentCategoryId": "6.1.2.3.19",
+      "name": "Yuncheng pinellia",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.19.8",
+      "parentCategoryId": "6.1.2.3.19",
+      "name": "lotus seeds",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.19.9",
+      "parentCategoryId": "6.1.2.3.19",
+      "name": "fox nuts",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.19.10",
+      "parentCategoryId": "6.1.2.3.19",
+      "name": "hawthorn",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.20.1",
+      "parentCategoryId": "6.1.2.3.20",
+      "name": "peony flower tea",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.20.2",
+      "parentCategoryId": "6.1.2.3.20",
+      "name": "rose flower tea",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.20.3",
+      "parentCategoryId": "6.1.2.3.20",
+      "name": "lotus leaf tea",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.20.4",
+      "parentCategoryId": "6.1.2.3.20",
+      "name": "sweet rice wine",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.20.5",
+      "parentCategoryId": "6.1.2.3.20",
+      "name": "Yutai rice wine",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.20.6",
+      "parentCategoryId": "6.1.2.3.20",
+      "name": "Huaguan liquor",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.20.7",
+      "parentCategoryId": "6.1.2.3.20",
+      "name": "pomegranate wine",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.20.8",
+      "parentCategoryId": "6.1.2.3.20",
+      "name": "soy milk",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.21.1",
+      "parentCategoryId": "6.1.2.3.21",
+      "name": "refined salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.21.2",
+      "parentCategoryId": "6.1.2.3.21",
+      "name": "coarse salt",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.21.3",
+      "parentCategoryId": "6.1.2.3.21",
+      "name": "pepper salt",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.21.4",
+      "parentCategoryId": "6.1.2.3.21",
+      "name": "food alkali",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.22.1",
+      "parentCategoryId": "6.1.2.3.22",
+      "name": "old dough starter",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.22.2",
+      "parentCategoryId": "6.1.2.3.22",
+      "name": "fresh yeast",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.22.3",
+      "parentCategoryId": "6.1.2.3.22",
+      "name": "baking soda",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.22.4",
+      "parentCategoryId": "6.1.2.3.22",
+      "name": "food alkali",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.22.5",
+      "parentCategoryId": "6.1.2.3.22",
+      "name": "brine tofu coagulant",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.22.6",
+      "parentCategoryId": "6.1.2.3.22",
+      "name": "gypsum tofu coagulant",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.22.7",
+      "parentCategoryId": "6.1.2.3.22",
+      "name": "mung bean starch",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.22.8",
+      "parentCategoryId": "6.1.2.3.22",
+      "name": "sweet potato starch",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.23.1",
+      "parentCategoryId": "6.1.2.3.23",
+      "name": "jianbing sheets",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.23.2",
+      "parentCategoryId": "6.1.2.3.23",
+      "name": "wheat pancakes",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.23.3",
+      "parentCategoryId": "6.1.2.3.23",
+      "name": "dumpling wrappers",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.23.4",
+      "parentCategoryId": "6.1.2.3.23",
+      "name": "steamed bun wrappers",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.23.5",
+      "parentCategoryId": "6.1.2.3.23",
+      "name": "tofu skin",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.23.6",
+      "parentCategoryId": "6.1.2.3.23",
+      "name": "lotus leaf",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.23.7",
+      "parentCategoryId": "6.1.2.3.23",
+      "name": "reed leaf",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.24.1",
+      "parentCategoryId": "6.1.2.3.24",
+      "name": "charcoal fire",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.24.2",
+      "parentCategoryId": "6.1.2.3.24",
+      "name": "fruitwood smoke",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.24.3",
+      "parentCategoryId": "6.1.2.3.24",
+      "name": "jujube wood",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.24.4",
+      "parentCategoryId": "6.1.2.3.24",
+      "name": "corncob smoke",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.1.2.3.24.5",
+      "parentCategoryId": "6.1.2.3.24",
+      "name": "reed smoke",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

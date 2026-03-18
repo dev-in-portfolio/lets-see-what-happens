@@ -1,5 +1,3546 @@
 {
   "buildUnitId": "2.4.5.1",
   "buildUnitName": "Campania",
-  "entries": []
+  "entries": [
+    {
+      "id": "2.4.5.1.1.1",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "durum wheat semolina, durum wheat semolina, semola di grano duro",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.2",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "re-milled durum wheat semolina, re-milled durum wheat semolina, semola rimacinata di grano duro",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.3",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "soft wheat flour, soft wheat flour, farina di grano tenero",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.4",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "farina tipo 0",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.5",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "farina tipo 00",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.6",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "corn flour, corn flour, farina di mais",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.7",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "chestnut flour, chestnut flour, farina di castagne",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.8",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "spelled flour, spelled flour, farina di farro",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.9",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "riso",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.10",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "orzo perlato",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.11",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "farro",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.12",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "Pane Cafone",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.13",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "Montecalvo bread, Montecalvo bread, Pane di Montecalvo",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.14",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "biscuit bread from Agerola, biscuit bread from Agerola, pane biscottato di Agerola",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.15",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "fresella napoletana",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.16",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "fresella beneventana",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.17",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "Gragnano PGI pasta, Gragnano PGI pasta, Pasta di Gragnano IGP",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.18",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "paccheri",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.19",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "ziti",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.20",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "candele",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.21",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "spaghetti",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.22",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "vermicelli",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.23",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "fusilli felittesi",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.1.24",
+      "parentCategoryId": "2.4.5.1.1",
+      "name": "lagane",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.1",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "Pomodoro San Marzano dell'Agro Sarnese-Nocerino DOP",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.2",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "Piennolo del Vesuvio DOP tomato, Piennolo del Vesuvio DOP tomato, Pomodorino del Piennolo del Vesuvio DOP",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.3",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "Sorrento tomato, Sorrento tomato, pomodoro di Sorrento",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.4",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "pomodorino corbarino",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.5",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "Pimonte cannellino tomatoes, Pimonte cannellino tomatoes, pomodorino cannellino di Pimonte",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.6",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "fiaschello tomato from Battipaglia, fiaschello tomato from Battipaglia, pomodoro fiaschello di Battipaglia",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.7",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "Cipollotto Nocerino DOP",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.8",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "aglio dell'Ufita",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.9",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "friarielli",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.10",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "torzella",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.11",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "scarola bianca riccia schiana",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.12",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "papaccella napoletana",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.13",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "papaccelle riccie",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.14",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "long aubergine from Naples, long aubergine from Naples, melanzana lunga di Napoli",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.15",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "melanzana paccia",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.16",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "peperoncino friariello napoletano",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.17",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "peperoncino friariello nocerese",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.18",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "green or river chilies, green or river chilies, peperoncini verdi o di fiume",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.19",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "long squash from Naples, long squash from Naples, zucca lunga di Napoli",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.20",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "zucca napoletana tonda",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.21",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "zucchino San Pasquale",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.22",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "Gesualdo celery, Gesualdo celery, sedano di Gesualdo",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.23",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "cicoria",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.24",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "broccoli",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.25",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "carciofi",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.2.26",
+      "parentCategoryId": "2.4.5.1.2",
+      "name": "courgette flowers, courgette flowers, fiori di zucca",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.1",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "Melannurca Campana IGP",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.2",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "Annurca, Annurca, Annurca",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.3",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "Southern Red, Southern Red, Rossa del Sud",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.4",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "Sorrento PGI lemon, Sorrento PGI lemon, Limone di Sorrento IGP",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.5",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "Limone Costa d'Amalfi IGP",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.6",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "Cilento PDO White Fig, Cilento PDO White Fig, Fico Bianco del Cilento DOP",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.7",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "Chestnut of Montella IGP Palummina, Chestnut of Montella IGP Palummina, Castagna di Montella IGP Palummina",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.8",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "Chestnut of Montella IGP Verdola, Chestnut of Montella IGP Verdola, Castagna di Montella IGP Verdola",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.9",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "percoca puteolana",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.10",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "percoca col pizzo",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.11",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "pesca bianca napoletana",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.12",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "Venus stern fishing, Venus stern fishing, pesca poppa di Venere",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.13",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "Capua melon, Capua melon, melone di Capua",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.14",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "ancient cider pear from Matese, ancient cider pear from Matese, antica pera da sidro del Matese",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.15",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva catalanesca",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.16",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Asprinio",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.17",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Fiano",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.18",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Greco",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.19",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Aglianico",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.20",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Falanghina",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.21",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Piedirosso",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.22",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Biancolella",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.23",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Forastera",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.24",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Caprettone",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.25",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "Coda di Volpe grapes, Coda di Volpe grapes, uva Coda di Volpe",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.26",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Pallagrello Bianco",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.27",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Pallagrello Nero",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.28",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Sciascinoso",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.3.29",
+      "parentCategoryId": "2.4.5.1.3",
+      "name": "uva Tintore",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.1",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "Controne bean, Controne bean, Fagiolo di Controne",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.2",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "Cece di Cicerale, Cece di Cicerale, Cece di Cicerale",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.3",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "Maracuoccio of Lentiscosa, Maracuoccio of Lentiscosa, Maracuoccio di Lentiscosa",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.4",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "Fagiolo zampognaro",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.5",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "Volturara white bean, Volturara white bean, Fagiolo bianco di Volturara",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.6",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "Dead tooth bean, Dead tooth bean, Fagiolo dente di morto",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.7",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "Fagiolo risillo",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.8",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "fagiolo cannellino",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.9",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "fagiolo borlotto",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.10",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "fagiolo bianco",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.11",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "cicerchia",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.12",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "lenticchie",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.13",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "fave secche",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.14",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "Teano chickpea, Teano chickpea, cece di Teano",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.15",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "pisello centogiorni",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.4.16",
+      "parentCategoryId": "2.4.5.1.4",
+      "name": "lupinone",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.1",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "Giffoni hazelnut PGI, Giffoni hazelnut PGI, Nocciola di Giffoni IGP",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.2",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "nocciola camponica",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.3",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "nocciola mortarella",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.4",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "Talanico curly hazelnut, Talanico curly hazelnut, nocciola riccia di Talanico",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.5",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "noci",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.6",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "Sorrento walnut, Sorrento walnut, Noce di Sorrento",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.7",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "mandorle",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.8",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "pinoli",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.9",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "wild fennel seeds, wild fennel seeds, semi di finocchietto selvatico",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.10",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "aniseed, aniseed, semi di anice",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.11",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "coriander seeds, coriander seeds, semi di coriandolo",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.5.12",
+      "parentCategoryId": "2.4.5.1.5",
+      "name": "sesame seeds, sesame seeds, semi di sesamo",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.1",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "carne bufalina",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.2",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "Podolian beef, Podolian beef, carne di bovino podolico",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.3",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "Casertana breed pork meat, Casertana breed pork meat, carne di suino di razza Casertana",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.4",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "Laticauda sheep meat, Laticauda sheep meat, carne ovina di Laticauda",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.5",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "Carmasciano lamb, Carmasciano lamb, agnello di Carmasciano",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.6",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "Pietraroja ham, Pietraroja ham, Prosciutto di Pietraroja",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.7",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "prosciutto irpino",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.8",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "salame Napoli",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.9",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "Castelpoto red sausage, Castelpoto red sausage, salsiccia rossa di Castelpoto",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.10",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "Cilento sausage, Cilento sausage, salsiccia del Cilento",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.11",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "soppressata from Gioi Cilento, soppressata from Gioi Cilento, soppressata di Gioi Cilento",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.12",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "soppressata irpina",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.13",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "soppressata del Sannio, soppressata del Sannio, soppressata del Sannio",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.14",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "pancetta tesa",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.15",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "capicollo",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.16",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "cicoli",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.17",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "menaica anchovies, menaica anchovies, alici di menaica",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.18",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "alici sotto sale",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.19",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "anchovy fillets in oil, anchovy fillets in oil, filetti di alici sott'olio",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.20",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "mussel from the Gulf of Naples and the Phlegraean coast, mussel from the Gulf of Naples and the Phlegraean coast, cozza del golfo di Napoli e del litorale flegreo",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.21",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "Licosa red mullet, Licosa red mullet, triglia rossa di Licosa",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.22",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "sgombro",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.23",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "sarde",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.24",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "stocco",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.25",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "tarantiello",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.6.26",
+      "parentCategoryId": "2.4.5.1.6",
+      "name": "tonno",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.1",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "basilico",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.2",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "prezzemolo",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.3",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "rosmarino",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.4",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "salvia",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.5",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "alloro",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.6",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "thyme from the coasts of Mutria, thyme from the coasts of Mutria, timo delle coste del Mutria",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.7",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "oregano from Matese, oregano from Matese, origano del Matese",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.8",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "Cilento oregano, Cilento oregano, origano del Cilento",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.9",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "finocchietto selvatico",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.10",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "menta",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.11",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "mentuccia",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.7.12",
+      "parentCategoryId": "2.4.5.1.7",
+      "name": "nepitella",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.1",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "pepe nero",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.2",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "pepe in grani",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.3",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "peperoncino secco",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.4",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "noce moscata",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.5",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "cannella",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.6",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "cloves, cloves, chiodi di garofano",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.7",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "juniper berries, juniper berries, bacche di ginepro",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.8",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "dried fennel seeds, dried fennel seeds, semi di finocchietto secchi",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.9",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "coriander seeds, coriander seeds, semi di coriandolo",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.10",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "origano secco",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.11",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "alloro secco",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.12",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "rosmarino secco",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.13",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "timo secco",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.8.14",
+      "parentCategoryId": "2.4.5.1.8",
+      "name": "pepper paprika, pepper paprika, paprica di peperone",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.9.1",
+      "parentCategoryId": "2.4.5.1.9",
+      "name": "cipolla",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.9.2",
+      "parentCategoryId": "2.4.5.1.9",
+      "name": "Cipollotto Nocerino DOP",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.9.3",
+      "parentCategoryId": "2.4.5.1.9",
+      "name": "aglio",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.9.4",
+      "parentCategoryId": "2.4.5.1.9",
+      "name": "aglio dell'Ufita",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.9.5",
+      "parentCategoryId": "2.4.5.1.9",
+      "name": "sedano",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.9.6",
+      "parentCategoryId": "2.4.5.1.9",
+      "name": "carota",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.9.7",
+      "parentCategoryId": "2.4.5.1.9",
+      "name": "prezzemolo",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.1",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "Olio Campania IGP",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.2",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "Olio Colline Salernitane DOP",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.3",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "Olio Cilento DOP",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.4",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "Olio Penisola Sorrentina DOP",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.5",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "Olio Irpinia - Colline dell'Ufita DOP",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.6",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "olio monovarietale Ravece",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.7",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "olio monovarietale Pisciottana",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.8",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "olio monovarietale Rotondella",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.9",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "olio monovarietale Minucciola",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.10",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "olio monovarietale Ortice",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.11",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "strutto",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.12",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "lardo",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.13",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "sugna",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.10.14",
+      "parentCategoryId": "2.4.5.1.10",
+      "name": "burro",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.1",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "Buffalo Mozzarella Campana DOP, Buffalo Mozzarella Campana DOP, Mozzarella di Bufala Campana DOP",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.2",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "Ricotta di Bufala Campana DOP, Ricotta di Bufala Campana DOP, Ricotta di Bufala Campana DOP",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.3",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "Provolone del Monaco DOP, Provolone del Monaco DOP, Provolone del Monaco DOP",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.4",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "Caciocavallo Silano DOP",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.5",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "fiordilatte",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.6",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "caciocavallo podolico",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.7",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "caciocavallo podolico from the Picentini Mountains, caciocavallo podolico from the Picentini Mountains, caciocavallo podolico dei Monti Picentini",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.8",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "caciocavallo from Matese, caciocavallo from Matese, caciocavallo del Matese",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.9",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "caciocavallo del Formicoso, caciocavallo del Formicoso, caciocavallo del Formicoso",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.10",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "buffalo caciocavallo, buffalo caciocavallo, caciocavallo di bufala",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.11",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "Carmasciano pecorino, Carmasciano pecorino, pecorino di Carmasciano",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.12",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "caso conzato",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.13",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "goat's cheese cacioricotta from Cilento, goat's cheese cacioricotta from Cilento, cacioricotta caprino del Cilento",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.14",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "goat's caciotta from the Lattari Mountains, goat's caciotta from the Lattari Mountains, caciotta di capra dei Monti Lattari",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.15",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "goat cheese from Cilento, goat cheese from Cilento, caprino del Cilento",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.16",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "Bagnolese pecorino, Bagnolese pecorino, pecorino di Bagnolese",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.17",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "Laticauda pecorino, Laticauda pecorino, pecorino di Laticauda",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.18",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "provola affumicata",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.19",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "smoked buffalo provola, smoked buffalo provola, provola affumicata di bufala",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.20",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "fuscella ricotta from Sant'Anastasia, fuscella ricotta from Sant'Anastasia, ricotta di fuscella di Sant'Anastasia",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.21",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "buffalo scamorza, buffalo scamorza, scamorza di bufala",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.22",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "juncata",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.11.23",
+      "parentCategoryId": "2.4.5.1.11",
+      "name": "buffalo mascarpone, buffalo mascarpone, mascarpone di bufala",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.12.1",
+      "parentCategoryId": "2.4.5.1.12",
+      "name": "white wine vinegar, white wine vinegar, aceto di vino bianco",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.12.2",
+      "parentCategoryId": "2.4.5.1.12",
+      "name": "red wine vinegar, red wine vinegar, aceto di vino rosso",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.12.3",
+      "parentCategoryId": "2.4.5.1.12",
+      "name": "White Fig Vinegar, White Fig Vinegar, Aceto di Fico Bianco",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.12.4",
+      "parentCategoryId": "2.4.5.1.12",
+      "name": "Sorrento PGI lemon juice, Sorrento PGI lemon juice, succo di Limone di Sorrento IGP",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.12.5",
+      "parentCategoryId": "2.4.5.1.12",
+      "name": "Amalfi Coast PGI lemon juice, Amalfi Coast PGI lemon juice, succo di Limone Costa d'Amalfi IGP",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.12.6",
+      "parentCategoryId": "2.4.5.1.12",
+      "name": "pomodoro San Marzano",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.12.7",
+      "parentCategoryId": "2.4.5.1.12",
+      "name": "Piennolo cherry tomato, Piennolo cherry tomato, pomodorino del piennolo",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.12.8",
+      "parentCategoryId": "2.4.5.1.12",
+      "name": "vino bianco secco",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.12.9",
+      "parentCategoryId": "2.4.5.1.12",
+      "name": "vino rosso secco",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.13.1",
+      "parentCategoryId": "2.4.5.1.13",
+      "name": "Cetara DOP anchovies straining, Cetara DOP anchovies straining, Colatura di Alici di Cetara DOP",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.13.2",
+      "parentCategoryId": "2.4.5.1.13",
+      "name": "alici sotto sale",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.13.3",
+      "parentCategoryId": "2.4.5.1.13",
+      "name": "anchovy fillets in oil, anchovy fillets in oil, filetti di alici sott'olio",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.13.4",
+      "parentCategoryId": "2.4.5.1.13",
+      "name": "San Marzano tomato sauce, San Marzano tomato sauce, salsa di pomodoro San Marzano",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.13.5",
+      "parentCategoryId": "2.4.5.1.13",
+      "name": "tomato puree, tomato puree, passata di pomodoro",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.13.6",
+      "parentCategoryId": "2.4.5.1.13",
+      "name": "tomato preserve, tomato preserve, conserva di pomodoro",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.13.7",
+      "parentCategoryId": "2.4.5.1.13",
+      "name": "small packets of Piennolo tomatoes from Vesuvius, small packets of Piennolo tomatoes from Vesuvius, pacchetelle di Pomodorino del Piennolo del Vesuvio",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.13.8",
+      "parentCategoryId": "2.4.5.1.13",
+      "name": "black olive pâté, black olive pâté, paté di olive nere",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.13.9",
+      "parentCategoryId": "2.4.5.1.13",
+      "name": "olive pisciottane schiacciate sott'olio",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.13.10",
+      "parentCategoryId": "2.4.5.1.13",
+      "name": "White Fig Vinegar, White Fig Vinegar, Aceto di Fico Bianco",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.13.11",
+      "parentCategoryId": "2.4.5.1.13",
+      "name": "extra virgin olive oil from Campania, extra virgin olive oil from Campania, olio extravergine di oliva campano",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.1",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "Cetara DOP anchovies straining, Cetara DOP anchovies straining, Colatura di Alici di Cetara DOP",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.2",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "menaica anchovies, menaica anchovies, alici di menaica",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.3",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "alici sotto sale",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.4",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "anchovy fillets in oil, anchovy fillets in oil, filetti di alici sott'olio",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.5",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "olive pisciottane schiacciate sott'olio",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.6",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "bruised Salella olive from Cilento, bruised Salella olive from Cilento, oliva salella ammaccata del Cilento",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.7",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "Hanging Piennolo tomato from Vesuvius, Hanging Piennolo tomato from Vesuvius, Pomodorino del Piennolo del Vesuvio appeso",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.8",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "pomodori secchi sott'olio",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.9",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "Pomodoro San Marzano pelato in conserva",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.10",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "Pietraroja ham, Pietraroja ham, Prosciutto di Pietraroja",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.11",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "salame Napoli",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.12",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "Castelpoto red sausage, Castelpoto red sausage, salsiccia rossa di Castelpoto",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.13",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "soppressata from Gioi Cilento, soppressata from Gioi Cilento, soppressata di Gioi Cilento",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.14",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "soppressata irpina",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.15",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "pancetta tesa",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.16",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "capicollo",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.17",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "provola affumicata",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.18",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "smoked buffalo provola, smoked buffalo provola, provola affumicata di bufala",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.19",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "fichi secchi",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.14.20",
+      "parentCategoryId": "2.4.5.1.14",
+      "name": "castagne secche",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.15.1",
+      "parentCategoryId": "2.4.5.1.15",
+      "name": "wildflower honey from Cilento, wildflower honey from Cilento, miele millefiori del Cilento",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.15.2",
+      "parentCategoryId": "2.4.5.1.15",
+      "name": "acacia honey, acacia honey, miele di acacia",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.15.3",
+      "parentCategoryId": "2.4.5.1.15",
+      "name": "chestnut honey, chestnut honey, miele di castagno",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.15.4",
+      "parentCategoryId": "2.4.5.1.15",
+      "name": "fig honeydew, fig honeydew, melata di fichi",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.15.5",
+      "parentCategoryId": "2.4.5.1.15",
+      "name": "blonde orange syrup, blonde orange syrup, sciroppo di arancia bionda",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.15.6",
+      "parentCategoryId": "2.4.5.1.15",
+      "name": "zucchero",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.15.7",
+      "parentCategoryId": "2.4.5.1.15",
+      "name": "mosto cotto",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.16.1",
+      "parentCategoryId": "2.4.5.1.16",
+      "name": "meat broth, meat broth, brodo di carne",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.16.2",
+      "parentCategoryId": "2.4.5.1.16",
+      "name": "fish broth, fish broth, brodo di pesce",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.16.3",
+      "parentCategoryId": "2.4.5.1.16",
+      "name": "buffalo milk, buffalo milk, latte di bufala",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.16.4",
+      "parentCategoryId": "2.4.5.1.16",
+      "name": "latte vaccino",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.16.5",
+      "parentCategoryId": "2.4.5.1.16",
+      "name": "buffalo serum, buffalo serum, siero di bufala",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.16.6",
+      "parentCategoryId": "2.4.5.1.16",
+      "name": "governing water of buffalo mozzarella, governing water of buffalo mozzarella, acqua di governo della mozzarella di bufala",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.16.7",
+      "parentCategoryId": "2.4.5.1.16",
+      "name": "vino bianco campano",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.16.8",
+      "parentCategoryId": "2.4.5.1.16",
+      "name": "vino rosso campano",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.16.9",
+      "parentCategoryId": "2.4.5.1.16",
+      "name": "Apple Annurca cider, Apple Annurca cider, sidro di Mela Annurca",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.16.10",
+      "parentCategoryId": "2.4.5.1.16",
+      "name": "Apple Limoncella cider, Apple Limoncella cider, sidro di Mela Limoncella",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.16.11",
+      "parentCategoryId": "2.4.5.1.16",
+      "name": "Matese pear cider, Matese pear cider, sidro di Pera del Matese",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.17.1",
+      "parentCategoryId": "2.4.5.1.17",
+      "name": "basilico fresco",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.17.2",
+      "parentCategoryId": "2.4.5.1.17",
+      "name": "origano fresco",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.17.3",
+      "parentCategoryId": "2.4.5.1.17",
+      "name": "prezzemolo tritato",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.17.4",
+      "parentCategoryId": "2.4.5.1.17",
+      "name": "lemon zest, lemon zest, scorza di limone",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.17.5",
+      "parentCategoryId": "2.4.5.1.17",
+      "name": "pinoli tostati",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.17.6",
+      "parentCategoryId": "2.4.5.1.17",
+      "name": "toasted Giffoni hazelnuts, toasted Giffoni hazelnuts, nocciole di Giffoni tostate",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.17.7",
+      "parentCategoryId": "2.4.5.1.17",
+      "name": "pecorino grattugiato",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.17.8",
+      "parentCategoryId": "2.4.5.1.17",
+      "name": "drops of anchovy sauce, drops of anchovy sauce, gocce di colatura di alici",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.17.9",
+      "parentCategoryId": "2.4.5.1.17",
+      "name": "raw extra virgin olive oil, raw extra virgin olive oil, olio extravergine di oliva a crudo",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.17.10",
+      "parentCategoryId": "2.4.5.1.17",
+      "name": "peperoncino sbriciolato",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.1",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Pizza Napoletana STG",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.2",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Gragnano PGI pasta, Gragnano PGI pasta, Pasta di Gragnano IGP",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.3",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Buffalo Mozzarella Campana DOP, Buffalo Mozzarella Campana DOP, Mozzarella di Bufala Campana DOP",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.4",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Ricotta di Bufala Campana DOP, Ricotta di Bufala Campana DOP, Ricotta di Bufala Campana DOP",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.5",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Provolone del Monaco DOP, Provolone del Monaco DOP, Provolone del Monaco DOP",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.6",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Pomodoro San Marzano dell'Agro Sarnese-Nocerino DOP",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.7",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Piennolo del Vesuvio DOP tomato, Piennolo del Vesuvio DOP tomato, Pomodorino del Piennolo del Vesuvio DOP",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.8",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Cetara DOP anchovies straining, Cetara DOP anchovies straining, Colatura di Alici di Cetara DOP",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.9",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Melannurca Campana IGP",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.10",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Cilento PDO White Fig, Cilento PDO White Fig, Fico Bianco del Cilento DOP",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.11",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Giffoni hazelnut PGI, Giffoni hazelnut PGI, Nocciola di Giffoni IGP",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.12",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Montella PGI chestnut, Montella PGI chestnut, Castagna di Montella IGP",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.13",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Sorrento PGI lemon, Sorrento PGI lemon, Limone di Sorrento IGP",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.14",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Limone Costa d'Amalfi IGP",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.15",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Cipollotto Nocerino DOP",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.16",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Menaica anchovies, Menaica anchovies, Alici di menaica",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.17",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "Castelpoto red sausage, Castelpoto red sausage, salsiccia rossa di Castelpoto",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.18",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "caso conzato",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.18.19",
+      "parentCategoryId": "2.4.5.1.18",
+      "name": "caciocavallo podolico",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.19.1",
+      "parentCategoryId": "2.4.5.1.19",
+      "name": "Melannurca Campana IGP",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.19.2",
+      "parentCategoryId": "2.4.5.1.19",
+      "name": "acacia honey, acacia honey, miele di acacia",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.19.3",
+      "parentCategoryId": "2.4.5.1.19",
+      "name": "chestnut honey, chestnut honey, miele di castagno",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.19.4",
+      "parentCategoryId": "2.4.5.1.19",
+      "name": "Sorrento PGI lemon, Sorrento PGI lemon, Limone di Sorrento IGP",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.19.5",
+      "parentCategoryId": "2.4.5.1.19",
+      "name": "Limone Costa d'Amalfi IGP",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.19.6",
+      "parentCategoryId": "2.4.5.1.19",
+      "name": "finocchietto selvatico",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.19.7",
+      "parentCategoryId": "2.4.5.1.19",
+      "name": "menta",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.19.8",
+      "parentCategoryId": "2.4.5.1.19",
+      "name": "rosmarino",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.19.9",
+      "parentCategoryId": "2.4.5.1.19",
+      "name": "oregano from Matese, oregano from Matese, origano del Matese",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.19.10",
+      "parentCategoryId": "2.4.5.1.19",
+      "name": "nocillo",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.1",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Fiano di Avellino DOP, Fiano di Avellino DOP, Fiano di Avellino DOP",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.2",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Greco di Tufo DOP, Greco di Tufo DOP, Greco di Tufo DOP",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.3",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Taurasi DOP",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.4",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Aglianico del Taburno DOP, Aglianico del Taburno DOP, Aglianico del Taburno DOP",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.5",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Falerno del Massico DOP, Falerno del Massico DOP, Falerno del Massico DOP",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.6",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Aversa DOP",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.7",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Sannio DOP",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.8",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Irpinia DOP",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.9",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Vesuvio DOP",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.10",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Costa d'Amalfi DOP",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.11",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Cilento DOP",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.12",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "nocillo",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.13",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "lemon cream liqueur, lemon cream liqueur, liquore crema di limone",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.14",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "liquore finocchietto",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.15",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "liquore concerto",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.16",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "nespolino",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.17",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Laurino liqueur from Caserta, Laurino liqueur from Caserta, Liquore Laurino del Casertano",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.18",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "Apple Annurca cider, Apple Annurca cider, sidro di Mela Annurca",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.20.19",
+      "parentCategoryId": "2.4.5.1.20",
+      "name": "vino cotto",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.21.1",
+      "parentCategoryId": "2.4.5.1.21",
+      "name": "sale marino",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.21.2",
+      "parentCategoryId": "2.4.5.1.21",
+      "name": "sale grosso",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.21.3",
+      "parentCategoryId": "2.4.5.1.21",
+      "name": "sale fino",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.21.4",
+      "parentCategoryId": "2.4.5.1.21",
+      "name": "salamoia",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.21.5",
+      "parentCategoryId": "2.4.5.1.21",
+      "name": "baking soda, baking soda, bicarbonato di sodio",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.22.1",
+      "parentCategoryId": "2.4.5.1.22",
+      "name": "brewer's yeast, brewer's yeast, lievito di birra",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.22.2",
+      "parentCategoryId": "2.4.5.1.22",
+      "name": "lievito madre",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.22.3",
+      "parentCategoryId": "2.4.5.1.22",
+      "name": "natural calf rennet, natural calf rennet, caglio di vitello naturale",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.22.4",
+      "parentCategoryId": "2.4.5.1.22",
+      "name": "kid rennet, kid rennet, caglio di capretto",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.22.5",
+      "parentCategoryId": "2.4.5.1.22",
+      "name": "lamb rennet, lamb rennet, caglio di agnello",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.22.6",
+      "parentCategoryId": "2.4.5.1.22",
+      "name": "siero-innesto naturale",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.22.7",
+      "parentCategoryId": "2.4.5.1.22",
+      "name": "fermenti lattici",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.22.8",
+      "parentCategoryId": "2.4.5.1.22",
+      "name": "albume d'uovo",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.22.9",
+      "parentCategoryId": "2.4.5.1.22",
+      "name": "tuorlo d'uovo",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.22.10",
+      "parentCategoryId": "2.4.5.1.22",
+      "name": "pangrattato",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.22.11",
+      "parentCategoryId": "2.4.5.1.22",
+      "name": "rice starch, rice starch, amido di riso",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.23.1",
+      "parentCategoryId": "2.4.5.1.23",
+      "name": "budello naturale suino",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.23.2",
+      "parentCategoryId": "2.4.5.1.23",
+      "name": "budello naturale bovino",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.23.3",
+      "parentCategoryId": "2.4.5.1.23",
+      "name": "rafia",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.23.4",
+      "parentCategoryId": "2.4.5.1.23",
+      "name": "fuscelle",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.23.5",
+      "parentCategoryId": "2.4.5.1.23",
+      "name": "linen cloths, linen cloths, teli di lino",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.23.6",
+      "parentCategoryId": "2.4.5.1.23",
+      "name": "pagliarelle",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.23.7",
+      "parentCategoryId": "2.4.5.1.23",
+      "name": "myrtle leaves, myrtle leaves, foglie di mortella",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.23.8",
+      "parentCategoryId": "2.4.5.1.23",
+      "name": "wicker baskets, wicker baskets, canestri di vimini",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.23.9",
+      "parentCategoryId": "2.4.5.1.23",
+      "name": "wooden third, wooden third, terzigno di legno",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.24.1",
+      "parentCategoryId": "2.4.5.1.24",
+      "name": "chestnut wood, chestnut wood, legno di castagno",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.24.2",
+      "parentCategoryId": "2.4.5.1.24",
+      "name": "beech wood, beech wood, legno di faggio",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.24.3",
+      "parentCategoryId": "2.4.5.1.24",
+      "name": "oak wood, oak wood, legno di quercia",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.24.4",
+      "parentCategoryId": "2.4.5.1.24",
+      "name": "paglia",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.24.5",
+      "parentCategoryId": "2.4.5.1.24",
+      "name": "straw smoke, straw smoke, fumo di paglia",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.24.6",
+      "parentCategoryId": "2.4.5.1.24",
+      "name": "Mortella branches, Mortella branches, rami di mortella",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.24.7",
+      "parentCategoryId": "2.4.5.1.24",
+      "name": "myrtle branches, myrtle branches, rami di mirto",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.24.8",
+      "parentCategoryId": "2.4.5.1.24",
+      "name": "juniper branches, juniper branches, rami di ginepro",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.24.9",
+      "parentCategoryId": "2.4.5.1.24",
+      "name": "vinacce",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.4.5.1.24.10",
+      "parentCategoryId": "2.4.5.1.24",
+      "name": "wood ash, wood ash, cenere di legna",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

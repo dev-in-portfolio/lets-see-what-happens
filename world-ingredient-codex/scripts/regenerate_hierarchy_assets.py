@@ -3,7 +3,7 @@
 import json
 from pathlib import Path
 
-ROOT = Path('/root/world-ingredient-codex')
+ROOT = Path(__file__).resolve().parents[1]
 TREE_PATH = ROOT / 'app/src/main/assets/codex_tree.txt'
 TREE_WITH_E_PATH = ROOT / 'codex_tree_with_e.txt'
 HIERARCHY_PATH = ROOT / 'hierarchy.json'

@@ -1,5 +1,2786 @@
 {
   "buildUnitId": "2.3.5.3",
   "buildUnitName": "Interior Rhône Corridor",
-  "entries": []
+  "entries": [
+    {
+      "id": "2.3.5.3.1.1",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Wheat flour",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.2",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Soft wheat flour",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.3",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Bread flour",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.4",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Pastry flour",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.5",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Chestnut flour",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.6",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Ardèche chestnut flour, Ardèche chestnut flour, Farine de châtaigne d'Ardèche",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.7",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Potatoes",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.8",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Waxy potatoes",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.9",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Floury potatoes",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.10",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Raviole dough sheets",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.11",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Pogne dough",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.12",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Brioche dough",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.1.13",
+      "parentCategoryId": "2.3.5.3.1",
+      "name": "Country bread",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.1",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Onions",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.2",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Yellow onions",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.3",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Red onions",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.4",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Shallots",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.5",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Garlic",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.6",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Leeks",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.7",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Carrots",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.8",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Turnips",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.9",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Celery stalks",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.10",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Celeriac",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.11",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Swiss chard",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.12",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Spinach",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.13",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Green cabbage",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.14",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Savoy cabbage",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.15",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Beetroot",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.16",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Cardoons",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.17",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Button mushrooms",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.18",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Brown mushrooms",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.19",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Porcini mushrooms, Porcini mushrooms, Cèpes",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.2.20",
+      "parentCategoryId": "2.3.5.3.2",
+      "name": "Black truffles",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.1",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Black olives from Nyons, Black olives from Nyons, Olives noires de Nyons",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.2",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Tanche olives",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.3",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Apricots",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.4",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "White peaches",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.5",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Peaches",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.6",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Pears",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.7",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Apples",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.8",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Quinces",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.9",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Cherries",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.10",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Sour cherries",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.11",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Muscat blanc à petits grains grapes, Muscat blanc à petits grains grapes, Muscat blanc à petits grains grapes",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.12",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Clairette grapes",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.13",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Viognier grapes",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.14",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Marsanne grapes",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.15",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Roussanne grapes",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.16",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Syrah grapes",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.17",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Gamay grapes",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.18",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Chardonnay grapes",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.3.19",
+      "parentCategoryId": "2.3.5.3.3",
+      "name": "Chatus grapes",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.4.1",
+      "parentCategoryId": "2.3.5.3.4",
+      "name": "Green lentils",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.4.2",
+      "parentCategoryId": "2.3.5.3.4",
+      "name": "Brown lentils",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.4.3",
+      "parentCategoryId": "2.3.5.3.4",
+      "name": "Split peas",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.4.4",
+      "parentCategoryId": "2.3.5.3.4",
+      "name": "White beans",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.4.5",
+      "parentCategoryId": "2.3.5.3.4",
+      "name": "Fresh white beans",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.4.6",
+      "parentCategoryId": "2.3.5.3.4",
+      "name": "Broad beans",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.4.7",
+      "parentCategoryId": "2.3.5.3.4",
+      "name": "Chickpeas",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.1",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Walnuts, Walnuts, Noix de Grenoble",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.2",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Fresh Grenoble walnuts",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.3",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Dried Grenoble walnuts",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.4",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Franquette walnuts",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.5",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Mayette walnuts",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.6",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Parisienne walnuts",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.7",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Ardèche chestnuts, Ardèche chestnuts, Ardèche chestnuts",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.8",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Fresh chestnuts",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.9",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Dried peeled chestnuts",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.10",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Almonds",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.11",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Ground almonds",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.5.12",
+      "parentCategoryId": "2.3.5.3.5",
+      "name": "Hazelnuts",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.1",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Pork",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.2",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Pork shoulder",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.3",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Pork belly",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.4",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Fresh pork sausage",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.5",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Dry sausage",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.6",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Ardèche ham, Ardèche ham, Jambon de l'Ardèche",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.7",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Ardèche dry ham",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.8",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Caillette",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.9",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Vernoux abomasum, Vernoux abomasum, Caillette de Vernoux",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.10",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Pork terrine",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.11",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Rabbit",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.12",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Chicken",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.13",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Duck",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.14",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Guinea fowl",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.15",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Eggs",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.16",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Goat kid",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.17",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Trout",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.18",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Pike",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.19",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Perch",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.20",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Carp",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.6.21",
+      "parentCategoryId": "2.3.5.3.6",
+      "name": "Crayfish",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.7.1",
+      "parentCategoryId": "2.3.5.3.7",
+      "name": "Parsley",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.7.2",
+      "parentCategoryId": "2.3.5.3.7",
+      "name": "Flat-leaf parsley",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.7.3",
+      "parentCategoryId": "2.3.5.3.7",
+      "name": "Chives",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.7.4",
+      "parentCategoryId": "2.3.5.3.7",
+      "name": "Thyme",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.7.5",
+      "parentCategoryId": "2.3.5.3.7",
+      "name": "Bay leaf",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.7.6",
+      "parentCategoryId": "2.3.5.3.7",
+      "name": "Savory",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.7.7",
+      "parentCategoryId": "2.3.5.3.7",
+      "name": "Rosemary",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.7.8",
+      "parentCategoryId": "2.3.5.3.7",
+      "name": "Sorrel",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.8.1",
+      "parentCategoryId": "2.3.5.3.8",
+      "name": "Black pepper",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.8.2",
+      "parentCategoryId": "2.3.5.3.8",
+      "name": "White pepper",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.8.3",
+      "parentCategoryId": "2.3.5.3.8",
+      "name": "Nutmeg",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.8.4",
+      "parentCategoryId": "2.3.5.3.8",
+      "name": "Juniper berries",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.8.5",
+      "parentCategoryId": "2.3.5.3.8",
+      "name": "Cloves",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.8.6",
+      "parentCategoryId": "2.3.5.3.8",
+      "name": "Cinnamon",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.8.7",
+      "parentCategoryId": "2.3.5.3.8",
+      "name": "Dried thyme",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.8.8",
+      "parentCategoryId": "2.3.5.3.8",
+      "name": "Dried bay leaf",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.8.9",
+      "parentCategoryId": "2.3.5.3.8",
+      "name": "Dried cèpes",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.8.10",
+      "parentCategoryId": "2.3.5.3.8",
+      "name": "Dried black truffle shavings",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.8.11",
+      "parentCategoryId": "2.3.5.3.8",
+      "name": "Dried chestnut pieces",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.9.1",
+      "parentCategoryId": "2.3.5.3.9",
+      "name": "Onions",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.9.2",
+      "parentCategoryId": "2.3.5.3.9",
+      "name": "Shallots",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.9.3",
+      "parentCategoryId": "2.3.5.3.9",
+      "name": "Garlic",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.9.4",
+      "parentCategoryId": "2.3.5.3.9",
+      "name": "Leeks",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.9.5",
+      "parentCategoryId": "2.3.5.3.9",
+      "name": "Carrots",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.9.6",
+      "parentCategoryId": "2.3.5.3.9",
+      "name": "Celery",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.9.7",
+      "parentCategoryId": "2.3.5.3.9",
+      "name": "Parsley",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.10.1",
+      "parentCategoryId": "2.3.5.3.10",
+      "name": "Nyons olive oil, Nyons olive oil, Huile d'olive de Nyons",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.10.2",
+      "parentCategoryId": "2.3.5.3.10",
+      "name": "Nyons olive oil",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.10.3",
+      "parentCategoryId": "2.3.5.3.10",
+      "name": "Olive oil",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.10.4",
+      "parentCategoryId": "2.3.5.3.10",
+      "name": "Walnut oil",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.10.5",
+      "parentCategoryId": "2.3.5.3.10",
+      "name": "Hazelnut oil",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.10.6",
+      "parentCategoryId": "2.3.5.3.10",
+      "name": "Duck fat",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.10.7",
+      "parentCategoryId": "2.3.5.3.10",
+      "name": "Pork fat",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.10.8",
+      "parentCategoryId": "2.3.5.3.10",
+      "name": "Lard",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.10.9",
+      "parentCategoryId": "2.3.5.3.10",
+      "name": "Butter",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.10.10",
+      "parentCategoryId": "2.3.5.3.10",
+      "name": "sour cream, sour cream, Crème fraîche",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.1",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "Raw goat's milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.2",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "Raw cow's milk",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.3",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "Whole milk",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.4",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "sour cream, sour cream, Crème fraîche",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.5",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "Fromage blanc",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.6",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "Fresh goat cheese",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.7",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "Picodon",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.8",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "Washed matured picodon, Washed matured picodon, Picodon affiné lavé",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.9",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "Picodon Dieulefit method, Picodon Dieulefit method, Picodon méthode Dieulefit",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.10",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "Saint-Marcellin",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.11",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "Saint-Félicien, Saint-Félicien, Saint-Félicien",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.11.12",
+      "parentCategoryId": "2.3.5.3.11",
+      "name": "Butter",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.12.1",
+      "parentCategoryId": "2.3.5.3.12",
+      "name": "White wine vinegar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.12.2",
+      "parentCategoryId": "2.3.5.3.12",
+      "name": "Red wine vinegar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.12.3",
+      "parentCategoryId": "2.3.5.3.12",
+      "name": "Cider vinegar",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.12.4",
+      "parentCategoryId": "2.3.5.3.12",
+      "name": "Clairette de Die, Clairette de Die, Clairette de Die",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.12.5",
+      "parentCategoryId": "2.3.5.3.12",
+      "name": "Crémant de Die, Crémant de Die, Crémant de Die",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.12.6",
+      "parentCategoryId": "2.3.5.3.12",
+      "name": "Coteaux de Die, Coteaux de Die, Coteaux de Die",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.12.7",
+      "parentCategoryId": "2.3.5.3.12",
+      "name": "Saint-Péray, Saint-Péray, Saint-Péray",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.12.8",
+      "parentCategoryId": "2.3.5.3.12",
+      "name": "Crozes-Hermitage blanc",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.12.9",
+      "parentCategoryId": "2.3.5.3.12",
+      "name": "Lemon juice",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.13.1",
+      "parentCategoryId": "2.3.5.3.13",
+      "name": "Nyons black tapenade, Nyons black tapenade, Tapenade noire de Nyons",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.13.2",
+      "parentCategoryId": "2.3.5.3.13",
+      "name": "Nyons black olive paste",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.13.3",
+      "parentCategoryId": "2.3.5.3.13",
+      "name": "Olive confit",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.13.4",
+      "parentCategoryId": "2.3.5.3.13",
+      "name": "Persillade",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.13.5",
+      "parentCategoryId": "2.3.5.3.13",
+      "name": "Garlic confit",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.13.6",
+      "parentCategoryId": "2.3.5.3.13",
+      "name": "Onion confit",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.13.7",
+      "parentCategoryId": "2.3.5.3.13",
+      "name": "Chestnut cream",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.13.8",
+      "parentCategoryId": "2.3.5.3.13",
+      "name": "Chestnut spread",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.13.9",
+      "parentCategoryId": "2.3.5.3.13",
+      "name": "Walnut paste",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.13.10",
+      "parentCategoryId": "2.3.5.3.13",
+      "name": "Truffle cream",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.1",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Ardèche ham, Ardèche ham, Jambon de l'Ardèche",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.2",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Dry sausage",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.3",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Caillette",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.4",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Pork terrine",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.5",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Refined Picodon, Refined Picodon, Picodon affiné",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.6",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Black olives from Nyons in brine, Black olives from Nyons in brine, Olives noires de Nyons en saumure",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.7",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Salt-cured Nyons olives",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.8",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Chestnut purée",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.9",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Chestnut cream",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.10",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Ardèche candied chestnuts, Ardèche candied chestnuts, Marrons glacés d'Ardèche",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.11",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Dried peeled chestnuts",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.14.12",
+      "parentCategoryId": "2.3.5.3.14",
+      "name": "Dauphiné ravioli, Dauphiné ravioli, Raviole du Dauphiné",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.15.1",
+      "parentCategoryId": "2.3.5.3.15",
+      "name": "Honey",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.15.2",
+      "parentCategoryId": "2.3.5.3.15",
+      "name": "Chestnut honey",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.15.3",
+      "parentCategoryId": "2.3.5.3.15",
+      "name": "Acacia honey, Acacia honey, Acacia honey",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.15.4",
+      "parentCategoryId": "2.3.5.3.15",
+      "name": "Lavender honey",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.15.5",
+      "parentCategoryId": "2.3.5.3.15",
+      "name": "Granulated sugar",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.15.6",
+      "parentCategoryId": "2.3.5.3.15",
+      "name": "Caster sugar",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.15.7",
+      "parentCategoryId": "2.3.5.3.15",
+      "name": "Chestnut syrup",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.15.8",
+      "parentCategoryId": "2.3.5.3.15",
+      "name": "Nougat syrup",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.1",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Crozes-Hermitage rouge",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.2",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Crozes-Hermitage blanc",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.3",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Hermitage rouge",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.4",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Hermitage blanc",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.5",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Saint-Joseph rouge",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.6",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Saint-Joseph blanc",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.7",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Cornas",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.8",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Saint-Péray, Saint-Péray, Saint-Péray",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.9",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Clairette de Die, Clairette de Die, Clairette de Die",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.10",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Crémant de Die, Crémant de Die, Crémant de Die",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.11",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Coteaux de Die, Coteaux de Die, Coteaux de Die",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.12",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "IGP Ardèche white, IGP Ardèche white, IGP Ardèche blanc",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.13",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "IGP Drôme white, IGP Drôme white, IGP Drôme blanc",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.14",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Poultry stock",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.15",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Fish stock",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.16.16",
+      "parentCategoryId": "2.3.5.3.16",
+      "name": "Whole milk",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.17.1",
+      "parentCategoryId": "2.3.5.3.17",
+      "name": "Chopped parsley",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.17.2",
+      "parentCategoryId": "2.3.5.3.17",
+      "name": "Snipped chives",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.17.3",
+      "parentCategoryId": "2.3.5.3.17",
+      "name": "Black olive slivers",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.17.4",
+      "parentCategoryId": "2.3.5.3.17",
+      "name": "Toasted walnut pieces",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.17.5",
+      "parentCategoryId": "2.3.5.3.17",
+      "name": "Crushed chestnuts",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.17.6",
+      "parentCategoryId": "2.3.5.3.17",
+      "name": "Black truffle shavings",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.17.7",
+      "parentCategoryId": "2.3.5.3.17",
+      "name": "Fried shallots",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.17.8",
+      "parentCategoryId": "2.3.5.3.17",
+      "name": "Apricot slices",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.1",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Picodon AOP",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.2",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Ardèche chestnut AOP, Ardèche chestnut AOP, Châtaigne d'Ardèche AOP",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.3",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Walnuts AOP, Walnuts AOP, Noix de Grenoble AOP",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.4",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Black olives from Nyons AOP, Black olives from Nyons AOP, Olives noires de Nyons AOP",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.5",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Nyons AOP olive oil, Nyons AOP olive oil, Huile d'olive de Nyons AOP",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.6",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Ham of the Ardèche IGP, Ham of the Ardèche IGP, Jambon de l'Ardèche IGP",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.7",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Raviole du Dauphiné IGP, Raviole du Dauphiné IGP, Raviole du Dauphiné IGP",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.8",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Nougat de Montélimar IGP, Nougat de Montélimar IGP, Nougat de Montélimar IGP",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.9",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Pogne de Romans, Pogne de Romans, Pogne de Romans",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.10",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Valencia Switzerland, Valencia Switzerland, Suisse de Valence",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.11",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Vernoux abomasum, Vernoux abomasum, Caillette de Vernoux",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.12",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Ardèche creeks, Ardèche creeks, Criques ardéchoises",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.13",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Saint-Marcellin IGP",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.14",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Saint-Félicien, Saint-Félicien, Saint-Félicien",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.15",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Clairette de Die AOP, Clairette de Die AOP, Clairette de Die AOP",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.16",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Crémant de Die AOP, Crémant de Die AOP, Crémant de Die AOP",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.17",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Coteaux de Die AOP, Coteaux de Die AOP, Coteaux de Die AOP",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.18",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Crozes-Hermitage AOP",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.19",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Saint-Joseph AOP",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.20",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Cornas AOP",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.21",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Saint-Péray AOP, Saint-Péray AOP, Saint-Péray AOP",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.22",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "Collines Rhodaniennes IGP",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.23",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "IGP Ardèche, IGP Ardèche, IGP Ardèche",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.18.24",
+      "parentCategoryId": "2.3.5.3.18",
+      "name": "IGP Drôme, IGP Drôme, IGP Drôme",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.19.1",
+      "parentCategoryId": "2.3.5.3.19",
+      "name": "Honey",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.19.2",
+      "parentCategoryId": "2.3.5.3.19",
+      "name": "Chestnut honey",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.19.3",
+      "parentCategoryId": "2.3.5.3.19",
+      "name": "Propolis",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.19.4",
+      "parentCategoryId": "2.3.5.3.19",
+      "name": "Fresh pollen",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.19.5",
+      "parentCategoryId": "2.3.5.3.19",
+      "name": "Royal jelly",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.19.6",
+      "parentCategoryId": "2.3.5.3.19",
+      "name": "Thyme infusion",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.19.7",
+      "parentCategoryId": "2.3.5.3.19",
+      "name": "Chestnut buds",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.19.8",
+      "parentCategoryId": "2.3.5.3.19",
+      "name": "Chestnut bud macerate",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.1",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Crozes-Hermitage rouge",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.2",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Crozes-Hermitage blanc",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.3",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Hermitage rouge",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.4",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Hermitage blanc",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.5",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Saint-Joseph rouge",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.6",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Saint-Joseph blanc",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.7",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Cornas",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.8",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Saint-Péray, Saint-Péray, Saint-Péray",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.9",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Clairette de Die, Clairette de Die, Clairette de Die",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.10",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Crémant de Die, Crémant de Die, Crémant de Die",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.11",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Coteaux de Die, Coteaux de Die, Coteaux de Die",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.12",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Collines Rhodaniennes blanc",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.13",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Collines Rhodaniennes rouge",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.14",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "IGP Ardèche red, IGP Ardèche red, IGP Ardèche rouge",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.15",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "IGP Ardèche white, IGP Ardèche white, IGP Ardèche blanc",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.16",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "IGP Drôme rouge, IGP Drôme rouge, IGP Drôme rouge",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.17",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "IGP Drôme white, IGP Drôme white, IGP Drôme blanc",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.18",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Grape juice",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.20.19",
+      "parentCategoryId": "2.3.5.3.20",
+      "name": "Apple juice",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.21.1",
+      "parentCategoryId": "2.3.5.3.21",
+      "name": "Fine salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.21.2",
+      "parentCategoryId": "2.3.5.3.21",
+      "name": "Coarse salt",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.21.3",
+      "parentCategoryId": "2.3.5.3.21",
+      "name": "Grey salt",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.21.4",
+      "parentCategoryId": "2.3.5.3.21",
+      "name": "Curing salt",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.22.1",
+      "parentCategoryId": "2.3.5.3.22",
+      "name": "Baker's yeast",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.22.2",
+      "parentCategoryId": "2.3.5.3.22",
+      "name": "Sourdough starter",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.22.3",
+      "parentCategoryId": "2.3.5.3.22",
+      "name": "Baking powder",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.22.4",
+      "parentCategoryId": "2.3.5.3.22",
+      "name": "Rennet",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.22.5",
+      "parentCategoryId": "2.3.5.3.22",
+      "name": "Cheese cultures",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.22.6",
+      "parentCategoryId": "2.3.5.3.22",
+      "name": "Pectin",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.22.7",
+      "parentCategoryId": "2.3.5.3.22",
+      "name": "Potato starch",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.22.8",
+      "parentCategoryId": "2.3.5.3.22",
+      "name": "Egg whites",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.23.1",
+      "parentCategoryId": "2.3.5.3.23",
+      "name": "Natural pork casing",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.23.2",
+      "parentCategoryId": "2.3.5.3.23",
+      "name": "Natural beef casing",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.23.3",
+      "parentCategoryId": "2.3.5.3.23",
+      "name": "Raviole dough sheets",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.23.4",
+      "parentCategoryId": "2.3.5.3.23",
+      "name": "Shortcrust pastry",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.23.5",
+      "parentCategoryId": "2.3.5.3.23",
+      "name": "Puff pastry",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.23.6",
+      "parentCategoryId": "2.3.5.3.23",
+      "name": "Terrine crust",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.23.7",
+      "parentCategoryId": "2.3.5.3.23",
+      "name": "Baking parchment",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.24.1",
+      "parentCategoryId": "2.3.5.3.24",
+      "name": "Oak barrels",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.24.2",
+      "parentCategoryId": "2.3.5.3.24",
+      "name": "Vine cuttings",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.24.3",
+      "parentCategoryId": "2.3.5.3.24",
+      "name": "Beechwood smoke",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.24.4",
+      "parentCategoryId": "2.3.5.3.24",
+      "name": "Chestnut wood embers",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.3.5.3.24.5",
+      "parentCategoryId": "2.3.5.3.24",
+      "name": "Wood-fired oven embers",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

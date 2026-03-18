@@ -1,5 +1,2206 @@
 {
   "buildUnitId": "6.7.4.2",
   "buildUnitName": "Kyoto / Imperial Kansai",
-  "entries": []
+  "entries": [
+    {
+      "id": "6.7.4.2.1.1",
+      "parentCategoryId": "6.7.4.2.1",
+      "name": "rice",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.1.2",
+      "parentCategoryId": "6.7.4.2.1",
+      "name": "Iwai rice",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.1.3",
+      "parentCategoryId": "6.7.4.2.1",
+      "name": "mochigome rice",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.1.4",
+      "parentCategoryId": "6.7.4.2.1",
+      "name": "wheat flour",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.1.5",
+      "parentCategoryId": "6.7.4.2.1",
+      "name": "buckwheat flour",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.1.6",
+      "parentCategoryId": "6.7.4.2.1",
+      "name": "ebiimo",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.1.7",
+      "parentCategoryId": "6.7.4.2.1",
+      "name": "satoimo",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.1.8",
+      "parentCategoryId": "6.7.4.2.1",
+      "name": "yamanoimo",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.1.9",
+      "parentCategoryId": "6.7.4.2.1",
+      "name": "kuwai",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.1",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kyo mizuna",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.2",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kamo nasu",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.3",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Fushimi togarashi",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.4",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Manganji amato",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.5",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "ebiimo",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.6",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kujo negi",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.7",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kyo takenoko",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.8",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "ban-na, ban-na, hana-na",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.9",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Shishigatani kabocha",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.10",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Horikawa gobo",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.11",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Shogoin daikon",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.12",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kyo mibuna",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.13",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kintoki ninjin",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.14",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "kuwai",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.15",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "yamanoimo",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.16",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kyo Yamashina nasu",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.17",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kyo kokabu",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.18",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Shogoin kabu",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.19",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kyo natsuzukin",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.20",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kyo hatakena",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.21",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "sugukina",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.22",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kyo seri",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.23",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kyo udo",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.24",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Kyo myoga",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.25",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "myogatake",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.26",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "hana myoga",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.27",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "mogi nasu",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.28",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Tanaka togarashi",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.29",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Takagamine togarashi",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.30",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Katsura uri",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.31",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Hiragino sasage",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.32",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Matsugasaki ukina kabu",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.33",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "aomi daikon",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.34",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "Momoyama daikon",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.35",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "kuki daikon",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.36",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "karami daikon",
+      "sortOrder": 36,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.2.37",
+      "parentCategoryId": "6.7.4.2.2",
+      "name": "uguisuna",
+      "sortOrder": 37,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.3.1",
+      "parentCategoryId": "6.7.4.2.3",
+      "name": "Kyo-tango pears",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.3.2",
+      "parentCategoryId": "6.7.4.2.3",
+      "name": "Kyo-tango melons",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.3.3",
+      "parentCategoryId": "6.7.4.2.3",
+      "name": "pears",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.3.4",
+      "parentCategoryId": "6.7.4.2.3",
+      "name": "melons",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.3.5",
+      "parentCategoryId": "6.7.4.2.3",
+      "name": "peaches",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.3.6",
+      "parentCategoryId": "6.7.4.2.3",
+      "name": "grapes",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.3.7",
+      "parentCategoryId": "6.7.4.2.3",
+      "name": "watermelons",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.3.8",
+      "parentCategoryId": "6.7.4.2.3",
+      "name": "strawberries",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.3.9",
+      "parentCategoryId": "6.7.4.2.3",
+      "name": "Akihime strawberries, Akihime strawberries, Akihime strawberries",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.3.10",
+      "parentCategoryId": "6.7.4.2.3",
+      "name": "Kaorino strawberries",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.4.1",
+      "parentCategoryId": "6.7.4.2.4",
+      "name": "soybeans",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.4.2",
+      "parentCategoryId": "6.7.4.2.4",
+      "name": "edamame",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.4.3",
+      "parentCategoryId": "6.7.4.2.4",
+      "name": "Tanba Dainagon azuki",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.4.4",
+      "parentCategoryId": "6.7.4.2.4",
+      "name": "Shintanbaguro black soybeans",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.4.5",
+      "parentCategoryId": "6.7.4.2.4",
+      "name": "Murasaki zukin",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.4.6",
+      "parentCategoryId": "6.7.4.2.4",
+      "name": "Kyo natsuzukin",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.4.7",
+      "parentCategoryId": "6.7.4.2.4",
+      "name": "Hiragino sasage",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.5.1",
+      "parentCategoryId": "6.7.4.2.5",
+      "name": "Tanba chestnuts",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.5.2",
+      "parentCategoryId": "6.7.4.2.5",
+      "name": "white sesame",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.5.3",
+      "parentCategoryId": "6.7.4.2.5",
+      "name": "black sesame",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.5.4",
+      "parentCategoryId": "6.7.4.2.5",
+      "name": "roasted sesame",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.5.5",
+      "parentCategoryId": "6.7.4.2.5",
+      "name": "perilla seeds",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.1",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "Kyoto meat",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.2",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "Kyoto pork",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.3",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "Kyo jidori",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.4",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "milk",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.5",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "eggs",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.6",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "tofu",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.7",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "yuba",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.8",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "Kyo-fu",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.9",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "mackerel",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.10",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "processed mackerel",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.11",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "Tango torigai",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.6.12",
+      "parentCategoryId": "6.7.4.2.6",
+      "name": "Tango guji",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.7.1",
+      "parentCategoryId": "6.7.4.2.7",
+      "name": "Kujo negi greens",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.7.2",
+      "parentCategoryId": "6.7.4.2.7",
+      "name": "Kyo mizuna",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.7.3",
+      "parentCategoryId": "6.7.4.2.7",
+      "name": "Kyo mibuna",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.7.4",
+      "parentCategoryId": "6.7.4.2.7",
+      "name": "do-the greens, do-the greens, hana-na greens",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.7.5",
+      "parentCategoryId": "6.7.4.2.7",
+      "name": "Kyo seri",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.7.6",
+      "parentCategoryId": "6.7.4.2.7",
+      "name": "Kyo myoga",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.7.7",
+      "parentCategoryId": "6.7.4.2.7",
+      "name": "myoga buds",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.7.8",
+      "parentCategoryId": "6.7.4.2.7",
+      "name": "Kyo udo leaves",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.7.9",
+      "parentCategoryId": "6.7.4.2.7",
+      "name": "kinome",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.7.10",
+      "parentCategoryId": "6.7.4.2.7",
+      "name": "red shiso",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.1",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "Fushimi togarashi",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.2",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "Manganji amato",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.3",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "Tanaka togarashi",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.4",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "Takagamine togarashi",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.5",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "dried red shiso",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.6",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "matcha powder",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.7",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "gyokuro leaves",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.8",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "sencha leaves",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.9",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "dried shiitake",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.10",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "dried yuba",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.11",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "white sesame",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.8.12",
+      "parentCategoryId": "6.7.4.2.8",
+      "name": "black sesame",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.9.1",
+      "parentCategoryId": "6.7.4.2.9",
+      "name": "Kujo negi",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.9.2",
+      "parentCategoryId": "6.7.4.2.9",
+      "name": "Kyo udo",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.9.3",
+      "parentCategoryId": "6.7.4.2.9",
+      "name": "Kyo myoga",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.9.4",
+      "parentCategoryId": "6.7.4.2.9",
+      "name": "myoga buds",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.9.5",
+      "parentCategoryId": "6.7.4.2.9",
+      "name": "Kintoki ninjin",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.9.6",
+      "parentCategoryId": "6.7.4.2.9",
+      "name": "Horikawa gobo",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.9.7",
+      "parentCategoryId": "6.7.4.2.9",
+      "name": "Shogoin daikon",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.9.8",
+      "parentCategoryId": "6.7.4.2.9",
+      "name": "Shogoin kabu",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.9.9",
+      "parentCategoryId": "6.7.4.2.9",
+      "name": "ginger",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.10.1",
+      "parentCategoryId": "6.7.4.2.10",
+      "name": "sesame oil",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.10.2",
+      "parentCategoryId": "6.7.4.2.10",
+      "name": "rapeseed oil",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.10.3",
+      "parentCategoryId": "6.7.4.2.10",
+      "name": "rice bran oil",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.10.4",
+      "parentCategoryId": "6.7.4.2.10",
+      "name": "pork fat",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.10.5",
+      "parentCategoryId": "6.7.4.2.10",
+      "name": "chicken fat",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.10.6",
+      "parentCategoryId": "6.7.4.2.10",
+      "name": "butter",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.11.1",
+      "parentCategoryId": "6.7.4.2.11",
+      "name": "milk",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.11.2",
+      "parentCategoryId": "6.7.4.2.11",
+      "name": "tofu",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.11.3",
+      "parentCategoryId": "6.7.4.2.11",
+      "name": "yuba",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.11.4",
+      "parentCategoryId": "6.7.4.2.11",
+      "name": "dried yuba",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.11.5",
+      "parentCategoryId": "6.7.4.2.11",
+      "name": "soy milk",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.11.6",
+      "parentCategoryId": "6.7.4.2.11",
+      "name": "aburaage",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.11.7",
+      "parentCategoryId": "6.7.4.2.11",
+      "name": "nama-fu",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.11.8",
+      "parentCategoryId": "6.7.4.2.11",
+      "name": "Kyo-fu",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.12.1",
+      "parentCategoryId": "6.7.4.2.12",
+      "name": "rice vinegar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.12.2",
+      "parentCategoryId": "6.7.4.2.12",
+      "name": "red vinegar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.12.3",
+      "parentCategoryId": "6.7.4.2.12",
+      "name": "yuzu juice",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.12.4",
+      "parentCategoryId": "6.7.4.2.12",
+      "name": "ume vinegar",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.13.1",
+      "parentCategoryId": "6.7.4.2.13",
+      "name": "Saikyo miso",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.13.2",
+      "parentCategoryId": "6.7.4.2.13",
+      "name": "white miso",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.13.3",
+      "parentCategoryId": "6.7.4.2.13",
+      "name": "red miso",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.13.4",
+      "parentCategoryId": "6.7.4.2.13",
+      "name": "yuzu miso",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.13.5",
+      "parentCategoryId": "6.7.4.2.13",
+      "name": "kinome miso",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.13.6",
+      "parentCategoryId": "6.7.4.2.13",
+      "name": "sesame paste",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.13.7",
+      "parentCategoryId": "6.7.4.2.13",
+      "name": "soy sauce",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.13.8",
+      "parentCategoryId": "6.7.4.2.13",
+      "name": "ponzu",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.13.9",
+      "parentCategoryId": "6.7.4.2.13",
+      "name": "karashi sumiso",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.13.10",
+      "parentCategoryId": "6.7.4.2.13",
+      "name": "dengaku miso",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.14.1",
+      "parentCategoryId": "6.7.4.2.14",
+      "name": "senmaizuke",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.14.2",
+      "parentCategoryId": "6.7.4.2.14",
+      "name": "sugukizuke",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.14.3",
+      "parentCategoryId": "6.7.4.2.14",
+      "name": "shibazuke",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.14.4",
+      "parentCategoryId": "6.7.4.2.14",
+      "name": "nama shibazuke",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.14.5",
+      "parentCategoryId": "6.7.4.2.14",
+      "name": "mibunazuke",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.14.6",
+      "parentCategoryId": "6.7.4.2.14",
+      "name": "nanohana-zuke",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.14.7",
+      "parentCategoryId": "6.7.4.2.14",
+      "name": "Kyo tsukemono",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.14.8",
+      "parentCategoryId": "6.7.4.2.14",
+      "name": "Kyo Yamashina nasu tsukemono",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.14.9",
+      "parentCategoryId": "6.7.4.2.14",
+      "name": "narazuke",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.14.10",
+      "parentCategoryId": "6.7.4.2.14",
+      "name": "takuan",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.14.11",
+      "parentCategoryId": "6.7.4.2.14",
+      "name": "takenoko no mizuni, takenoko no mizuni, takenoko no mizuni",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.15.1",
+      "parentCategoryId": "6.7.4.2.15",
+      "name": "sugar",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.15.2",
+      "parentCategoryId": "6.7.4.2.15",
+      "name": "brown sugar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.15.3",
+      "parentCategoryId": "6.7.4.2.15",
+      "name": "honey",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.15.4",
+      "parentCategoryId": "6.7.4.2.15",
+      "name": "sweet bean paste",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.16.1",
+      "parentCategoryId": "6.7.4.2.16",
+      "name": "kombu dashi",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.16.2",
+      "parentCategoryId": "6.7.4.2.16",
+      "name": "sake",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.16.3",
+      "parentCategoryId": "6.7.4.2.16",
+      "name": "Uji tea infusion",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.16.4",
+      "parentCategoryId": "6.7.4.2.16",
+      "name": "gyokuro infusion",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.16.5",
+      "parentCategoryId": "6.7.4.2.16",
+      "name": "sencha infusion",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.16.6",
+      "parentCategoryId": "6.7.4.2.16",
+      "name": "matcha suspension",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.16.7",
+      "parentCategoryId": "6.7.4.2.16",
+      "name": "soy milk",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.16.8",
+      "parentCategoryId": "6.7.4.2.16",
+      "name": "milk",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.17.1",
+      "parentCategoryId": "6.7.4.2.17",
+      "name": "kinome",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.17.2",
+      "parentCategoryId": "6.7.4.2.17",
+      "name": "sliced Kujo negi",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.17.3",
+      "parentCategoryId": "6.7.4.2.17",
+      "name": "Kyo mizuna",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.17.4",
+      "parentCategoryId": "6.7.4.2.17",
+      "name": "roasted sesame",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.17.5",
+      "parentCategoryId": "6.7.4.2.17",
+      "name": "yuzu zest",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.17.6",
+      "parentCategoryId": "6.7.4.2.17",
+      "name": "shredded yuba",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.17.7",
+      "parentCategoryId": "6.7.4.2.17",
+      "name": "red shiso",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.17.8",
+      "parentCategoryId": "6.7.4.2.17",
+      "name": "matcha powder",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.1",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Iwai rice",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.2",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Kamo nasu",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.3",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "ebiimo",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.4",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Kujo negi",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.5",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Horikawa gobo",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.6",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Shogoin daikon",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.7",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Shogoin kabu",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.8",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "sugukina",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.9",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Kyo takenoko",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.10",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Kyo yuba",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.11",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Kyo-fu",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.12",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Tanba Dainagon azuki",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.13",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Shintanbaguro black soybeans",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.14",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Tanba chestnuts",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.15",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Kyo-tango pears",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.16",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Kyo-tango melons",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.17",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Kyo-tanba Daikoku hon-shimeji",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.18",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Tango torigai",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.19",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Tango guji",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.18.20",
+      "parentCategoryId": "6.7.4.2.18",
+      "name": "Uji tea",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.19.1",
+      "parentCategoryId": "6.7.4.2.19",
+      "name": "Kujo negi",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.19.2",
+      "parentCategoryId": "6.7.4.2.19",
+      "name": "Uji tea",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.19.3",
+      "parentCategoryId": "6.7.4.2.19",
+      "name": "matcha",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.19.4",
+      "parentCategoryId": "6.7.4.2.19",
+      "name": "sugukizuke",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.19.5",
+      "parentCategoryId": "6.7.4.2.19",
+      "name": "yuzu",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.19.6",
+      "parentCategoryId": "6.7.4.2.19",
+      "name": "ginger",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.19.7",
+      "parentCategoryId": "6.7.4.2.19",
+      "name": "Kyo myoga",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.20.1",
+      "parentCategoryId": "6.7.4.2.20",
+      "name": "Uji tea",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.20.2",
+      "parentCategoryId": "6.7.4.2.20",
+      "name": "Uji matcha",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.20.3",
+      "parentCategoryId": "6.7.4.2.20",
+      "name": "Uji gyokuro",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.20.4",
+      "parentCategoryId": "6.7.4.2.20",
+      "name": "Uji sencha",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.20.5",
+      "parentCategoryId": "6.7.4.2.20",
+      "name": "Fushimi sake",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.20.6",
+      "parentCategoryId": "6.7.4.2.20",
+      "name": "Kyo no sake, Kyo no sake, Kyo no sake",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.20.7",
+      "parentCategoryId": "6.7.4.2.20",
+      "name": "amazake",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.21.1",
+      "parentCategoryId": "6.7.4.2.21",
+      "name": "salt",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.21.2",
+      "parentCategoryId": "6.7.4.2.21",
+      "name": "sea salt",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.21.3",
+      "parentCategoryId": "6.7.4.2.21",
+      "name": "kelp salt",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.22.1",
+      "parentCategoryId": "6.7.4.2.22",
+      "name": "rice koji",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.22.2",
+      "parentCategoryId": "6.7.4.2.22",
+      "name": "sake lees",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.22.3",
+      "parentCategoryId": "6.7.4.2.22",
+      "name": "nigari",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.22.4",
+      "parentCategoryId": "6.7.4.2.22",
+      "name": "lactic acid bacteria",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.22.5",
+      "parentCategoryId": "6.7.4.2.22",
+      "name": "wheat gluten",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.23.1",
+      "parentCategoryId": "6.7.4.2.23",
+      "name": "bamboo leaves",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.23.2",
+      "parentCategoryId": "6.7.4.2.23",
+      "name": "kombu sheets",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.23.3",
+      "parentCategoryId": "6.7.4.2.23",
+      "name": "yuba sheets",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.23.4",
+      "parentCategoryId": "6.7.4.2.23",
+      "name": "rice bran bed",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.23.5",
+      "parentCategoryId": "6.7.4.2.23",
+      "name": "sake lees bed",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.24.1",
+      "parentCategoryId": "6.7.4.2.24",
+      "name": "binchotan charcoal",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.24.2",
+      "parentCategoryId": "6.7.4.2.24",
+      "name": "hearth smoke",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "6.7.4.2.24.3",
+      "parentCategoryId": "6.7.4.2.24",
+      "name": "cherry wood smoke",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

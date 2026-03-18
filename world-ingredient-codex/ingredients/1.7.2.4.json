@@ -1,5 +1,1366 @@
 {
   "buildUnitId": "1.7.2.4",
   "buildUnitName": "Maranhão / North-Northeast",
-  "entries": []
+  "entries": [
+    {
+      "id": "1.7.2.4.1.1",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "mandioca",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.1.2",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "macaxeira",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.1.3",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "cassava flour, cassava flour, farinha de mandioca",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.1.4",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "water flour, water flour, farinha d'água",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.1.5",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "dry cassava flour, dry cassava flour, farinha seca de mandioca",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.1.6",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "tapioca gum, tapioca gum, goma de tapioca",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.1.7",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "tapioca",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.1.8",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "cassava kiss, cassava kiss, beiju de mandioca",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.1.9",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "cassava dough kiss, cassava dough kiss, beiju de massa de mandioca",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.1.10",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "arroz branco",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.1.11",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "milho verde",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.1.12",
+      "parentCategoryId": "1.7.2.4.1",
+      "name": "babassu mesocarp flour, babassu mesocarp flour, farinha de mesocarpo de babaçu",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.2.1",
+      "parentCategoryId": "1.7.2.4.2",
+      "name": "vinagreira",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.2.2",
+      "parentCategoryId": "1.7.2.4.2",
+      "name": "quiabo",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.2.3",
+      "parentCategoryId": "1.7.2.4.2",
+      "name": "tomate",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.2.4",
+      "parentCategoryId": "1.7.2.4.2",
+      "name": "cebola",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.2.5",
+      "parentCategoryId": "1.7.2.4.2",
+      "name": "alho",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.2.6",
+      "parentCategoryId": "1.7.2.4.2",
+      "name": "pepper, pepper, pimentão",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.2.7",
+      "parentCategoryId": "1.7.2.4.2",
+      "name": "sweet pepper, sweet pepper, pimenta-de-cheiro",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.3.1",
+      "parentCategoryId": "1.7.2.4.3",
+      "name": "juçara, juçara, juçara",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.3.2",
+      "parentCategoryId": "1.7.2.4.3",
+      "name": "bacuri",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.3.3",
+      "parentCategoryId": "1.7.2.4.3",
+      "name": "buriti",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.3.4",
+      "parentCategoryId": "1.7.2.4.3",
+      "name": "caju",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.3.5",
+      "parentCategoryId": "1.7.2.4.3",
+      "name": "Turiaçu pineapple, Turiaçu pineapple, abacaxi de Turiaçu",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.3.6",
+      "parentCategoryId": "1.7.2.4.3",
+      "name": "jaca",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.3.7",
+      "parentCategoryId": "1.7.2.4.3",
+      "name": "coco",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.3.8",
+      "parentCategoryId": "1.7.2.4.3",
+      "name": "jabiraca",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.3.9",
+      "parentCategoryId": "1.7.2.4.3",
+      "name": "manga",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.4.1",
+      "parentCategoryId": "1.7.2.4.4",
+      "name": "string beans, string beans, feijão-de-corda",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.4.2",
+      "parentCategoryId": "1.7.2.4.4",
+      "name": "cowpea, cowpea, feijão-caupi",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.5.1",
+      "parentCategoryId": "1.7.2.4.5",
+      "name": "babassu almond, babassu almond, amêndoa de babaçu",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.5.2",
+      "parentCategoryId": "1.7.2.4.5",
+      "name": "gergelim",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.5.3",
+      "parentCategoryId": "1.7.2.4.5",
+      "name": "cashew nut, cashew nut, castanha de caju",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.5.4",
+      "parentCategoryId": "1.7.2.4.5",
+      "name": "urucum",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.6.1",
+      "parentCategoryId": "1.7.2.4.6",
+      "name": "fresh shrimp, fresh shrimp, camarão fresco",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.6.2",
+      "parentCategoryId": "1.7.2.4.6",
+      "name": "dried shrimp, dried shrimp, camarão seco",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.6.3",
+      "parentCategoryId": "1.7.2.4.6",
+      "name": "pescada",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.6.4",
+      "parentCategoryId": "1.7.2.4.6",
+      "name": "anchova",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.6.5",
+      "parentCategoryId": "1.7.2.4.6",
+      "name": "sururu",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.6.6",
+      "parentCategoryId": "1.7.2.4.6",
+      "name": "caranguejo",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.6.7",
+      "parentCategoryId": "1.7.2.4.6",
+      "name": "chicken of the land, chicken of the land, galinha da terra",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.7.1",
+      "parentCategoryId": "1.7.2.4.7",
+      "name": "vinagreira",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.7.2",
+      "parentCategoryId": "1.7.2.4.7",
+      "name": "coentro",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.7.3",
+      "parentCategoryId": "1.7.2.4.7",
+      "name": "cebolinha",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.7.4",
+      "parentCategoryId": "1.7.2.4.7",
+      "name": "cheiro-verde",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.7.5",
+      "parentCategoryId": "1.7.2.4.7",
+      "name": "mint, mint, hortelã",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.8.1",
+      "parentCategoryId": "1.7.2.4.8",
+      "name": "sweet pepper, sweet pepper, pimenta-de-cheiro",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.8.2",
+      "parentCategoryId": "1.7.2.4.8",
+      "name": "pimenta-malagueta",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.8.3",
+      "parentCategoryId": "1.7.2.4.8",
+      "name": "pimenta bode",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.8.4",
+      "parentCategoryId": "1.7.2.4.8",
+      "name": "black pepper, black pepper, pimenta-do-reino",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.8.5",
+      "parentCategoryId": "1.7.2.4.8",
+      "name": "gergelim torrado",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.9.1",
+      "parentCategoryId": "1.7.2.4.9",
+      "name": "cebola",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.9.2",
+      "parentCategoryId": "1.7.2.4.9",
+      "name": "alho",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.9.3",
+      "parentCategoryId": "1.7.2.4.9",
+      "name": "tomate",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.9.4",
+      "parentCategoryId": "1.7.2.4.9",
+      "name": "pepper, pepper, pimentão",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.9.5",
+      "parentCategoryId": "1.7.2.4.9",
+      "name": "sweet pepper, sweet pepper, pimenta-de-cheiro",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.9.6",
+      "parentCategoryId": "1.7.2.4.9",
+      "name": "coentro",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.9.7",
+      "parentCategoryId": "1.7.2.4.9",
+      "name": "cebolinha",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.10.1",
+      "parentCategoryId": "1.7.2.4.10",
+      "name": "babassu oil, babassu oil, azeite de babaçu",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.10.2",
+      "parentCategoryId": "1.7.2.4.10",
+      "name": "babassu oil, babassu oil, óleo de babaçu",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.10.3",
+      "parentCategoryId": "1.7.2.4.10",
+      "name": "olive oil, olive oil, azeite de oliva",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.10.4",
+      "parentCategoryId": "1.7.2.4.10",
+      "name": "palm oil, palm oil, azeite de dendê",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.10.5",
+      "parentCategoryId": "1.7.2.4.10",
+      "name": "manteiga",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.11.1",
+      "parentCategoryId": "1.7.2.4.11",
+      "name": "leite",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.11.2",
+      "parentCategoryId": "1.7.2.4.11",
+      "name": "manteiga",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.11.3",
+      "parentCategoryId": "1.7.2.4.11",
+      "name": "coconut milk, coconut milk, leite de coco",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.11.4",
+      "parentCategoryId": "1.7.2.4.11",
+      "name": "babassu milk, babassu milk, leite de babaçu",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.12.1",
+      "parentCategoryId": "1.7.2.4.12",
+      "name": "vinagreira",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.12.2",
+      "parentCategoryId": "1.7.2.4.12",
+      "name": "lemon, lemon, limão",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.12.3",
+      "parentCategoryId": "1.7.2.4.12",
+      "name": "caju",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.12.4",
+      "parentCategoryId": "1.7.2.4.12",
+      "name": "Turiaçu pineapple, Turiaçu pineapple, abacaxi de Turiaçu",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.13.1",
+      "parentCategoryId": "1.7.2.4.13",
+      "name": "cuxá, cuxá, cuxá",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.13.2",
+      "parentCategoryId": "1.7.2.4.13",
+      "name": "chili pepper sauce, chili pepper sauce, molho de pimenta-de-cheiro",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.13.3",
+      "parentCategoryId": "1.7.2.4.13",
+      "name": "dried ground shrimp, dried ground shrimp, camarão seco moído",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.14.1",
+      "parentCategoryId": "1.7.2.4.14",
+      "name": "dried shrimp, dried shrimp, camarão seco",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.14.2",
+      "parentCategoryId": "1.7.2.4.14",
+      "name": "fermented cassava dough, fermented cassava dough, massa de mandioca fermentada",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.14.3",
+      "parentCategoryId": "1.7.2.4.14",
+      "name": "cassava cauim, cassava cauim, cauim de mandioca",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.14.4",
+      "parentCategoryId": "1.7.2.4.14",
+      "name": "cashew candied sweets, cashew candied sweets, doces cristalizados de caju",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.14.5",
+      "parentCategoryId": "1.7.2.4.14",
+      "name": "candied buriti sweets, candied buriti sweets, doces cristalizados de buriti",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.14.6",
+      "parentCategoryId": "1.7.2.4.14",
+      "name": "bacuri candied sweets, bacuri candied sweets, doces cristalizados de bacuri",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.14.7",
+      "parentCategoryId": "1.7.2.4.14",
+      "name": "candied jackfruit sweets, candied jackfruit sweets, doces cristalizados de jaca",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.14.8",
+      "parentCategoryId": "1.7.2.4.14",
+      "name": "candied pineapple sweets, candied pineapple sweets, doces cristalizados de abacaxi",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.14.9",
+      "parentCategoryId": "1.7.2.4.14",
+      "name": "sweet of sorts, sweet of sorts, doce de espécie",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.15.1",
+      "parentCategoryId": "1.7.2.4.15",
+      "name": "crystal sugar, crystal sugar, açúcar cristal",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.15.2",
+      "parentCategoryId": "1.7.2.4.15",
+      "name": "brown sugar, brown sugar, açúcar mascavo",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.15.3",
+      "parentCategoryId": "1.7.2.4.15",
+      "name": "sugar syrup, sugar syrup, calda de açúcar",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.15.4",
+      "parentCategoryId": "1.7.2.4.15",
+      "name": "bee honey, bee honey, mel de abelha",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.16.1",
+      "parentCategoryId": "1.7.2.4.16",
+      "name": "water, water, água",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.16.2",
+      "parentCategoryId": "1.7.2.4.16",
+      "name": "beaten juçara, beaten juçara, juçara batida",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.16.3",
+      "parentCategoryId": "1.7.2.4.16",
+      "name": "juçara broth, juçara broth, caldo de juçara",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.16.4",
+      "parentCategoryId": "1.7.2.4.16",
+      "name": "coconut milk, coconut milk, leite de coco",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.16.5",
+      "parentCategoryId": "1.7.2.4.16",
+      "name": "babassu milk, babassu milk, leite de babaçu",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.16.6",
+      "parentCategoryId": "1.7.2.4.16",
+      "name": "fish broth, fish broth, caldo de peixe",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.16.7",
+      "parentCategoryId": "1.7.2.4.16",
+      "name": "shrimp broth, shrimp broth, caldo de camarão",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.17.1",
+      "parentCategoryId": "1.7.2.4.17",
+      "name": "dried shrimp, dried shrimp, camarão seco",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.17.2",
+      "parentCategoryId": "1.7.2.4.17",
+      "name": "gergelim torrado",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.17.3",
+      "parentCategoryId": "1.7.2.4.17",
+      "name": "cheiro-verde picado",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.17.4",
+      "parentCategoryId": "1.7.2.4.17",
+      "name": "coentro picado",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.17.5",
+      "parentCategoryId": "1.7.2.4.17",
+      "name": "cebolinha picada",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.17.6",
+      "parentCategoryId": "1.7.2.4.17",
+      "name": "dry cassava flour, dry cassava flour, farinha seca de mandioca",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.17.7",
+      "parentCategoryId": "1.7.2.4.17",
+      "name": "lemon in wedges, lemon in wedges, limão em gomos",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.17.8",
+      "parentCategoryId": "1.7.2.4.17",
+      "name": "caju fatiado",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.17.9",
+      "parentCategoryId": "1.7.2.4.17",
+      "name": "manga com sal",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.18.1",
+      "parentCategoryId": "1.7.2.4.18",
+      "name": "juçara, juçara, juçara",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.18.2",
+      "parentCategoryId": "1.7.2.4.18",
+      "name": "cuxá, cuxá, cuxá",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.18.3",
+      "parentCategoryId": "1.7.2.4.18",
+      "name": "vinagreira",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.18.4",
+      "parentCategoryId": "1.7.2.4.18",
+      "name": "babassu, babassu, babaçu",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.18.5",
+      "parentCategoryId": "1.7.2.4.18",
+      "name": "babassu mesocarp, babassu mesocarp, mesocarpo de babaçu",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.18.6",
+      "parentCategoryId": "1.7.2.4.18",
+      "name": "Turiaçu pineapple, Turiaçu pineapple, abacaxi de Turiaçu",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.18.7",
+      "parentCategoryId": "1.7.2.4.18",
+      "name": "tiquira",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.18.8",
+      "parentCategoryId": "1.7.2.4.18",
+      "name": "sweet of sorts, sweet of sorts, doce de espécie",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.19.1",
+      "parentCategoryId": "1.7.2.4.19",
+      "name": "babassu oil, babassu oil, óleo de babaçu",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.19.2",
+      "parentCategoryId": "1.7.2.4.19",
+      "name": "babassu mesocarp, babassu mesocarp, mesocarpo de babaçu",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.19.3",
+      "parentCategoryId": "1.7.2.4.19",
+      "name": "juçara seed oil, juçara seed oil, óleo de semente de juçara",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.19.4",
+      "parentCategoryId": "1.7.2.4.19",
+      "name": "buriti",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.20.1",
+      "parentCategoryId": "1.7.2.4.20",
+      "name": "juçara, juçara, juçara",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.20.2",
+      "parentCategoryId": "1.7.2.4.20",
+      "name": "bacuri juice, bacuri juice, suco de bacuri",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.20.3",
+      "parentCategoryId": "1.7.2.4.20",
+      "name": "buriti juice, buriti juice, suco de buriti",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.20.4",
+      "parentCategoryId": "1.7.2.4.20",
+      "name": "cashew juice, cashew juice, suco de caju",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.20.5",
+      "parentCategoryId": "1.7.2.4.20",
+      "name": "pineapple juice, pineapple juice, suco de abacaxi",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.20.6",
+      "parentCategoryId": "1.7.2.4.20",
+      "name": "tiquira",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.20.7",
+      "parentCategoryId": "1.7.2.4.20",
+      "name": "cassava cauim, cassava cauim, cauim de mandioca",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.21.1",
+      "parentCategoryId": "1.7.2.4.21",
+      "name": "sal",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.21.2",
+      "parentCategoryId": "1.7.2.4.21",
+      "name": "sal grosso",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.22.1",
+      "parentCategoryId": "1.7.2.4.22",
+      "name": "tapioca gum, tapioca gum, goma de tapioca",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.22.2",
+      "parentCategoryId": "1.7.2.4.22",
+      "name": "cassava starch, cassava starch, fécula de mandioca",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.22.3",
+      "parentCategoryId": "1.7.2.4.22",
+      "name": "fermented cassava dough, fermented cassava dough, massa de mandioca fermentada",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.22.4",
+      "parentCategoryId": "1.7.2.4.22",
+      "name": "molds native to beiju, molds native to beiju, bolores nativos do beiju",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.22.5",
+      "parentCategoryId": "1.7.2.4.22",
+      "name": "babassu mesocarp flour, babassu mesocarp flour, farinha de mesocarpo de babaçu",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.23.1",
+      "parentCategoryId": "1.7.2.4.23",
+      "name": "cuia",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.23.2",
+      "parentCategoryId": "1.7.2.4.23",
+      "name": "urupema",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.23.3",
+      "parentCategoryId": "1.7.2.4.23",
+      "name": "banana leaf, banana leaf, folha de bananeira",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.23.4",
+      "parentCategoryId": "1.7.2.4.23",
+      "name": "corn husk, corn husk, palha de milho",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.24.1",
+      "parentCategoryId": "1.7.2.4.24",
+      "name": "lenha",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.24.2",
+      "parentCategoryId": "1.7.2.4.24",
+      "name": "charcoal, charcoal, carvão vegetal",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "1.7.2.4.24.3",
+      "parentCategoryId": "1.7.2.4.24",
+      "name": "brasa",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }

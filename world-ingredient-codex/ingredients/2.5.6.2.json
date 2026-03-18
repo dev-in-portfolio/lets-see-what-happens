@@ -1,5 +1,6486 @@
 {
   "buildUnitId": "2.5.6.2",
   "buildUnitName": "Central Slovakia",
-  "entries": []
+  "entries": [
+    {
+      "id": "2.5.6.2.1.1",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "zemiaky",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.2",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "early potatoes, early potatoes, skoré zemiaky",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.3",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "flour potatoes, flour potatoes, múčne zemiaky",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.4",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "cooking type B, cooking type B, varný typ B",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.5",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "cooking type C, cooking type C, varný typ C",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.6",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "wheat flour, wheat flour, pšeničná múka",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.7",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "plain flour, plain flour, hladká múka",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.8",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "semi-coarse flour, semi-coarse flour, polohrubá múka",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.9",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "coarse flour, coarse flour, hrubá múka",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.10",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "rye flour, rye flour, ražná múka",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.11",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "rye yeast, rye yeast, žitný kvások",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.12",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "rye bread, rye bread, ražný chlieb",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.13",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "sourdough bread, sourdough bread, kvasový chlieb",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.14",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "chlieb",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.15",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "barley groats, barley groats, jačmenné krúpy",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.16",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "hail, hail, krúpy",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.17",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "oatmeal, oatmeal, ovsené vločky",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.18",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "buckwheat, buckwheat, pohánka",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.19",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "buckwheat flour, buckwheat flour, pohánková múka",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.20",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "cornmeal, cornmeal, kukuričná krupica",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.21",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "krupica",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.22",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "breadcrumbs, breadcrumbs, strúhanka",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.23",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "rolls, rolls, rožky",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.24",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "older rolls, older rolls, staršie rožky",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.25",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "dumpling pastry, dumpling pastry, knedľové pečivo",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.26",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "lox, lox, lokše",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.27",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "sourdough, sourdough, kysnuté cesto",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.28",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "potato dough, potato dough, zemiakové cesto",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.29",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Potato cockroach, Potato cockroach, Švábka potato",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.30",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Waxy potato",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.31",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Floury potato",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.32",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "New potato",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.33",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Rye",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.34",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Rye flour",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.35",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Whole rye flour",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.36",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Wheat",
+      "sortOrder": 36,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.37",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Wheat flour",
+      "sortOrder": 37,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.38",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Barley",
+      "sortOrder": 38,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.39",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Barley flour",
+      "sortOrder": 39,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.40",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Pearl barley",
+      "sortOrder": 40,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.41",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Oats",
+      "sortOrder": 41,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.42",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Oat flakes",
+      "sortOrder": 42,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.43",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Buckwheat",
+      "sortOrder": 43,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.44",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Buckwheat flour",
+      "sortOrder": 44,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.45",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Spelt",
+      "sortOrder": 45,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.46",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Spelt flour",
+      "sortOrder": 46,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.47",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Millet",
+      "sortOrder": 47,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.48",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Potato starch",
+      "sortOrder": 48,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.49",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Bread crumbs",
+      "sortOrder": 49,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.1.50",
+      "parentCategoryId": "2.5.6.2.1",
+      "name": "Semolina flour",
+      "sortOrder": 50,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.1",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "cabbage, cabbage, hlávková kapusta",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.2",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "biela kapusta",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.3",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "red cabbage, red cabbage, červená kapusta",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.4",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "sauerkraut, sauerkraut, kyslá kapusta",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.5",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "onion, onion, cibuľa",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.6",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "yellow onion, yellow onion, žltá cibuľa",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.7",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "red onion, red onion, červená cibuľa",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.8",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "shallot, shallot, šalotka",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.9",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "spring onion, spring onion, jarná cibuľka",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.10",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "cesnak",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.11",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "to put, to put, pór",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.12",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "mrkva",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.13",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "parsley root, parsley root, petržlen koreň",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.14",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "celery root, celery root, zeler buľvový",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.15",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "parsnip, parsnip, paštrnák",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.16",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "kohlrabi, kohlrabi, kaleráb",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.17",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "kel",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.18",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "curly kale, curly kale, kel kučeravý",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.19",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "black radish, black radish, čierna reďkev",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.20",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "radish, radish, reďkovka",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.21",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "chren",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.22",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "beetroot, beetroot, červená repa",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.23",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "tekvica",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.24",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "karfiol",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.25",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "lettuce, lettuce, hlávkový šalát",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.26",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "polnicek, polnicek, poľníček",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.27",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "spinach, spinach, špenát",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.28",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "mangold",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.29",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "dill, dill, kôpor",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.30",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "huby",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.31",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "champignons, champignons, šampiňóny",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.32",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "kuriatka",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.33",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "mushrooms, mushrooms, hríby",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.34",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Potato",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.35",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Onion",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.36",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Shallot",
+      "sortOrder": 36,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.37",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Leek",
+      "sortOrder": 37,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.38",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Garlic",
+      "sortOrder": 38,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.39",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Carrot",
+      "sortOrder": 39,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.40",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Parsnip",
+      "sortOrder": 40,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.41",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Parsley root",
+      "sortOrder": 41,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.42",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Celeriac",
+      "sortOrder": 42,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.43",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "White cabbage",
+      "sortOrder": 43,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.44",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Sauerkraut cabbage",
+      "sortOrder": 44,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.45",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Red cabbage",
+      "sortOrder": 45,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.46",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Savoy cabbage",
+      "sortOrder": 46,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.47",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Kale",
+      "sortOrder": 47,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.48",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Turnip",
+      "sortOrder": 48,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.49",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Beetroot",
+      "sortOrder": 49,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.50",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Black radish",
+      "sortOrder": 50,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.51",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Radish",
+      "sortOrder": 51,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.52",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Cucumber",
+      "sortOrder": 52,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.53",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Gherkin",
+      "sortOrder": 53,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.54",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Pumpkin",
+      "sortOrder": 54,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.55",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Zucchini",
+      "sortOrder": 55,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.56",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Head lettuce",
+      "sortOrder": 56,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.57",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Leaf lettuce",
+      "sortOrder": 57,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.58",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Lamb's lettuce",
+      "sortOrder": 58,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.59",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Green bean",
+      "sortOrder": 59,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.60",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Broad bean",
+      "sortOrder": 60,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.61",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Green pea",
+      "sortOrder": 61,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.62",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Cauliflower",
+      "sortOrder": 62,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.2.63",
+      "parentCategoryId": "2.5.6.2.2",
+      "name": "Kohlrabi",
+      "sortOrder": 63,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.1",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "apples, apples, jablká",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.2",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "cider apples, cider apples, muštové jablká",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.3",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "pears, pears, hrušky",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.4",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "cider pears, cider pears, muštové hrušky",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.5",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "slivky",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.6",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "ringloty",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.7",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "mirabelky",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.8",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "cherries, cherries, čerešne",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.9",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "cherries, cherries, višne",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.10",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "jahody",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.11",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "maliny",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.12",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "blueberries, blueberries, čučoriedky",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.13",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "blackberries, blackberries, černice",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.14",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "red currants, red currants, červené ríbezle",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.15",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "black currants, black currants, čierne ríbezle",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.16",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "gooseberries, gooseberries, egreše",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.17",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "elderberry black, elderberry black, baza čierna",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.18",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "hrozno",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.19",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Müller-Thurgau, Müller-Thurgau, Müller-Thurgau",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.20",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Burgundy white, Burgundy white, Burgundské biele",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.21",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Italian Riesling, Italian Riesling, Rizling vlašský",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.22",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Rhenish Riesling, Rhenish Riesling, Rizling rýnsky",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.23",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Chardonnay",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.24",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Grüner Veltliner, Grüner Veltliner, Veltlínske zelené",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.25",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Tramin red, Tramin red, Tramín červený",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.26",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Girl grapes, Girl grapes, Dievčie hrozno",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.27",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Frankovka blue, Frankovka blue, Frankovka modrá",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.28",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "St. Lawrence, St. Lawrence, Svätovavrinecké",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.29",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Apple",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.30",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Pear",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.31",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Sweet cherry",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.32",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Sour cherry",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.33",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Plum",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.34",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Zwetschge",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.35",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Quince",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.36",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Strawberry",
+      "sortOrder": 36,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.37",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Raspberry",
+      "sortOrder": 37,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.38",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Blackberry",
+      "sortOrder": 38,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.39",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Bilberry",
+      "sortOrder": 39,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.40",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Redcurrant",
+      "sortOrder": 40,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.41",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Blackcurrant",
+      "sortOrder": 41,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.42",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Gooseberry",
+      "sortOrder": 42,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.43",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Elderberry",
+      "sortOrder": 43,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.3.44",
+      "parentCategoryId": "2.5.6.2.3",
+      "name": "Aronia",
+      "sortOrder": 44,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.1",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "yellow pea, yellow pea, žltý hrach",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.2",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "green peas, green peas, zelený hrach",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.3",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "hrach siaty",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.4",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "large spotted beans, large spotted beans, veľké strakaté fazule",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.5",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "biele fazule",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.6",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "beans, beans, fazuľa",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.7",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "lentils, lentils, šošovica",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.8",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "red lentils, red lentils, červená šošovica",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.9",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "brown lentils, brown lentils, hnedá šošovica",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.10",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "bean, bean, bôb",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.11",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "Green pea",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.12",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "Field pea",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.13",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "Broad bean",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.14",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "White bean",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.15",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "Brown bean",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.16",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "Common bean",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.17",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "Runner bean",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.4.18",
+      "parentCategoryId": "2.5.6.2.4",
+      "name": "Lentil",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.1",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "walnuts, walnuts, vlašské orechy",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.2",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "hazelnuts, hazelnuts, lieskové orechy",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.3",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "blue poppy, blue poppy, modrý mak",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.4",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "mak",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.5",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "rasca",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.6",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "mustard seed, mustard seed, horčičné semeno",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.7",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "linseed, linseed, ľanové semeno",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.8",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "sunflower seeds, sunflower seeds, slnečnicové semienka",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.9",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "pumpkin seeds, pumpkin seeds, tekvicové semienka",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.10",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "aniseed, aniseed, aníz",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.11",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "fennel seed, fennel seed, feniklové semeno",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.12",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Walnut",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.13",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Hazelnut",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.14",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Poppy seed",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.15",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Blue poppy seed",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.16",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Pumpkin seed",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.17",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Sunflower seed",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.18",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Rapeseed",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.19",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Flaxseed",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.20",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Caraway seed",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.21",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Yellow mustard seed",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.22",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Brown mustard seed",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.5.23",
+      "parentCategoryId": "2.5.6.2.5",
+      "name": "Hemp seed",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.1",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Liptovské offal, Liptovské offal, Liptovské droby",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.2",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Liptov salami, Liptov salami, Liptovská saláma",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.3",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "pork knee, pork knee, bravčové koleno",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.4",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "smoked pork knee, smoked pork knee, údené bravčové koleno",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.5",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "pork shoulder, pork shoulder, bravčová plec",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.6",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "pork loin, pork loin, bravčový bok",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.7",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "smoked pork, smoked pork, údené bravčové mäso",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.8",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "smoked flank, smoked flank, údený bok",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.9",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "slanina",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.10",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "smoked bacon, smoked bacon, údená slanina",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.11",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "crackers, crackers, oškvarky",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.12",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "homemade sausage, homemade sausage, domáca klobása",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.13",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "krvavnica",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.14",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "jaternica",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.15",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "lamb, lamb, jahňacina",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.16",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "baranina",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.17",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "mutton, mutton, ovčie mäso",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.18",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "goat meat, goat meat, kozie mäso",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.19",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "beef, beef, hovädzie mäso",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.20",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "beef patty, beef patty, hovädzia kližka",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.21",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "rabbit, rabbit, králik",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.22",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "divina",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.23",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "venison, venison, srnčie mäso",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.24",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "boar meat, boar meat, kančie mäso",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.25",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "kapor",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.26",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "pstruh",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.27",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "brown trout, brown trout, pstruh potočný",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.28",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "rainbow trout, rainbow trout, pstruh dúhový",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.29",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "smoked carp, smoked carp, údený kapor",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.30",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "smoked trout, smoked trout, údený pstruh",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.31",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "vajcia",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.32",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Pork",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.33",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Veal",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.34",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Beef",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.35",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Lamb",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.36",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Mutton",
+      "sortOrder": 36,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.37",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Goat meat",
+      "sortOrder": 37,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.38",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Rabbit",
+      "sortOrder": 38,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.39",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Goose",
+      "sortOrder": 39,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.40",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Duck",
+      "sortOrder": 40,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.41",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Chicken",
+      "sortOrder": 41,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.42",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Eggs",
+      "sortOrder": 42,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.43",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Common carp",
+      "sortOrder": 43,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.44",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Pike",
+      "sortOrder": 44,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.45",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Zander",
+      "sortOrder": 45,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.46",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Perch",
+      "sortOrder": 46,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.47",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Tench",
+      "sortOrder": 47,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.48",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Rainbow trout",
+      "sortOrder": 48,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.49",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Brown trout",
+      "sortOrder": 49,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.50",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Lake trout",
+      "sortOrder": 50,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.51",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Whitefish",
+      "sortOrder": 51,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.52",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Catfish",
+      "sortOrder": 52,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.53",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Asp",
+      "sortOrder": 53,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.54",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Eel",
+      "sortOrder": 54,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.55",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Wild boar",
+      "sortOrder": 55,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.6.56",
+      "parentCategoryId": "2.5.6.2.6",
+      "name": "Venison",
+      "sortOrder": 56,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.1",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "parsley, parsley, petržlenová vňať",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.2",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "flat-leaf parsley, flat-leaf parsley, hladkolistý petržlen",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.3",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "curly parsley, curly parsley, kučeravý petržlen",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.4",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "chives, chives, pažítka",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.5",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "dill, dill, kôpor",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.6",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "Ligurian, Ligurian, ligurček",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.7",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "marjoram, marjoram, majorán",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.8",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "tymian",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.9",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "medovka",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.10",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "measure, measure, mäta",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.11",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "sage, sage, šalvia",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.12",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "mother's sip, mother's sip, materina dúška",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.13",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "Parsley",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.14",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "Chives",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.15",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "Dill",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.16",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "Lovage",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.17",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "Marjoram",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.18",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "Peppermint",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.19",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "Lemon balm",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.20",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "Wild thyme",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.21",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "Sage",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.7.22",
+      "parentCategoryId": "2.5.6.2.7",
+      "name": "Lady's mantle",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.1",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "rasca",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.2",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "crushed cumin, crushed cumin, drvená rasca",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.3",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "whole cumin, whole cumin, celá rasca",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.4",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "black pepper, black pepper, čierne korenie",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.5",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "biele korenie",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.6",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "allspice, allspice, nové korenie",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.7",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "bay leaf, bay leaf, bobkový list",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.8",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "borievka",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.9",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "sweet ground pepper, sweet ground pepper, sladká mletá paprika",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.10",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "hot pepper, hot pepper, pálivá paprika",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.11",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "nutmeg, nutmeg, muškátový orech",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.12",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "geranium flower, geranium flower, muškátový kvet",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.13",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "clove, clove, klinček",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.14",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "cinnamon, cinnamon, škorica",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.15",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "aniseed, aniseed, aníz",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.16",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "dried marjoram, dried marjoram, sušený majorán",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.17",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "dried thyme, dried thyme, sušený tymian",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.18",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "ground poppy seeds, ground poppy seeds, mletý mak",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.19",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Caraway",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.20",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Blue poppy seed",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.21",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Yellow mustard seed",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.22",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Brown mustard seed",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.23",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Mustard powder",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.24",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Sweet paprika",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.25",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Hot paprika",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.26",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Black pepper",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.27",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "White pepper",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.28",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Allspice",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.29",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Juniper berry",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.30",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Cloves",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.31",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Nutmeg",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.32",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Mace",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.33",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Bay leaf",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.34",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Cinnamon",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.35",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Dried ginger",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.8.36",
+      "parentCategoryId": "2.5.6.2.8",
+      "name": "Dried marjoram",
+      "sortOrder": 36,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.1",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "onion, onion, cibuľa",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.2",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "yellow onion, yellow onion, žltá cibuľa",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.3",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "red onion, red onion, červená cibuľa",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.4",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "shallot, shallot, šalotka",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.5",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "cesnak",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.6",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "to put, to put, pór",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.7",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "mrkva",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.8",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "parsley root, parsley root, petržlen koreň",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.9",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "celery root, celery root, zeler buľvový",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.10",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "parsnip, parsnip, paštrnák",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.11",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "chren",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.12",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "rasca",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.13",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "dill, dill, kôpor",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.14",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "Onion",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.15",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "Shallot",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.16",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "Leek",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.17",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "Garlic",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.18",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "Carrot",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.19",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "Celeriac",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.9.20",
+      "parentCategoryId": "2.5.6.2.9",
+      "name": "Parsley root",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.1",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "lard, lard, bravčová masť",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.2",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "spoiled ointment, spoiled ointment, škvarená masť",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.3",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "sheep fat, sheep fat, ovčia masť",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.4",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "maslo",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.5",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "clarified butter, clarified butter, prepustené maslo",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.6",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "bacon bake, bacon bake, slaninkový výpek",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.7",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "rapeseed oil, rapeseed oil, repkový olej",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.8",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "sunflower oil, sunflower oil, slnečnicový olej",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.9",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "Butter",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.10",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "Clarified butter",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.11",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "Lard",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.12",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "Goose fat",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.13",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "Duck fat",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.14",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "Rapeseed oil",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.15",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "Sunflower oil",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.10.16",
+      "parentCategoryId": "2.5.6.2.10",
+      "name": "Cream",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.1",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "sheep brisket, sheep brisket, ovčia bryndza",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.2",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Slovak bryndza, Slovak bryndza, Slovenská bryndza",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.3",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "sheep lump cheese, sheep lump cheese, ovčí hrudkový syr",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.4",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "lump sheep cheese - Salashnícky, lump sheep cheese - Salashnícky, ovčí hrudkový syr – salašnícky",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.5",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "sheep mountain smoked cheese, sheep mountain smoked cheese, ovčí salašnícky údený syr",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.6",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Slovak measles, Slovak measles, Slovenský oštiepok",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.7",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "measles, measles, oštiepok",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.8",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "smoked spearfish, smoked spearfish, údený oštiepok",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.9",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Slovak parenica, Slovak parenica, Slovenská parenica",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.10",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "parenica",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.11",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Orava korbacik, Orava korbacik, Oravský korbáčik",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.12",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Zázrivský korbacik, Zázrivský korbacik, Zázrivský korbáčik",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.13",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Zázriv troops, Zázriv troops, Zázrivské vojky",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.14",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Klenovec cheese, Klenovec cheese, Klenovecký syrec",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.15",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "ginseng, ginseng, žinčica",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.16",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "sour milk, sour milk, kyslé mlieko",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.17",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "zakysanka",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.18",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "cmar",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.19",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "mlieko",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.20",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "smotana",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.21",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "sour cream, sour cream, kyslá smotana",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.22",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "tvaroh",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.23",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "maslo",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.24",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Whole milk",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.25",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Sheep milk",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.26",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Cow milk",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.27",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Sour milk",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.28",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Buttermilk",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.29",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Cream",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.30",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Sour cream",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.31",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Quark",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.32",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Tvaroh",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.33",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Fresh curd cheese",
+      "sortOrder": 33,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.34",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Butter",
+      "sortOrder": 34,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.35",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Cultured butter",
+      "sortOrder": 35,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.36",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Zinčica, Zinčica, Žinčica",
+      "sortOrder": 36,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.37",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Sheep lump cheese, Sheep lump cheese, Ovčí hrudkový syr",
+      "sortOrder": 37,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.11.38",
+      "parentCategoryId": "2.5.6.2.11",
+      "name": "Sheep mountain smoked cheese, Sheep mountain smoked cheese, Ovčí salašnícky údený syr",
+      "sortOrder": 38,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.1",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "ocot",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.2",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "apple cider vinegar, apple cider vinegar, jablčný ocot",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.3",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "wine vinegar, wine vinegar, vínny ocot",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.4",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "white wine vinegar, white wine vinegar, biely vínny ocot",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.5",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "cabbage juice, cabbage juice, šťava z kapusty",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.6",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "pickled cucumbers, pickled cucumbers, nálev z uhoriek",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.7",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "sour milk, sour milk, kyslé mlieko",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.8",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "zakysanka",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.9",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "sour cream, sour cream, kyslá smotana",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.10",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "cider, cider, mušt",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.11",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "Apple cider vinegar",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.12",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "Spirit vinegar",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.13",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "Sauerkraut juice",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.14",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "Pickle brine",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.15",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "Sour milk",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.12.16",
+      "parentCategoryId": "2.5.6.2.12",
+      "name": "Zinčica, Zinčica, Žinčica",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.1",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "full-fat mustard, full-fat mustard, plnotučná horčica",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.2",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "Kremž mustard, Kremž mustard, kremžská horčica",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.3",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "chren",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.4",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "apple horseradish, apple horseradish, jablkový chren",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.5",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "bryndza spread, bryndza spread, bryndzová nátierka",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.6",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "plum jam, plum jam, slivkový lekvár",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.7",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "poppy seed filling, poppy seed filling, maková plnka",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.8",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "walnut filling, walnut filling, orechová plnka",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.9",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "tomato puree, tomato puree, rajčinový pretlak",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.10",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "cabbage juice, cabbage juice, kapustová šťava",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.11",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "dill sauce, dill sauce, kôprová omáčka",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.12",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "cream sauce, cream sauce, smotanová omáčka",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.13",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "mushroom sauce, mushroom sauce, hubová omáčka",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.14",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "Wholegrain mustard",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.15",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "Medium-hot mustard",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.16",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "Sweet mustard",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.17",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "Horseradish paste",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.18",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "Apple-horseradish sauce",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.19",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "Brown butter",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.20",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "Dill sauce",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.21",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "Parsley sauce",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.22",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "Cream sauce",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.13.23",
+      "parentCategoryId": "2.5.6.2.13",
+      "name": "Bryndza spread",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.1",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "sauerkraut, sauerkraut, kyslá kapusta",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.2",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "fermented cabbage, fermented cabbage, kvasená kapusta",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.3",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "fermented cucumbers, fermented cucumbers, kvasené uhorky",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.4",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "pickled cucumbers, pickled cucumbers, nakladané uhorky",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.5",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "pickled mushrooms, pickled mushrooms, nakladané huby",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.6",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "smoked pork, smoked pork, údené bravčové mäso",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.7",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "smoked pork knee, smoked pork knee, údené bravčové koleno",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.8",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "smoked flank, smoked flank, údený bok",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.9",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "smoked bacon, smoked bacon, údená slanina",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.10",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Liptov salami, Liptov salami, Liptovská saláma",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.11",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Liptovské offal, Liptovské offal, Liptovské droby",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.12",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "smoked spearfish, smoked spearfish, údený oštiepok",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.13",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Slovak parenica, Slovak parenica, Slovenská parenica",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.14",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Orava korbacik, Orava korbacik, Oravský korbáčik",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.15",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Zázrivský korbacik, Zázrivský korbacik, Zázrivský korbáčik",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.16",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Klenovec cheese, Klenovec cheese, Klenovecký syrec",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.17",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "ginseng, ginseng, žinčica",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.18",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "apple cider, apple cider, jablčný mušt",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.19",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "pivo",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.20",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "wine, wine, víno",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.21",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Sauerkraut",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.22",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Pickled cucumber",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.23",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Pickled gherkin",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.24",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Pickled beetroot",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.25",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Fermented sourdough",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.26",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Sour milk",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.27",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Slovak bryndza, Slovak bryndza, Slovenská bryndza",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.28",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Sheep mountain smoked cheese, Sheep mountain smoked cheese, Ovčí salašnícky údený syr",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.29",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Smoked bacon",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.14.30",
+      "parentCategoryId": "2.5.6.2.14",
+      "name": "Ham",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.1",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "granulated sugar, granulated sugar, kryštálový cukor",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.2",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "powdered sugar, powdered sugar, práškový cukor",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.3",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "vanilla sugar, vanilla sugar, vanilkový cukor",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.4",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "med",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.5",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "flower honey, flower honey, kvetový med",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.6",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "forest honey, forest honey, lesný med",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.7",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "agave honey, agave honey, agátový med",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.8",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "elderberry syrup, elderberry syrup, bazový sirup",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.9",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "Beet sugar",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.10",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "Rock sugar",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.11",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "Honey",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.12",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "Apple syrup",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.13",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "Pear syrup",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.15.14",
+      "parentCategoryId": "2.5.6.2.15",
+      "name": "Plum jam",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.1",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "voda",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.2",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "beef broth, beef broth, hovädzí vývar",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.3",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "vegetable broth, vegetable broth, zeleninový vývar",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.4",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "fish broth, fish broth, rybí vývar",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.5",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "mlieko",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.6",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "smotana",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.7",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "sour milk, sour milk, kyslé mlieko",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.8",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "cmar",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.9",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "ginseng, ginseng, žinčica",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.10",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "pivo",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.11",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "apple cider, apple cider, jablčný mušt",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.12",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "pear cider, pear cider, hruškový mušt",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.13",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "white wine, white wine, biele víno",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.14",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "red wine, red wine, červené víno",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.15",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "coffee, coffee, káva",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.16",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Beef stock",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.17",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Chicken stock",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.18",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Vegetable stock",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.19",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Fish stock",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.20",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Milk",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.21",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Buttermilk",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.22",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Zinčica, Zinčica, Žinčica",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.23",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Beer",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.24",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Apple juice",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.25",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Pear juice",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.26",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Herbal tea",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.16.27",
+      "parentCategoryId": "2.5.6.2.16",
+      "name": "Coffee",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.1",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "chopped chives, chopped chives, sekaná pažítka",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.2",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "chopped parsley, chopped parsley, sekaný petržlen",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.3",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "dill sprigs, dill sprigs, kôprové vetvičky",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.4",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "sour cream, sour cream, kyslá smotana",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.5",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "bryndza",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.6",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "grated horseradish, grated horseradish, strúhaný chren",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.7",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "fried bacon, fried bacon, opečená slanina",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.8",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "crackers, crackers, oškvarky",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.9",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "ground poppy seeds, ground poppy seeds, mletý mak",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.10",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "powdered sugar, powdered sugar, práškový cukor",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.11",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "dissolved ointment, dissolved ointment, rozpustená masť",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.12",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "fried onion, fried onion, opečená cibuľka",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.13",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "Chopped chives",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.14",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "Chopped parsley",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.15",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "Chopped dill",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.16",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "Fried onion",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.17",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "Grated horseradish",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.18",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "Brown butter",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.19",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "Sour cream",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.20",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "Poppy seeds",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.21",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "Pumpkin seeds",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.17.22",
+      "parentCategoryId": "2.5.6.2.17",
+      "name": "Cracklings",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.1",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Liptovské offal, Liptovské offal, Liptovské droby",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.2",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Liptov salami, Liptov salami, Liptovská saláma",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.3",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Slovak bryndza, Slovak bryndza, Slovenská bryndza",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.4",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Slovak measles, Slovak measles, Slovenský oštiepok",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.5",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Slovak parenica, Slovak parenica, Slovenská parenica",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.6",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Orava korbacik, Orava korbacik, Oravský korbáčik",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.7",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Zázrivský korbacik, Zázrivský korbacik, Zázrivský korbáčik",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.8",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Zázriv troops, Zázriv troops, Zázrivské vojky",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.9",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Klenovec cheese, Klenovec cheese, Klenovecký syrec",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.10",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "lump sheep cheese - Salashnícky, lump sheep cheese - Salashnícky, ovčí hrudkový syr – salašnícky",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.11",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "sheep mountain smoked cheese, sheep mountain smoked cheese, ovčí salašnícky údený syr",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.12",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "bryndza gnocchi, bryndza gnocchi, bryndzové halušky",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.13",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "demic, demic, demikát",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.14",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "sprinkles with cabbage, sprinkles with cabbage, strapačky s kapustou",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.15",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Murano buns, Murano buns, Muránske buchty",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.16",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Hrušovský glue, Hrušovský glue, Hrušovský lepník",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.17",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Central Slovak wine, Central Slovak wine, Stredoslovenské víno",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.18",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Potato cockroach, Potato cockroach, Švábka potato",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.19",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Sheep lump cheese - Salashnícky, Sheep lump cheese - Salashnícky, Ovčí hrudkový syr - salašnícky",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.20",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Sheep mountain smoked cheese, Sheep mountain smoked cheese, Ovčí salašnícky údený syr",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.21",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Zinčica, Zinčica, Žinčica",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.22",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Demänovka, Demänovka, Demänovka",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.23",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Aronia",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.24",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Liptov honey",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.18.25",
+      "parentCategoryId": "2.5.6.2.18",
+      "name": "Liptov herbal tea",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.1",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "med",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.2",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "agave honey, agave honey, agátový med",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.3",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "forest honey, forest honey, lesný med",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.4",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "apple cider vinegar, apple cider vinegar, jablčný ocot",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.5",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "measure, measure, mäta",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.6",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "medovka",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.7",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "sage, sage, šalvia",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.8",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "mother's sip, mother's sip, materina dúška",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.9",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "chamomile, chamomile, harmanček",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.10",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "ginseng, ginseng, žinčica",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.11",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Chamomile",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.12",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Elderflower",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.13",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Elderberry",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.14",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Honey",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.15",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Black radish",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.16",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Horseradish",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.17",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Lady's mantle",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.18",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Lemon balm",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.19",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Peppermint",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.20",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Wild thyme",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.21",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Sage",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.19.22",
+      "parentCategoryId": "2.5.6.2.19",
+      "name": "Echinacea",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.1",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "pivo",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.2",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "light lager, light lager, svetlý ležiak",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.3",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "dark beer, dark beer, tmavé pivo",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.4",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "ginseng, ginseng, žinčica",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.5",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "sour milk, sour milk, kyslé mlieko",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.6",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "medovina",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.7",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "apple cider, apple cider, jablčný mušt",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.8",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "pear cider, pear cider, hruškový mušt",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.9",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "white wine, white wine, biele víno",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.10",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "red wine, red wine, červené víno",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.11",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Müller-Thurgau, Müller-Thurgau, Müller-Thurgau",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.12",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Burgundy white, Burgundy white, Burgundské biele",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.13",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Italian Riesling, Italian Riesling, Rizling vlašský",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.14",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Rhenish Riesling, Rhenish Riesling, Rizling rýnsky",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.15",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Chardonnay",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.16",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Grüner Veltliner, Grüner Veltliner, Veltlínske zelené",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.17",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Tramin red, Tramin red, Tramín červený",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.18",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Girl grapes, Girl grapes, Dievčie hrozno",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.19",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Frankovka blue, Frankovka blue, Frankovka modrá",
+      "sortOrder": 19,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.20",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "St. Lawrence, St. Lawrence, Svätovavrinecké",
+      "sortOrder": 20,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.21",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Beer",
+      "sortOrder": 21,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.22",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Dark lager",
+      "sortOrder": 22,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.23",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Barley malt",
+      "sortOrder": 23,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.24",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Wheat malt",
+      "sortOrder": 24,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.25",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Zinčica, Zinčica, Žinčica",
+      "sortOrder": 25,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.26",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Herbal tea",
+      "sortOrder": 26,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.27",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Demänovka, Demänovka, Demänovka",
+      "sortOrder": 27,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.28",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Mead",
+      "sortOrder": 28,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.29",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Slivovica",
+      "sortOrder": 29,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.30",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Apple cider",
+      "sortOrder": 30,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.31",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Pear cider",
+      "sortOrder": 31,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.20.32",
+      "parentCategoryId": "2.5.6.2.20",
+      "name": "Coffee",
+      "sortOrder": 32,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.21.1",
+      "parentCategoryId": "2.5.6.2.21",
+      "name": "salt, salt, soľ",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.21.2",
+      "parentCategoryId": "2.5.6.2.21",
+      "name": "rock salt, rock salt, kamenná soľ",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.21.3",
+      "parentCategoryId": "2.5.6.2.21",
+      "name": "pickling salt, pickling salt, nakladacia soľ",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.21.4",
+      "parentCategoryId": "2.5.6.2.21",
+      "name": "quick salt, quick salt, rýchlosoľ",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.21.5",
+      "parentCategoryId": "2.5.6.2.21",
+      "name": "baking soda, baking soda, jedlá sóda",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.21.6",
+      "parentCategoryId": "2.5.6.2.21",
+      "name": "Salt",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.21.7",
+      "parentCategoryId": "2.5.6.2.21",
+      "name": "Coarse salt",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.21.8",
+      "parentCategoryId": "2.5.6.2.21",
+      "name": "Curing salt",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.1",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "yeast, yeast, droždie",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.2",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "fresh yeast, fresh yeast, čerstvé droždie",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.3",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "yeast, yeast, kvások",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.4",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "baking powder, baking powder, kypriaci prášok",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.5",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "baking soda, baking soda, jedlá sóda",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.6",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "potato starch, potato starch, zemiakový škrob",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.7",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "corn starch, corn starch, kukuričný škrob",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.8",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "gelatin, gelatin, želatína",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.9",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "pectin, pectin, pektín",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.10",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "dairy cultures, dairy cultures, mliekarenské kultúry",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.11",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "syridlo",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.12",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "Sourdough starter",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.13",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "Baker's yeast",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.14",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "Baking powder",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.15",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "Potato starch",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.16",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "Gelatin",
+      "sortOrder": 16,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.17",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "Pectin",
+      "sortOrder": 17,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.22.18",
+      "parentCategoryId": "2.5.6.2.22",
+      "name": "Rennet",
+      "sortOrder": 18,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.1",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "sheep intestine, sheep intestine, ovčie črevo",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.2",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "pork intestine, pork intestine, bravčové črevo",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.3",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "beef intestine, beef intestine, hovädzie črevo",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.4",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "cabbage leaves, cabbage leaves, kapustové listy",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.5",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "cloth, cloth, plátenko",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.6",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "baking paper, baking paper, papier na pečenie",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.7",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "jam jar, jam jar, zaváraninový pohár",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.8",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "Weck's cup, Weck's cup, weckov pohár",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.9",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "wooden spear mold, wooden spear mold, drevená forma na oštiepok",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.10",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "White cabbage leaves",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.11",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "Savoy cabbage leaves",
+      "sortOrder": 11,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.12",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "Pork casing",
+      "sortOrder": 12,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.13",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "Beef casing",
+      "sortOrder": 13,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.14",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "Cheesecloth",
+      "sortOrder": 14,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.23.15",
+      "parentCategoryId": "2.5.6.2.23",
+      "name": "Baking parchment",
+      "sortOrder": 15,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.24.1",
+      "parentCategoryId": "2.5.6.2.24",
+      "name": "beech smoke, beech smoke, bukový dym",
+      "sortOrder": 1,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.24.2",
+      "parentCategoryId": "2.5.6.2.24",
+      "name": "alder smoke, alder smoke, jelšový dym",
+      "sortOrder": 2,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.24.3",
+      "parentCategoryId": "2.5.6.2.24",
+      "name": "hardwood smoke, hardwood smoke, dym z tvrdého dreva",
+      "sortOrder": 3,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.24.4",
+      "parentCategoryId": "2.5.6.2.24",
+      "name": "cold smoke, cold smoke, studený dym",
+      "sortOrder": 4,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.24.5",
+      "parentCategoryId": "2.5.6.2.24",
+      "name": "open fire, open fire, otvorený oheň",
+      "sortOrder": 5,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.24.6",
+      "parentCategoryId": "2.5.6.2.24",
+      "name": "Beech wood",
+      "sortOrder": 6,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.24.7",
+      "parentCategoryId": "2.5.6.2.24",
+      "name": "Alder wood",
+      "sortOrder": 7,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.24.8",
+      "parentCategoryId": "2.5.6.2.24",
+      "name": "Spruce wood",
+      "sortOrder": 8,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.24.9",
+      "parentCategoryId": "2.5.6.2.24",
+      "name": "Juniper branches",
+      "sortOrder": 9,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    },
+    {
+      "id": "2.5.6.2.24.10",
+      "parentCategoryId": "2.5.6.2.24",
+      "name": "Charcoal",
+      "sortOrder": 10,
+      "aliases": [],
+      "tags": [],
+      "importanceTags": [],
+      "notes": null
+    }
+  ]
 }
