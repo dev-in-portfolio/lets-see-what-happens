@@ -4,6 +4,8 @@ import json
 import re
 from pathlib import Path
 
+from ingredient_file_paths import ingredient_json_path
+
 
 ROOT = Path(__file__).resolve().parents[1]
 INGREDIENTS_DIR = ROOT / "ingredients"
@@ -57,12 +59,13 @@ def parse_category_blocks(text: str) -> dict[str, list[str]]:
 
 
 def load_region_file(build_unit_id: str) -> dict:
-    path = INGREDIENTS_DIR / f"{build_unit_id}.json"
+    path = ingredient_json_path(INGREDIENTS_DIR, build_unit_id)
     return json.loads(path.read_text(encoding="utf-8"))
 
 
 def write_region_file(build_unit_id: str, payload: dict) -> None:
-    path = INGREDIENTS_DIR / f"{build_unit_id}.json"
+    path = ingredient_json_path(INGREDIENTS_DIR, build_unit_id)
+    path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
 

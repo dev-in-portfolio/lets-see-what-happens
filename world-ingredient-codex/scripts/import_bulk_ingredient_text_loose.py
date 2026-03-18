@@ -6,6 +6,8 @@ import re
 from collections import OrderedDict
 from pathlib import Path
 
+from ingredient_file_paths import ingredient_json_path
+
 
 ROOT = Path(__file__).resolve().parents[1]
 INGREDIENTS_DIR = ROOT / "ingredients"
@@ -87,7 +89,7 @@ def parse_input(text: str) -> dict[str, dict]:
 
 
 def load_existing_build_unit_name(build_unit_id: str) -> str | None:
-    path = INGREDIENTS_DIR / f"{build_unit_id}.json"
+    path = ingredient_json_path(INGREDIENTS_DIR, build_unit_id)
     if not path.exists():
         return None
     try:
@@ -145,7 +147,9 @@ def main() -> None:
         out_payload = build_payload(build_unit_id, build_unit_name, categories)
         action = "wrote" if args.write else "would_write"
         if args.write:
-            write_json(INGREDIENTS_DIR / f"{build_unit_id}.json", out_payload)
+            path = ingredient_json_path(INGREDIENTS_DIR, build_unit_id)
+            path.parent.mkdir(parents=True, exist_ok=True)
+            write_json(path, out_payload)
         print(
             f"{action} {build_unit_id}.json categories={len(categories)} entries={len(out_payload['entries'])}"
         )

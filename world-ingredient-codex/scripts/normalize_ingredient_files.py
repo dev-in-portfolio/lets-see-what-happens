@@ -4,6 +4,8 @@ import json
 import re
 from pathlib import Path
 
+from ingredient_file_paths import find_ingredient_json_files, ingredient_json_path
+
 
 ROOT = Path(__file__).resolve().parents[1]
 INGREDIENTS_DIR = ROOT / "ingredients"
@@ -44,7 +46,7 @@ def main() -> None:
     deleted = 0
     cleaned_entries = 0
 
-    for path in sorted(INGREDIENTS_DIR.glob("*.json")):
+    for path in find_ingredient_json_files(INGREDIENTS_DIR):
         payload = json.loads(path.read_text(encoding="utf-8"))
         stem = path.stem
         expected_name = expected.get(stem)
@@ -75,9 +77,10 @@ def main() -> None:
             renamed += 1
 
     for build_unit_id, build_unit_name in sorted(expected.items()):
-        path = INGREDIENTS_DIR / f"{build_unit_id}.json"
+        path = ingredient_json_path(INGREDIENTS_DIR, build_unit_id)
         if path.exists():
             continue
+        path.parent.mkdir(parents=True, exist_ok=True)
         write_json(
             path,
             {

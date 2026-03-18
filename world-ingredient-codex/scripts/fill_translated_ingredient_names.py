@@ -9,6 +9,8 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
+from ingredient_file_paths import find_ingredient_json_files
+
 
 ROOT = Path(__file__).resolve().parents[1]
 INGREDIENTS_DIR = ROOT / "ingredients"
@@ -71,7 +73,7 @@ def fetch_translation(name: str, retries: int = 5) -> dict[str, str]:
 
 
 def collect_names() -> tuple[list[Path], list[str]]:
-    files = sorted(INGREDIENTS_DIR.glob("*.json"))
+    files = find_ingredient_json_files(INGREDIENTS_DIR)
     names: set[str] = set()
     for path in files:
         payload = json.loads(path.read_text(encoding="utf-8"))

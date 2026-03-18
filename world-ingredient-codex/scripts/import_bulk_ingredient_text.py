@@ -5,6 +5,8 @@ import json
 import re
 from pathlib import Path
 
+from ingredient_file_paths import ingredient_json_path
+
 
 ROOT = Path(__file__).resolve().parents[1]
 INGREDIENTS_DIR = ROOT / "ingredients"
@@ -161,7 +163,9 @@ def main() -> None:
         entry_count = len(payload["entries"])
         summaries.append((build_unit_id, category_count, entry_count))
         if args.write:
-            write_json(INGREDIENTS_DIR / f"{build_unit_id}.json", payload)
+            path = ingredient_json_path(INGREDIENTS_DIR, build_unit_id)
+            path.parent.mkdir(parents=True, exist_ok=True)
+            write_json(path, payload)
 
     print(f"touched_build_units={len(summaries)}")
     for build_unit_id, category_count, entry_count in summaries:

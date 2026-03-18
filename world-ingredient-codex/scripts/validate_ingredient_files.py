@@ -6,6 +6,8 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
+from ingredient_file_paths import find_ingredient_json_files
+
 
 ROOT = Path(__file__).resolve().parents[1]
 INGREDIENTS_DIR = ROOT / "ingredients"
@@ -181,7 +183,7 @@ def main() -> None:
     args = parser.parse_args()
 
     expected_build_units, expected_categories = load_hierarchy()
-    file_paths = sorted(INGREDIENTS_DIR.glob("*.json"))
+    file_paths = find_ingredient_json_files(INGREDIENTS_DIR)
     issues: list[str] = []
 
     if not args.loose:
