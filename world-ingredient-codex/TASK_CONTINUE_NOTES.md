@@ -50,3 +50,43 @@
   - `1.2.7.1` through `1.2.7.6`
 - Post-import validation passed with:
   - `python3 scripts/validate_ingredient_files.py --loose`
+
+## Flavor-Bible WIP (Continuation)
+
+- JSON schema added at:
+  - `schemas/ingredient-codex-flavor-bible.schema.json`
+- New generation scripts added:
+  - `scripts/generate_flavor_bible_entries_from_az.py`
+  - `scripts/clean_and_generate_flavor_bible_entries.py`
+  - `scripts/build_flavor_bible_entries.py`
+- Current output directories:
+  - `ingredients/a-z/` (per-ingredient folders with `name.txt`, `variations.txt`, `expansions.txt`, `ids.txt`)
+  - `flavor_bible_entries/a-z/` (schema-style JSON entries generated from core data)
+
+### Current quality status
+
+- Flavor-Bible entries are populated with real structural data:
+  - primary names, IDs, variations, expansions, inferred category, and frequency-derived pairing candidates.
+- Deep narrative/culinary fields are still scaffold-level and need curation.
+- Some contamination cleanup remains needed for heading-like pseudo-ingredients in legacy source data.
+
+### Resume commands
+
+1. Rebuild/refresh flavor entries:
+   - `python3 scripts/build_flavor_bible_entries.py`
+2. Spot-check generated output:
+   - `find flavor_bible_entries/a-z -type f -name '*.json' | head -n 5`
+3. Check summary:
+   - `cat flavor_bible_entries/a-z/SUMMARY.json`
+
+## Seamless handoff checklist
+
+1. Confirm branch and cleanliness:
+   - `git branch --show-current`
+   - `git status --short`
+2. Verify generated entry count:
+   - `wc -l flavor_bible_entries/a-z/INDEX_ALL.txt`
+3. Search for heading/location contamination to clean next:
+   - `rg -n "\"primary_name\": \"[0-9]+\\." flavor_bible_entries/a-z | head`
+4. After cleanup pass, rebuild summary/index if needed and commit:
+   - `python3 scripts/build_flavor_bible_entries.py`

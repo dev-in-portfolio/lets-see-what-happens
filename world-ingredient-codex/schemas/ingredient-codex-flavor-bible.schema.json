@@ -1,0 +1,1073 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schemas/ingredient-codex-flavor-bible.schema.json",
+  "title": "Flavor-Bible-Style Ingredient Codex Entry",
+  "description": "Schema for a pairing-first ingredient codex entry with standardized supporting fields.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "ingredient_name",
+    "quick_flavor_snapshot",
+    "star_pairings",
+    "complementary_ingredient_tree",
+    "complementary_flavor_tree",
+    "culinary_function",
+    "technique_compatibility",
+    "flavor_profile",
+    "metadata"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "default": "1.0.0"
+    },
+    "entry_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "ingredient_name": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "primary_name"
+      ],
+      "properties": {
+        "primary_name": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "alternate_names": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "regional_names": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "original_native_names": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "scientific_name": {
+          "type": "string"
+        },
+        "family": {
+          "type": "string"
+        },
+        "genus": {
+          "type": "string"
+        },
+        "species": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "subcategory": {
+          "type": "string"
+        }
+      }
+    },
+    "quick_flavor_snapshot": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "flavor_profile",
+        "intensity"
+      ],
+      "properties": {
+        "flavor_profile": {
+          "type": "string"
+        },
+        "aroma": {
+          "type": "string"
+        },
+        "texture": {
+          "type": "string"
+        },
+        "intensity": {
+          "$ref": "#/$defs/intensityEnum"
+        },
+        "character_words": {
+          "$ref": "#/$defs/stringArray"
+        }
+      }
+    },
+    "star_pairings": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "best_pairings": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "signature_combinations": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "surprise_pairings": {
+          "$ref": "#/$defs/pairingRefArray"
+        }
+      }
+    },
+    "complementary_ingredient_tree": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "herbs": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "spices": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "aromatics": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "vegetables": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "fruits": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "proteins": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "seafood": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "dairy": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "fats": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "acids_sour_elements": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "sweet_elements": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "starches_grains_bread": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "legumes_beans_pulses": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "nuts_seeds": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "fungi": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "fermented_aged_funky_elements": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "liquids_stocks_sauces": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "alcoholic_pairings": {
+          "$ref": "#/$defs/pairingRefArray"
+        }
+      }
+    },
+    "complementary_flavor_tree": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "paired_flavor_directions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/flavorDirectionEnum"
+          },
+          "uniqueItems": true
+        },
+        "best_flavor_relationships": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "enhances": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "balances": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "contrasts": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "bridges": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "rounds_out": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "cuts_through": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "deepens": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "brightens": {
+              "$ref": "#/$defs/stringArray"
+            }
+          }
+        }
+      }
+    },
+    "culinary_function": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "primary_functions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/functionEnum"
+          },
+          "uniqueItems": true
+        },
+        "role_in_dish": {
+          "$ref": "#/$defs/roleInDishEnum"
+        },
+        "best_uses_by_role": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "as_main_note": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "as_secondary_note": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "as_finishing_element": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "as_balancing_ingredient": {
+              "$ref": "#/$defs/stringArray"
+            }
+          }
+        }
+      }
+    },
+    "technique_compatibility": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "best_preparations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/preparationEnum"
+          },
+          "uniqueItems": true
+        },
+        "technique_notes": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "improves_when": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "weakens_when": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "becomes_sweeter_when": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "becomes_more_bitter_when": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "loses_aroma_when": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "best_finishing_method": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "best_long_cook_use": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "best_quick_cook_use": {
+              "$ref": "#/$defs/stringArray"
+            }
+          }
+        }
+      }
+    },
+    "traditional_uses": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "classic_uses": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "traditional_dish_examples": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "traditional_cuisine_associations": {
+          "$ref": "#/$defs/tagArray"
+        }
+      }
+    },
+    "modern_uses": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "contemporary_uses": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "modern_application_ideas": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "chef_driven_fusion_directions": {
+          "$ref": "#/$defs/stringArray"
+        }
+      }
+    },
+    "seasonality": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "peak_seasons": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/seasonEnum"
+          },
+          "uniqueItems": true
+        },
+        "secondary_seasons": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/seasonEnum"
+          },
+          "uniqueItems": true
+        },
+        "available_year_round": {
+          "type": "boolean"
+        },
+        "best_form_by_season": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/availabilityFormEnum"
+          },
+          "uniqueItems": true
+        },
+        "seasonal_notes": {
+          "$ref": "#/$defs/stringArray"
+        }
+      }
+    },
+    "identification_notes": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "appearance": {
+          "type": "string"
+        },
+        "colors": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "shape": {
+          "type": "string"
+        },
+        "size_range": {
+          "type": "string"
+        },
+        "surface_texture": {
+          "type": "string"
+        },
+        "interior_characteristics": {
+          "type": "string"
+        },
+        "ripe_vs_unripe_notes": {
+          "type": "string"
+        },
+        "common_look_alikes": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "how_to_identify_a_good_specimen": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "signs_of_age_damage_or_poor_quality": {
+          "$ref": "#/$defs/stringArray"
+        }
+      }
+    },
+    "description": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "general_description": {
+          "type": "string"
+        }
+      }
+    },
+    "flavor_profile": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "primary_tastes": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "secondary_tastes": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "aromatic_qualities": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "texture_impressions": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "raw_flavor": {
+          "type": "string"
+        },
+        "cooked_flavor": {
+          "type": "string"
+        },
+        "aftertaste_finish": {
+          "type": "string"
+        },
+        "volatility": {
+          "$ref": "#/$defs/volatilityEnum"
+        },
+        "persistence": {
+          "$ref": "#/$defs/persistenceEnum"
+        }
+      }
+    },
+    "tasting_notes": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "nose": {
+          "type": "string"
+        },
+        "first_taste": {
+          "type": "string"
+        },
+        "mid_palate": {
+          "type": "string"
+        },
+        "finish": {
+          "type": "string"
+        },
+        "mouthfeel": {
+          "type": "string"
+        },
+        "evolving_notes_with_cooking": {
+          "type": "string"
+        },
+        "pairing_impression": {
+          "type": "string"
+        }
+      }
+    },
+    "preparation_notes": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "how_to_prep": {
+          "type": "string"
+        },
+        "trim_peel_seed_wash_notes": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "part_used": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "part_discarded": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "common_cuts_forms": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "special_handling_notes": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "pre_treatment_if_needed": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "storage_before_prep": {
+          "type": "string"
+        },
+        "best_prep_for_strongest_flavor": {
+          "type": "string"
+        },
+        "best_prep_for_mildest_flavor": {
+          "type": "string"
+        }
+      }
+    },
+    "history": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "origin": {
+          "type": "string"
+        },
+        "historical_background": {
+          "type": "string"
+        },
+        "trade_or_migration_notes": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "important_cultural_spread": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "historical_culinary_role": {
+          "type": "string"
+        }
+      }
+    },
+    "cultural_regional_notes": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "important_regional_identities": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "ceremonial_or_symbolic_uses": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "social_associations": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "notable_regional_differences": {
+          "$ref": "#/$defs/stringArray"
+        }
+      }
+    },
+    "substitutions_and_analogs": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "best_direct_substitutes": {
+          "$ref": "#/$defs/substitutionRefArray"
+        },
+        "partial_substitutes": {
+          "$ref": "#/$defs/substitutionRefArray"
+        },
+        "emergency_substitutes": {
+          "$ref": "#/$defs/substitutionRefArray"
+        },
+        "what_changes_if_substituted": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/substitutionChangeEnum"
+          },
+          "uniqueItems": true
+        },
+        "not_recommended_substitutes": {
+          "$ref": "#/$defs/substitutionRefArray"
+        }
+      }
+    },
+    "cautions_limits": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "can_overpower": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "can_disappear_next_to": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "can_clash_with": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "overuse_risks": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "handling_cautions": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "allergen_or_toxicity_concerns": {
+          "$ref": "#/$defs/stringArray"
+        }
+      }
+    },
+    "best_dish_contexts": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "best_in": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/dishContextEnum"
+          },
+          "uniqueItems": true
+        },
+        "works_better_as": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/worksBetterAsEnum"
+          },
+          "uniqueItems": true
+        }
+      }
+    },
+    "pairing_logic_notes": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "why_it_pairs_well": {
+          "type": "string"
+        },
+        "what_it_brings_to_a_pairing": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "what_it_needs_from_a_partner": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "best_bridge_ingredients": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "best_contrast_ingredients": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "best_supporting_ingredients": {
+          "$ref": "#/$defs/pairingRefArray"
+        }
+      }
+    },
+    "short_reference_summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "in_one_line": {
+          "type": "string"
+        },
+        "best_with": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "best_techniques": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/preparationEnum"
+          },
+          "uniqueItems": true
+        },
+        "best_season": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/seasonEnum"
+          },
+          "uniqueItems": true
+        },
+        "avoid_pairing_with_excess": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "top_cuisines": {
+          "$ref": "#/$defs/tagArray"
+        }
+      }
+    },
+    "standardized_add_on_fields": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "protein_pairings": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "herb_pairings": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "spice_pairings": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "fat_pairings": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "acid_pairings": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "texture_pairings": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/texturePairingRef"
+          },
+          "uniqueItems": true
+        },
+        "cuisine_tags": {
+          "$ref": "#/$defs/tagArray"
+        },
+        "technique_tags": {
+          "$ref": "#/$defs/tagArray"
+        },
+        "bridge_ingredients": {
+          "$ref": "#/$defs/pairingRefArray"
+        },
+        "pairing_confidence_scale_used": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/pairingConfidenceEnum"
+          },
+          "uniqueItems": true,
+          "default": [
+            "classic",
+            "strong",
+            "good",
+            "experimental"
+          ]
+        },
+        "avoid_conflict_pairings": {
+          "$ref": "#/$defs/pairingRefArray"
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "last_updated"
+      ],
+      "properties": {
+        "source_notes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceRef"
+          }
+        },
+        "confidence_level": {
+          "type": "string",
+          "enum": [
+            "low",
+            "medium",
+            "high",
+            "verified"
+          ]
+        },
+        "last_updated": {
+          "type": "string",
+          "format": "date"
+        },
+        "editor_notes": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "version": {
+          "type": "string"
+        },
+        "disputed_or_regional_variation_notes": {
+          "$ref": "#/$defs/stringArray"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "nonEmptyString": {
+      "type": "string",
+      "minLength": 1
+    },
+    "stringArray": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/nonEmptyString"
+      },
+      "uniqueItems": true
+    },
+    "tag": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:_[a-z0-9]+)*$"
+    },
+    "tagArray": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/tag"
+      },
+      "uniqueItems": true
+    },
+    "intensityEnum": {
+      "type": "string",
+      "enum": [
+        "mild",
+        "medium",
+        "assertive",
+        "dominant"
+      ]
+    },
+    "seasonEnum": {
+      "type": "string",
+      "enum": [
+        "spring",
+        "summer",
+        "fall",
+        "winter",
+        "year_round"
+      ]
+    },
+    "pairingConfidenceEnum": {
+      "type": "string",
+      "enum": [
+        "classic",
+        "strong",
+        "good",
+        "experimental"
+      ]
+    },
+    "roleInDishEnum": {
+      "type": "string",
+      "enum": [
+        "lead",
+        "supporting",
+        "background",
+        "bridge",
+        "accent",
+        "structural"
+      ]
+    },
+    "functionEnum": {
+      "type": "string",
+      "enum": [
+        "aromatic",
+        "base",
+        "garnish",
+        "acid_source",
+        "fat_source",
+        "sweetness",
+        "bitterness",
+        "heat",
+        "thickener",
+        "emulsifier",
+        "binder",
+        "color",
+        "texture_contrast",
+        "umami_support",
+        "finishing_note"
+      ]
+    },
+    "preparationEnum": {
+      "type": "string",
+      "enum": [
+        "raw",
+        "blanched",
+        "steamed",
+        "sauteed",
+        "roasted",
+        "grilled",
+        "fried",
+        "braised",
+        "stewed",
+        "smoked",
+        "pickled",
+        "fermented",
+        "dried",
+        "powdered",
+        "infused",
+        "pureed",
+        "juiced",
+        "candied",
+        "preserved"
+      ]
+    },
+    "availabilityFormEnum": {
+      "type": "string",
+      "enum": [
+        "fresh",
+        "frozen",
+        "dried",
+        "preserved",
+        "cured"
+      ]
+    },
+    "flavorDirectionEnum": {
+      "type": "string",
+      "enum": [
+        "acidic",
+        "bitter",
+        "salty",
+        "sweet",
+        "umami",
+        "spicy",
+        "smoky",
+        "floral",
+        "herbal",
+        "nutty",
+        "creamy",
+        "fermented",
+        "roasted",
+        "bright",
+        "rich",
+        "cooling",
+        "sharp",
+        "savory",
+        "mineral",
+        "earthy"
+      ]
+    },
+    "volatilityEnum": {
+      "type": "string",
+      "enum": [
+        "low",
+        "medium",
+        "high"
+      ]
+    },
+    "persistenceEnum": {
+      "type": "string",
+      "enum": [
+        "short",
+        "medium",
+        "long"
+      ]
+    },
+    "substitutionChangeEnum": {
+      "type": "string",
+      "enum": [
+        "flavor",
+        "texture",
+        "color",
+        "aroma",
+        "moisture",
+        "cooking_time",
+        "intensity"
+      ]
+    },
+    "dishContextEnum": {
+      "type": "string",
+      "enum": [
+        "soups",
+        "stews",
+        "sauces",
+        "braises",
+        "roasts",
+        "salads",
+        "pickles",
+        "desserts",
+        "pastries",
+        "beverages",
+        "condiments",
+        "spreads",
+        "rice_dishes",
+        "noodle_dishes",
+        "grilled_dishes",
+        "charcuterie_cured_items"
+      ]
+    },
+    "worksBetterAsEnum": {
+      "type": "string",
+      "enum": [
+        "raw",
+        "cooked",
+        "finishing",
+        "infused",
+        "preserved",
+        "blended",
+        "crisp_element",
+        "soft_element"
+      ]
+    },
+    "pairingRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name"
+      ],
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "confidence": {
+          "$ref": "#/$defs/pairingConfidenceEnum"
+        },
+        "notes": {
+          "type": "string"
+        },
+        "cuisine_tags": {
+          "$ref": "#/$defs/tagArray"
+        },
+        "technique_tags": {
+          "$ref": "#/$defs/tagArray"
+        }
+      }
+    },
+    "pairingRefArray": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/pairingRef"
+      },
+      "uniqueItems": true
+    },
+    "texturePairingRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "texture",
+        "pairing_role"
+      ],
+      "properties": {
+        "texture": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "pairing_role": {
+          "type": "string",
+          "enum": [
+            "contrast",
+            "echo",
+            "support",
+            "soften",
+            "crisp_up",
+            "round_out"
+          ]
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "substitutionRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "substitution_type"
+      ],
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "substitution_type": {
+          "type": "string",
+          "enum": [
+            "direct",
+            "partial",
+            "emergency",
+            "not_recommended"
+          ]
+        },
+        "notes": {
+          "type": "string"
+        },
+        "changes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/substitutionChangeEnum"
+          },
+          "uniqueItems": true
+        }
+      }
+    },
+    "substitutionRefArray": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/substitutionRef"
+      },
+      "uniqueItems": true
+    },
+    "sourceRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "publisher": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "citation": {
+          "type": "string"
+        },
+        "accessed_date": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    }
+  }
+}
