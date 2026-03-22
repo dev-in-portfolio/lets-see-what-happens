@@ -1,8 +1,6 @@
 import "./style.css";
 
 const apiBase = import.meta.env.VITE_API_BASE || "";
-const AUTO_LOAD_LIMIT_BYTES = 12 * 1024 * 1024;
-
 const state = {
   collections: [],
   activeCollectionId: null,
@@ -47,12 +45,12 @@ app.innerHTML = `
       <div class="viewer-stage-wrap">
         <div class="viewer-stage">
           <img id="viewer-image" alt="" />
-          <div id="viewer-empty" class="viewer-empty">Image URL unavailable. Connect Backblaze credentials and request a signed URL.</div>
+          <div id="viewer-empty" class="viewer-empty">Image URL unavailable.</div>
         </div>
       </div>
       <section class="viewer-controls">
         <div class="control-group">
-          <button id="load-original" class="pill-action" type="button">Load original</button>
+          <button id="load-original" class="pill-action" type="button" hidden>Load original</button>
           <button id="rotate-left" class="pill-action" type="button">Rotate left</button>
           <button id="rotate-right" class="pill-action" type="button">Rotate right</button>
           <button id="save-rotation" class="pill-action pill-action-strong" type="button">Save preferred view</button>
@@ -157,7 +155,7 @@ const getAssetUrl = async (imageId) => {
   const response = await fetch(`${apiBase}/api/assets/${encodeURIComponent(imageId)}/url`);
   const payload = await response.json();
   if (!response.ok) {
-    throw new Error(payload.error || "Unable to request a signed URL.");
+    throw new Error(payload.error || "Unable to request an asset URL.");
   }
   const expiresAt = Number(payload.expiresAt) || Date.now() + 4 * 60 * 1000;
   state.imageUrlCache.set(imageId, { url: payload.url, expiresAt });
@@ -171,13 +169,13 @@ const loadViewerAsset = async (imageId) => {
   state.pendingViewerImageId = null;
   state.isLoadingAsset = true;
   elements.loadOriginal.disabled = true;
-  setViewerMessage(`Loading original file (${formatBytes(image.contentLength)}).`);
+  setViewerMessage(`Loading image (${formatBytes(image.contentLength)}).`);
 
   try {
     const url = await getAssetUrl(imageId);
     elements.viewerImage.src = url;
     elements.viewerEmpty.hidden = true;
-    setViewerMessage(`Original loaded. ${formatBytes(image.contentLength)} file.`);
+    setViewerMessage(`Image loaded. ${formatBytes(image.contentLength)} file.`);
   } catch (error) {
     elements.viewerImage.removeAttribute("src");
     elements.viewerEmpty.hidden = false;
@@ -281,6 +279,7 @@ const renderLanding = () => `
             <img class="logo-image" src="/logo.png" alt="Urban Hippie Art logo" width="1024" height="1024" loading="eager" decoding="async" />
           </div>
         </div>
+        <p class="collection-description">This lineup finally feels closer to the way the work was meant to be seen.</p>
       </div>
       <div class="hero-actions">
         <button class="pill-action pill-action-strong" type="button" data-nav-page="collections">Enter the archive</button>
@@ -353,6 +352,7 @@ const renderAboutPage = () => `
       <article class="about-card">
         <h3>How to read it</h3>
         <p>Not complete. Not final. Not arranged to impress. Some of these images are here because of screenshots of screenshots of screenshots. Some are here because they survived when others did not.</p>
+        <p>The latest lineup is closer to the original vision than the old folder names ever were.</p>
         <p>Rotate the work if you need to. The right angle is not guaranteed.</p>
       </article>
       <article class="about-card">
@@ -483,8 +483,8 @@ const openViewer = async (imageId) => {
   elements.viewerImage.alt = `${image.title}, ${image.provenanceNote}`;
   elements.viewerImage.removeAttribute("src");
   elements.viewerEmpty.hidden = true;
-  elements.loadOriginal.hidden = false;
-  elements.loadOriginal.disabled = false;
+  elements.loadOriginal.hidden = true;
+  elements.loadOriginal.disabled = true;
   renderViewerMeta(image);
   applyViewerTransform();
 
@@ -492,15 +492,7 @@ const openViewer = async (imageId) => {
     elements.viewer.showModal();
   }
 
-  if ((image.contentLength || 0) > AUTO_LOAD_LIMIT_BYTES) {
-    state.pendingViewerImageId = imageId;
-    elements.viewerEmpty.hidden = false;
-    elements.viewerEmpty.textContent = `This original is ${formatBytes(image.contentLength)}. Load it when you want it.`;
-    setViewerMessage("Large original held back to keep the archive responsive.");
-    return;
-  }
-
-  elements.viewerEmpty.textContent = "Image URL unavailable. Connect Backblaze credentials and request a signed URL.";
+  elements.viewerEmpty.textContent = "Image URL unavailable.";
   await loadViewerAsset(imageId);
   applyViewerTransform();
 };
