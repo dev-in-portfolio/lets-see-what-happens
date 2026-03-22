@@ -281,6 +281,7 @@ const renderLanding = () => `
             <img class="logo-image" src="/logo.png" alt="Urban Hippie Art logo" width="1024" height="1024" loading="eager" decoding="async" />
           </div>
         </div>
+        <p class="collection-description">This lineup is much closer to the way the work was meant to be seen.</p>
       </div>
       <div class="hero-actions">
         <button class="pill-action pill-action-strong" type="button" data-nav-page="collections">Enter the archive</button>
@@ -353,6 +354,7 @@ const renderAboutPage = () => `
       <article class="about-card">
         <h3>How to read it</h3>
         <p>Not complete. Not final. Not arranged to impress. Some of these images are here because of screenshots of screenshots of screenshots. Some are here because they survived when others did not.</p>
+        <p>The lineup now follows the vision more than the old folder names did.</p>
         <p>Rotate the work if you need to. The right angle is not guaranteed.</p>
       </article>
       <article class="about-card">

@@ -8,8 +8,11 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const imagesPath = path.join(__dirname, "data", "images.json");
 const collectionsPath = path.join(__dirname, "data", "collections.json");
 const distDir = path.join(__dirname, "dist");
+const storageRoot = path.join(__dirname, "storage");
+const publicRoot = path.join(storageRoot, "public");
 const port = Number(process.env.PORT || 8787);
 const isProduction = process.env.NODE_ENV === "production";
+const PUBLIC_MEDIA_PREFIX = "/media";
 const logoAsset = {
   id: "logo",
   backblazeKey: "Image drop/logo/file_00000000cc1c71f5b791d4bfd9d67c08.png",
@@ -89,8 +92,11 @@ const getMimeType = (filePath) => {
   if (ext === ".svg") return "image/svg+xml";
   if (ext === ".png") return "image/png";
   if (ext === ".jpg" || ext === ".jpeg") return "image/jpeg";
+  if (ext === ".webp") return "image/webp";
   return "application/octet-stream";
 };
+
+const getPublicUrlForKey = (assetKey) => `${PUBLIC_MEDIA_PREFIX}/${encodeURI(assetKey.replace(/\\/g, "/"))}`;
 
 const getBackblazeCredentials = () => {
   const keyId = process.env.B2_KEY_ID;
@@ -236,12 +242,36 @@ const serveStatic = async (req, res, pathname) => {
   }
 };
 
+const servePublicMedia = async (res, pathname) => {
+  const relativePath = pathname.slice(PUBLIC_MEDIA_PREFIX.length).replace(/^\/+/, "");
+  const filePath = path.join(publicRoot, relativePath);
+  if (!filePath.startsWith(publicRoot)) return false;
+
+  try {
+    const file = await readFile(filePath);
+    res.writeHead(200, {
+      "Content-Type": getMimeType(filePath),
+      "Cache-Control": "public, max-age=31536000, immutable",
+    });
+    res.end(file);
+    return true;
+  } catch {
+    return false;
+  }
+};
+
 await loadDotEnv();
 
 const server = createServer(async (req, res) => {
   try {
     const url = new URL(req.url || "/", `http://${req.headers.host || "localhost"}`);
     const { pathname } = url;
+
+    if (req.method === "GET" && pathname.startsWith(`${PUBLIC_MEDIA_PREFIX}/`)) {
+      const served = await servePublicMedia(res, pathname);
+      if (served) return undefined;
+      return sendText(res, 404, "Not found");
+    }
 
     if (req.method === "GET" && pathname === "/api/health") {
       return sendJson(res, 200, { ok: true });
@@ -310,6 +340,15 @@ const server = createServer(async (req, res) => {
       const image = images.find((item) => item.id === assetParams.id);
       if (!image) return sendJson(res, 404, { error: "Image not found" });
 
+      if (image.watermarkedKey) {
+        return sendJson(res, 200, {
+          id: image.id,
+          url: getPublicUrlForKey(image.watermarkedKey),
+          expiresAt: Date.now() + 24 * 60 * 60 * 1000,
+          visibility: "public-watermarked",
+        });
+      }
+
       try {
         const target = getImageStorageTarget(image);
         const signed = await getDownloadAuthorization(target, image.backblazeKey);
@@ -332,6 +371,24 @@ const server = createServer(async (req, res) => {
       const images = await getImages();
       const image = images.find((item) => item.id === previewParams.id);
       if (!image) return sendJson(res, 404, { error: "Image not found" });
+
+      if (image.thumbKey) {
+        res.writeHead(302, {
+          Location: getPublicUrlForKey(image.thumbKey),
+          "Cache-Control": "no-store",
+        });
+        res.end();
+        return undefined;
+      }
+
+      if (image.watermarkedKey) {
+        res.writeHead(302, {
+          Location: getPublicUrlForKey(image.watermarkedKey),
+          "Cache-Control": "no-store",
+        });
+        res.end();
+        return undefined;
+      }
 
       try {
         const target = getImageStorageTarget(image);
